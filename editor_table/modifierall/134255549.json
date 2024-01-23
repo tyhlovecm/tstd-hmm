@@ -1,0 +1,102 @@
+{
+    "_custom_": true, 
+    "_ref_": 134255549, 
+    "attach_model_list": "", 
+    "cycle_time": 0, 
+    "description": -2029737261, 
+    "disappear_when_dead": true, 
+    "get_effect_list": [
+        [
+            102933, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            1.0, 
+            "origin", 
+            false, 
+            0
+        ]
+    ], 
+    "halo_effect": 0, 
+    "ign_inf_unit_tag": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "ign_inf_unit_type": 2, 
+    "inf_unit_tag": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "influence_rng": 0, 
+    "is_influence_self": true, 
+    "key": 134255549, 
+    "kv": {
+        "SpeedUp": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "SpeedUp", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "type": 1, 
+            "value": 25.0
+        }
+    }, 
+    "layer_change_of_cover": 2, 
+    "layer_max": 1, 
+    "lose_effect_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "material_alpha": 1.0, 
+    "material_change": 4, 
+    "material_color": [
+        28, 
+        60, 
+        204
+    ], 
+    "material_color_intensity": 1.0, 
+    "modifier_cover_type": 3, 
+    "modifier_effect": 3, 
+    "modifier_icon": 106955, 
+    "modifier_type": 1, 
+    "name": -2029373100, 
+    "same_origin_cover": false, 
+    "shield_change_of_cover": 2, 
+    "shield_type": 1, 
+    "shield_value": 0.0, 
+    "show_on_ui": true, 
+    "sound_event_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "target_allow": 1, 
+    "time_change_of_cover": 2, 
+    "uid": "134255549"
+}

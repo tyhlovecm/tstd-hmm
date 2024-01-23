@@ -1,0 +1,190 @@
+{
+    "_custom_": true, 
+    "_ref_": 134228346, 
+    "attach_model_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "cycle_time": 0, 
+    "description": 616264367, 
+    "disappear_when_dead": true, 
+    "get_effect_list": [
+        [
+            103158, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    2.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    90.0, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    0.8, 
+                    1.5
+                ]
+            }, 
+            0.8, 
+            "left_weapon", 
+            false, 
+            0
+        ], 
+        [
+            103158, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1.7, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    90.0, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    0.8, 
+                    1.5
+                ]
+            }, 
+            0.8, 
+            "right_weapon", 
+            false, 
+            0
+        ], 
+        [
+            103466, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -0.35000000000000003, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    2.0, 
+                    2.0, 
+                    2.0
+                ]
+            }, 
+            0.7, 
+            "root", 
+            false, 
+            0
+        ], 
+        [
+            102980, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.2, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    3.0, 
+                    3.0, 
+                    3.0
+                ]
+            }, 
+            0.65, 
+            "Body", 
+            false, 
+            0
+        ]
+    ], 
+    "halo_effect": 0, 
+    "ign_inf_unit_tag": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "ign_inf_unit_type": 2, 
+    "inf_unit_tag": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "influence_rng": 0, 
+    "is_influence_self": true, 
+    "key": 134228346, 
+    "kv": {}, 
+    "layer_change_of_cover": 2, 
+    "layer_max": 1, 
+    "lose_effect_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "material_alpha": 0, 
+    "material_change": 0, 
+    "material_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255
+        ]
+    }, 
+    "material_color_intensity": 0, 
+    "modifier_cover_type": 3, 
+    "modifier_effect": 2, 
+    "modifier_icon": 109444, 
+    "modifier_type": 1, 
+    "name": -1436158324, 
+    "same_origin_cover": true, 
+    "shield_change_of_cover": 2, 
+    "shield_type": 1, 
+    "shield_value": 0.0, 
+    "show_on_ui": true, 
+    "sound_event_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "target_allow": 1, 
+    "time_change_of_cover": 2, 
+    "uid": "134228346"
+}

@@ -1,0 +1,5652 @@
+{
+    "local_variable": {
+        "9355431": {
+            "variable_dict": {
+                "FLOAT": {
+                    "v": 0.0
+                }, 
+                "INTEGER": {
+                    "wjid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "v": 0, 
+                "wjid": 0
+            }
+        }, 
+        "18006180": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "break": false
+                }, 
+                "INTEGER": {
+                    "loop": 0, 
+                    "wjid": 0
+                }, 
+                "PLAYER": {
+                    "wj": 0
+                }, 
+                "PLAYER_GROUP": {
+                    "\u73a9\u5bb6\u7ec4": []
+                }
+            }, 
+            "variable_length_dict": {
+                "break": 0, 
+                "loop": 0, 
+                "wj": 0, 
+                "wjid": 0, 
+                "\u73a9\u5bb6\u7ec4": 0
+            }
+        }, 
+        "24555815": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "is_show": false
+                }, 
+                "INTEGER": {
+                    "cond": 0, 
+                    "i": 0, 
+                    "left_num": 0, 
+                    "wj_num": 0, 
+                    "\u6574\u65701": 0, 
+                    "\u6dd8\u6c70\u6570\u91cf": 0
+                }, 
+                "NEW_TIMER": {}, 
+                "PLAYER": {
+                    "wj": 0
+                }, 
+                "PLAYER_GROUP": {
+                    "wjz": []
+                }, 
+                "UNIT_ENTITY": {
+                    "dArr": 0, 
+                    "danwei": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "cond": 0, 
+                "dArr": 10, 
+                "danwei": 0, 
+                "i": 0, 
+                "is_show": 0, 
+                "left_num": 0, 
+                "wj": 0, 
+                "wj_num": 0, 
+                "wjz": 0, 
+                "\u6574\u65701": 0, 
+                "\u6dd8\u6c70\u6570\u91cf": 0
+            }
+        }, 
+        "47644957": {
+            "variable_dict": {
+                "INTEGER": {
+                    "loop": 0, 
+                    "wjid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "loop": 0, 
+                "wjid": 0
+            }
+        }, 
+        "55550215": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "\u5b58\u5728\u8be5\u7269\u54c1": false
+                }, 
+                "FLOAT": {
+                    "\u5c5e\u6027\u503c": 0.0
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "j": 0, 
+                    "\u529f\u6cd5\u7c7b\u578b": 0, 
+                    "\u5f53\u524d\u529f\u6cd5\u6570\u91cf": 0
+                }, 
+                "ITEM_NAME": {
+                    "\u5f53\u524d\u529f\u6cd5": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u5165\u53c2\u540d\u79f0": "", 
+                    "\u5177\u4f53\u529f\u6cd5\u540d\u79f0": "", 
+                    "\u529f\u6cd5\u524d\u7f00": "", 
+                    "\u5c5e\u6027\u540d\u79f0\u5217\u8868": "", 
+                    "\u5c5e\u6027\u540e\u7f00": "", 
+                    "\u5f53\u524d\u529f\u6cd5\u540d\u79f0": "", 
+                    "\u904d\u5386\u7269\u54c1\u7c7b\u578b\u540d\u79f0": "", 
+                    "\u9762\u677f\u63cf\u8ff0": ""
+                }, 
+                "TABLE": {
+                    "\u73a9\u5bb6\u529f\u6cd5\u4f7f\u7528\u8868": null
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "j": 0, 
+                "\u5165\u53c2\u540d\u79f0": 0, 
+                "\u5177\u4f53\u529f\u6cd5\u540d\u79f0": 0, 
+                "\u529f\u6cd5\u524d\u7f00": 0, 
+                "\u529f\u6cd5\u7c7b\u578b": 0, 
+                "\u5b58\u5728\u8be5\u7269\u54c1": 0, 
+                "\u5c5e\u6027\u503c": 10, 
+                "\u5c5e\u6027\u540d\u79f0\u5217\u8868": 10, 
+                "\u5c5e\u6027\u540e\u7f00": 10, 
+                "\u5f53\u524d\u529f\u6cd5": 0, 
+                "\u5f53\u524d\u529f\u6cd5\u540d\u79f0": 0, 
+                "\u5f53\u524d\u529f\u6cd5\u6570\u91cf": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u73a9\u5bb6\u529f\u6cd5\u4f7f\u7528\u8868": 0, 
+                "\u904d\u5386\u7269\u54c1\u7c7b\u578b\u540d\u79f0": 0, 
+                "\u9762\u677f\u63cf\u8ff0": 10
+            }
+        }, 
+        "60645575": {
+            "variable_dict": {
+                "FLOAT": {
+                    "dis": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "dis": 0
+            }
+        }, 
+        "61431974": {
+            "variable_dict": {
+                "PLAYER": {
+                    "wj": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "wj": 0
+            }
+        }, 
+        "67579967": {
+            "variable_dict": {
+                "FLOAT": {
+                    "x\u5750\u6807": 0.0, 
+                    "y\u5750\u6807": 0.0
+                }, 
+                "UI_COMP": {
+                    "\u754c\u9762": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "x\u5750\u6807": 0, 
+                "y\u5750\u6807": 0, 
+                "\u754c\u9762": 0
+            }
+        }, 
+        "83476728": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "jzsk": 0
+                }, 
+                "BOOLEAN": {}, 
+                "FLOAT": {
+                    "\u91d1\u5e01": 0.0
+                }, 
+                "INTEGER": {
+                    "cishu": 0, 
+                    "i": 0, 
+                    "n": 0, 
+                    "online_num": 0, 
+                    "price": 0, 
+                    "wjid": 0, 
+                    "zyid": 0, 
+                    "\u6574\u65702": 0, 
+                    "\u6700\u5927\u804c\u4e1a\u6570": 0, 
+                    "\u6ce2\u6b21": 0, 
+                    "\u968f\u673a\u89d2\u8272id": 0
+                }, 
+                "PLAYER": {
+                    "wj": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "danwei": 0
+                }, 
+                "UNIT_NAME": {
+                    "own_danwei": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "cishu": 0, 
+                "danwei": 10, 
+                "i": 0, 
+                "jzsk": 0, 
+                "n": 0, 
+                "online_num": 0, 
+                "own_danwei": 0, 
+                "price": 0, 
+                "wj": 0, 
+                "wjid": 0, 
+                "zyid": 0, 
+                "\u6574\u65702": 0, 
+                "\u6700\u5927\u804c\u4e1a\u6570": 0, 
+                "\u6ce2\u6b21": 0, 
+                "\u91d1\u5e01": 0, 
+                "\u968f\u673a\u89d2\u8272id": 0
+            }
+        }, 
+        "99660015": {
+            "variable_dict": {
+                "FLOAT": {
+                    "fd": 0.0, 
+                    "jd": 0.0, 
+                    "\u884c\u56ca\u754c\u9762\u5f53\u524d\u8fdb\u5ea6": 0.0
+                }, 
+                "INTEGER": {
+                    "i": 0
+                }, 
+                "ITEM_NAME": {
+                    "\u5f53\u524d\u7269\u54c1": 0
+                }, 
+                "NEW_TIMER": {
+                    "\u884c\u56ca\u754c\u9762\u8ba1\u65f6\u5668": -1
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u6b63\u5728\u4f7f\u7528\u7684\u7269\u54c1": ""
+                }, 
+                "UI_COMP": {
+                    "tempP": "", 
+                    "\u786e\u8ba4\u9762\u677f": ""
+                }, 
+                "UI_PREFAB_INSTANCE": {
+                    "temp": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "fd": 0, 
+                "i": 0, 
+                "jd": 0, 
+                "temp": 0, 
+                "tempP": 0, 
+                "\u5f53\u524d\u7269\u54c1": 0, 
+                "\u6b63\u5728\u4f7f\u7528\u7684\u7269\u54c1": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u786e\u8ba4\u9762\u677f": 0, 
+                "\u884c\u56ca\u754c\u9762\u5f53\u524d\u8fdb\u5ea6": 0, 
+                "\u884c\u56ca\u754c\u9762\u8ba1\u65f6\u5668": 0
+            }
+        }, 
+        "132288546": {
+            "variable_dict": {
+                "ABILITY": {
+                    "skill": null
+                }, 
+                "BOOLEAN": {
+                    "boolean": false, 
+                    "is_shop_tips": false
+                }, 
+                "ITEM_ENTITY": {
+                    "item": 0
+                }, 
+                "ITEM_NAME": {
+                    "item_type": 0
+                }, 
+                "MODIFIER_ENTITY": {
+                    "modifier": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "STRING": {}
+            }, 
+            "variable_length_dict": {
+                "boolean": 0, 
+                "is_shop_tips": 0, 
+                "item": 0, 
+                "item_type": 0, 
+                "modifier": 0, 
+                "player": 0, 
+                "skill": 0
+            }
+        }, 
+        "138776775": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "jnlx": 0, 
+                    "jzsk": 0
+                }, 
+                "FLOAT": {
+                    "food": 0.0, 
+                    "gold": 0.0
+                }, 
+                "INTEGER": {
+                    "codeIndex": 0, 
+                    "i": 0, 
+                    "index1": 0, 
+                    "index2": 0, 
+                    "mI": 0, 
+                    "zyid": 0
+                }, 
+                "STRING": {
+                    "crcs": ""
+                }, 
+                "UNIT_NAME": {
+                    "uid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "codeIndex": 0, 
+                "crcs": 0, 
+                "food": 0, 
+                "gold": 0, 
+                "i": 0, 
+                "index1": 0, 
+                "index2": 0, 
+                "jnlx": 10, 
+                "jzsk": 0, 
+                "mI": 0, 
+                "uid": 0, 
+                "zyid": 0
+            }
+        }, 
+        "201797702": {
+            "variable_dict": {
+                "PLAYER": {
+                    "wj": 0
+                }, 
+                "STRING": {
+                    "a": ""
+                }, 
+                "UI_COMP": {
+                    "f": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "a": 0, 
+                "f": 0, 
+                "wj": 0
+            }
+        }, 
+        "218574907": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u900f\u660e\u5ea6": 0.0
+                }, 
+                "UI_COMP": {
+                    "\u754c\u9762": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "\u754c\u9762": 0, 
+                "\u900f\u660e\u5ea6": 0
+            }
+        }, 
+        "235352122": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "sk": 0
+                }, 
+                "FLOAT": {
+                    "gj": 0.0, 
+                    "mf": 0.0, 
+                    "mfz": 0.0
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "n": 0
+                }, 
+                "ITEM_ENTITY": {
+                    "it": 0
+                }, 
+                "PLAYER": {
+                    "wj": 0
+                }, 
+                "POINT": {
+                    "p": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "UNIT_ENTITY": {
+                    "u": 0, 
+                    "u2": 0, 
+                    "uxs": 0, 
+                    "\u5355\u4f4d": 0
+                }, 
+                "UNIT_NAME": {
+                    "\u664b\u5347\u7c7b\u578b": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "gj": 0, 
+                "i": 0, 
+                "it": 10, 
+                "mf": 0, 
+                "mfz": 0, 
+                "n": 0, 
+                "p": 0, 
+                "sk": 0, 
+                "u": 0, 
+                "u2": 0, 
+                "uxs": 0, 
+                "wj": 0, 
+                "\u5355\u4f4d": 0, 
+                "\u664b\u5347\u7c7b\u578b": 0
+            }
+        }, 
+        "241979661": {
+            "variable_dict": {
+                "INTEGER": {
+                    "n": 0, 
+                    "wjid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "n": 0, 
+                "wjid": 0
+            }
+        }, 
+        "257585425": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "p": 0
+                }, 
+                "UI_COMP": {
+                    "Frame": "", 
+                    "Framed": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "Frame": 10, 
+                "Framed": 10, 
+                "i": 0, 
+                "p": 0
+            }
+        }, 
+        "270827810": {
+            "variable_dict": {
+                "FLOAT": {
+                    "rk": 0.0
+                }, 
+                "INTEGER": {
+                    "cs": 0, 
+                    "i": 0, 
+                    "wjid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "cs": 0, 
+                "i": 0, 
+                "rk": 0, 
+                "wjid": 0
+            }
+        }, 
+        "348541178": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "\u5b58\u5728\u8be5\u7269\u54c1": false
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "\u5f53\u524d\u529f\u6cd5\u6570\u91cf": 0, 
+                    "\u65b0\u4e0b\u6807": 0
+                }, 
+                "ITEM_NAME": {
+                    "\u529f\u6cd5\u7269\u54c1\u7c7b\u578b": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u5165\u53c2\u540d\u79f0": "", 
+                    "\u5177\u4f53\u529f\u6cd5\u540d\u79f0": "", 
+                    "\u904d\u5386\u7269\u54c1\u7c7b\u578b\u540d\u79f0": ""
+                }, 
+                "TABLE": {
+                    "\u73a9\u5bb6\u529f\u6cd5\u9053\u5177\u8868": null
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "\u5165\u53c2\u540d\u79f0": 0, 
+                "\u5177\u4f53\u529f\u6cd5\u540d\u79f0": 0, 
+                "\u529f\u6cd5\u7269\u54c1\u7c7b\u578b": 0, 
+                "\u5b58\u5728\u8be5\u7269\u54c1": 0, 
+                "\u5f53\u524d\u529f\u6cd5\u6570\u91cf": 0, 
+                "\u65b0\u4e0b\u6807": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u73a9\u5bb6\u529f\u6cd5\u9053\u5177\u8868": 0, 
+                "\u904d\u5386\u7269\u54c1\u7c7b\u578b\u540d\u79f0": 0
+            }
+        }, 
+        "374559004": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "flag": false, 
+                    "flag1": false
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "loop1": 0, 
+                    "loop2": 0, 
+                    "n": 0, 
+                    "sj_id": 0, 
+                    "\u6574\u6570": 0, 
+                    "\u6d3b\u7740\u7684\u751f\u7269\u5355\u4f4d\u6570\u91cf": 0
+                }, 
+                "ITEM_NAME": {
+                    "wp": 0
+                }, 
+                "PLAYER": {
+                    "wj": 0
+                }, 
+                "PLAYER_GROUP": {}, 
+                "RECTANGLE": {
+                    "quyu": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "dArr": 0, 
+                    "danwei": 0
+                }, 
+                "UNIT_NAME": {
+                    "dw_type": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "dArr": 10, 
+                "danwei": 0, 
+                "dw_type": 0, 
+                "flag": 0, 
+                "flag1": 0, 
+                "i": 0, 
+                "loop1": 0, 
+                "loop2": 0, 
+                "n": 0, 
+                "quyu": 0, 
+                "sj_id": 0, 
+                "wj": 0, 
+                "wp": 0, 
+                "\u6574\u6570": 0, 
+                "\u6d3b\u7740\u7684\u751f\u7269\u5355\u4f4d\u6570\u91cf": 0
+            }
+        }, 
+        "379642106": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "jzsk": 0
+                }, 
+                "FLOAT": {
+                    "food": 0.0, 
+                    "gold": 0.0
+                }, 
+                "INTEGER": {
+                    "zyid": 0
+                }, 
+                "UNIT_NAME": {
+                    "uid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "food": 0, 
+                "gold": 0, 
+                "jzsk": 0, 
+                "uid": 0, 
+                "zyid": 0
+            }
+        }, 
+        "387018960": {
+            "variable_dict": {
+                "FLOAT": {
+                    "fd": 0.0, 
+                    "jd": 0.0, 
+                    "\u5175\u79cd\u76ae\u80a4\u5f53\u524d\u8fdb\u5ea6": 0.0
+                }, 
+                "NEW_TIMER": {
+                    "\u5175\u79cd\u76ae\u80a4\u8ba1\u65f6\u5668": -1
+                }, 
+                "STRING": {
+                    "cs": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "cs": 0, 
+                "fd": 0, 
+                "jd": 0, 
+                "\u5175\u79cd\u76ae\u80a4\u5f53\u524d\u8fdb\u5ea6": 0, 
+                "\u5175\u79cd\u76ae\u80a4\u8ba1\u65f6\u5668": 0
+            }
+        }, 
+        "394285276": {
+            "variable_dict": {
+                "BOOLEAN": {}
+            }, 
+            "variable_length_dict": {}
+        }, 
+        "409940199": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "itemX": 0, 
+                    "itemY": 0, 
+                    "\u4efb\u52a1\u4e3b\u516c\u7c7b\u578b": 0, 
+                    "\u4efb\u52a1\u5339\u914d\u6a21\u5f0f": 0, 
+                    "\u5185\u5faa\u73af\u6570\u503c": 0, 
+                    "\u5916\u5faa\u73af\u6b21\u6570": 0, 
+                    "\u5956\u52b1\u79ef\u5206": 0, 
+                    "\u5df2\u5b8c\u6210\u6b21\u6570": 0, 
+                    "\u8fbe\u6807\u6b21\u6570": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u63cf\u8ff0": ""
+                }, 
+                "UI_COMP": {
+                    "tempC": "", 
+                    "tempC2": "", 
+                    "tempC3": "", 
+                    "tempP": "", 
+                    "\u65e5\u5e38\u4efb\u52a1\u63a7\u4ef6": ""
+                }, 
+                "UI_PREFAB_INSTANCE": {
+                    "\u901a\u884c\u8bc1\u4efb\u52a1\u7ec4\u4ef6": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "itemX": 0, 
+                "itemY": 0, 
+                "tempC": 0, 
+                "tempC2": 0, 
+                "tempC3": 0, 
+                "tempP": 0, 
+                "\u4efb\u52a1\u4e3b\u516c\u7c7b\u578b": 10, 
+                "\u4efb\u52a1\u5339\u914d\u6a21\u5f0f": 10, 
+                "\u5185\u5faa\u73af\u6570\u503c": 0, 
+                "\u5916\u5faa\u73af\u6b21\u6570": 0, 
+                "\u5956\u52b1\u79ef\u5206": 10, 
+                "\u5df2\u5b8c\u6210\u6b21\u6570": 0, 
+                "\u63cf\u8ff0": 0, 
+                "\u65e5\u5e38\u4efb\u52a1\u63a7\u4ef6": 10, 
+                "\u73a9\u5bb6": 0, 
+                "\u8fbe\u6807\u6b21\u6570": 10, 
+                "\u901a\u884c\u8bc1\u4efb\u52a1\u7ec4\u4ef6": 10
+            }
+        }, 
+        "466170143": {
+            "variable_dict": {
+                "ANGLE": {
+                    "angle1": 0.0, 
+                    "angle2": 0.0, 
+                    "angle3": 0.0, 
+                    "\u89d2\u5ea6": 0.0
+                }, 
+                "FLOAT": {
+                    "\u5750\u6807x": 0.0, 
+                    "\u5750\u6807y": 0.0
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "index_num": 0, 
+                    "j": 0, 
+                    "k": 0, 
+                    "len": 0, 
+                    "loop": 0, 
+                    "loop1": 0, 
+                    "remain_num": 0, 
+                    "total": 0, 
+                    "wjid": 0, 
+                    "wjid_temp": 0, 
+                    "\u4eba\u6570": 0, 
+                    "\u51fa\u6765\u6570\u91cf": 0, 
+                    "\u5269\u4f59\u4eba\u6570": 0, 
+                    "\u529f\u52cb": 0, 
+                    "\u53d6\u5230\u4eba\u6570": 0, 
+                    "\u5faa\u73af1": 0, 
+                    "\u6574\u65701": 0
+                }, 
+                "NEW_TIMER": {}, 
+                "PLAYER": {
+                    "rankArr": 0, 
+                    "sjwj": 0, 
+                    "tempArr": 0, 
+                    "wj": 0, 
+                    "wjArr": 0
+                }, 
+                "PLAYER_GROUP": {
+                    "sjwjArr": []
+                }, 
+                "POINT": {
+                    "loc": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "startLoc": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "zjLoc": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {
+                    "str": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "n_danwei": 0, 
+                    "temp": 0, 
+                    "\u4e0a\u9635\u7ec4": 0, 
+                    "\u5efa\u7b51\u5355\u4f4d\u6570\u7ec4": 0
+                }, 
+                "UNIT_GROUP": {
+                    "dwz": [], 
+                    "\u73a9\u5bb6\u5efa\u7b51\u7ec4": []
+                }, 
+                "UNIT_NAME": {
+                    "\u751f\u7269\u5355\u4f4d\u7c7b\u578b\u6570\u7ec4": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "angle1": 10, 
+                "angle2": 10, 
+                "angle3": 10, 
+                "dwz": 0, 
+                "i": 0, 
+                "index_num": 0, 
+                "j": 0, 
+                "k": 0, 
+                "len": 0, 
+                "loc": 0, 
+                "loop": 0, 
+                "loop1": 0, 
+                "n_danwei": 0, 
+                "rankArr": 10, 
+                "remain_num": 10, 
+                "sjwj": 0, 
+                "sjwjArr": 0, 
+                "startLoc": 0, 
+                "str": 0, 
+                "temp": 0, 
+                "tempArr": 10, 
+                "total": 0, 
+                "wj": 0, 
+                "wjArr": 10, 
+                "wjid": 0, 
+                "wjid_temp": 0, 
+                "zjLoc": 0, 
+                "\u4e0a\u9635\u7ec4": 10, 
+                "\u4eba\u6570": 0, 
+                "\u51fa\u6765\u6570\u91cf": 0, 
+                "\u5269\u4f59\u4eba\u6570": 0, 
+                "\u529f\u52cb": 0, 
+                "\u53d6\u5230\u4eba\u6570": 0, 
+                "\u5750\u6807x": 0, 
+                "\u5750\u6807y": 0, 
+                "\u5efa\u7b51\u5355\u4f4d\u6570\u7ec4": 10, 
+                "\u5faa\u73af1": 0, 
+                "\u6574\u65701": 0, 
+                "\u73a9\u5bb6\u5efa\u7b51\u7ec4": 0, 
+                "\u751f\u7269\u5355\u4f4d\u7c7b\u578b\u6570\u7ec4": 10, 
+                "\u89d2\u5ea6": 0
+            }
+        }, 
+        "503767069": {
+            "variable_dict": {
+                "ITEM_ENTITY": {
+                    "item": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "item": 0, 
+                "player": 0
+            }
+        }, 
+        "517869832": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }, 
+                "PLAYER": {}
+            }, 
+            "variable_length_dict": {
+                "i": 0
+            }
+        }, 
+        "534593552": {
+            "variable_dict": {
+                "INTEGER": {
+                    "index": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "index": 0, 
+                "player": 0, 
+                "unit": 0
+            }
+        }, 
+        "564191471": {
+            "variable_dict": {
+                "ABILITY": {
+                    "skill": null
+                }, 
+                "ABILITY_NAME": {}, 
+                "FLOAT": {
+                    "\u57fa\u7840\u751f\u547d\u503c": 0.0, 
+                    "\u653b\u51fb\u529b": 0.0, 
+                    "\u6cd5\u672f\u653b\u51fb\u529b": 0.0, 
+                    "\u7269\u7406\u653b\u51fb\u529b": 0.0, 
+                    "\u79fb\u52a8\u901f\u5ea6": 0.0
+                }, 
+                "INTEGER": {
+                    "loop": 0
+                }, 
+                "NEW_TIMER": {}, 
+                "STRING": {
+                    "desc": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "danwei": 0
+                }, 
+                "UNIT_NAME": {}
+            }, 
+            "variable_length_dict": {
+                "danwei": 0, 
+                "desc": 0, 
+                "loop": 0, 
+                "skill": 0, 
+                "\u57fa\u7840\u751f\u547d\u503c": 0, 
+                "\u653b\u51fb\u529b": 0, 
+                "\u6cd5\u672f\u653b\u51fb\u529b": 0, 
+                "\u7269\u7406\u653b\u51fb\u529b": 0, 
+                "\u79fb\u52a8\u901f\u5ea6": 0
+            }
+        }, 
+        "568463368": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "player": 0, 
+                "t": 0, 
+                "unit": 0
+            }
+        }, 
+        "594301198": {
+            "variable_dict": {
+                "PLAYER": {
+                    "wj": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "wj": 0
+            }
+        }, 
+        "615575803": {
+            "variable_dict": {
+                "INTEGER": {
+                    "\u5916\u5faa\u73af\u6b21\u6570": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "UI_COMP": {
+                    "tempC": "", 
+                    "tempC2": "", 
+                    "tempC3": "", 
+                    "tempP": ""
+                }, 
+                "UI_PREFAB_INSTANCE": {
+                    "\u901a\u884c\u8bc1\u4efb\u52a1\u7ec4\u4ef6": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "tempC": 0, 
+                "tempC2": 0, 
+                "tempC3": 0, 
+                "tempP": 0, 
+                "\u5916\u5faa\u73af\u6b21\u6570": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u901a\u884c\u8bc1\u4efb\u52a1\u7ec4\u4ef6": 10
+            }
+        }, 
+        "625492163": {
+            "variable_dict": {
+                "ABILITY_NAME": {}, 
+                "INTEGER": {
+                    "i": 0, 
+                    "itemCount": 0, 
+                    "itemX": 0, 
+                    "itemY": 0, 
+                    "kjIndex": 0, 
+                    "length": 0, 
+                    "mI": 0, 
+                    "skinCount": 0, 
+                    "\u5e74": 0, 
+                    "\u5f53\u524d\u65e5\u671f": 0, 
+                    "\u65e5": 0, 
+                    "\u6708": 0, 
+                    "\u76ae\u80a4\u4f4d\u7f6e": 0, 
+                    "\u76ae\u80a4\u4f7f\u7528\u60c5\u51b5": 0, 
+                    "\u76ae\u80a4\u62e5\u6709\u60c5\u51b5": 0, 
+                    "\u9009\u4e2d\u82f1\u96c4\u4e0b\u6807": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "jnmc": "", 
+                    "\u4e3b\u516c\u540d\u79f0": ""
+                }, 
+                "TABLE": {
+                    "\u5355\u673a\u73a9\u5bb6\u76ae\u80a4\u4f7f\u7528\u8868": null, 
+                    "\u5355\u673a\u73a9\u5bb6\u76ae\u80a4\u62e5\u6709\u8868": null
+                }, 
+                "UI_COMP": {
+                    "kj": "", 
+                    "kjsz": "", 
+                    "tempC": "", 
+                    "tempP": "", 
+                    "tempUse": "", 
+                    "tempUsed": "", 
+                    "\u906e\u7f69\u5c42\u7ec4\u4ef6": ""
+                }, 
+                "UI_PREFAB_INSTANCE": {
+                    "temp": "", 
+                    "\u754c\u9762\u7ec4\u4ef6": ""
+                }, 
+                "UNIT_NAME": {
+                    "dwlx": 0, 
+                    "dwlxz": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "dwlx": 0, 
+                "dwlxz": 10, 
+                "i": 0, 
+                "itemCount": 0, 
+                "itemX": 0, 
+                "itemY": 0, 
+                "jnmc": 0, 
+                "kj": 0, 
+                "kjIndex": 0, 
+                "kjsz": 10, 
+                "length": 0, 
+                "mI": 0, 
+                "skinCount": 0, 
+                "temp": 0, 
+                "tempC": 0, 
+                "tempP": 0, 
+                "tempUse": 0, 
+                "tempUsed": 0, 
+                "\u4e3b\u516c\u540d\u79f0": 0, 
+                "\u5355\u673a\u73a9\u5bb6\u76ae\u80a4\u4f7f\u7528\u8868": 0, 
+                "\u5355\u673a\u73a9\u5bb6\u76ae\u80a4\u62e5\u6709\u8868": 0, 
+                "\u5e74": 0, 
+                "\u5f53\u524d\u65e5\u671f": 0, 
+                "\u65e5": 0, 
+                "\u6708": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u754c\u9762\u7ec4\u4ef6": 10, 
+                "\u76ae\u80a4\u4f4d\u7f6e": 0, 
+                "\u76ae\u80a4\u4f7f\u7528\u60c5\u51b5": 10, 
+                "\u76ae\u80a4\u62e5\u6709\u60c5\u51b5": 10, 
+                "\u9009\u4e2d\u82f1\u96c4\u4e0b\u6807": 0, 
+                "\u906e\u7f69\u5c42\u7ec4\u4ef6": 10
+            }
+        }, 
+        "651727096": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "itemCount": 0, 
+                    "itemX": 0, 
+                    "itemY": 0, 
+                    "kjIndex": 0, 
+                    "\u586b\u5145\u7c7b\u578b": 0, 
+                    "\u5f53\u524d\u7269\u54c1\u6570\u91cf": 0
+                }, 
+                "ITEM_NAME": {
+                    "\u5f53\u524d\u7269\u54c1\u7c7b\u578b": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "TABLE": {
+                    "\u586b\u5145\u529f\u6cd5\u9053\u5177\u8868": null, 
+                    "\u586b\u5145\u76ae\u80a4\u9053\u5177\u8868": null
+                }, 
+                "UI_COMP": {
+                    "kjsz": "", 
+                    "tempC": "", 
+                    "tempC2": "", 
+                    "tempN": "", 
+                    "tempP": "", 
+                    "tempV": ""
+                }, 
+                "UI_PREFAB_INSTANCE": {
+                    "temp": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "itemCount": 0, 
+                "itemX": 0, 
+                "itemY": 0, 
+                "kjIndex": 0, 
+                "kjsz": 10, 
+                "temp": 0, 
+                "tempC": 0, 
+                "tempC2": 0, 
+                "tempN": 0, 
+                "tempP": 0, 
+                "tempV": 0, 
+                "\u586b\u5145\u529f\u6cd5\u9053\u5177\u8868": 0, 
+                "\u586b\u5145\u76ae\u80a4\u9053\u5177\u8868": 0, 
+                "\u586b\u5145\u7c7b\u578b": 0, 
+                "\u5f53\u524d\u7269\u54c1\u6570\u91cf": 0, 
+                "\u5f53\u524d\u7269\u54c1\u7c7b\u578b": 0, 
+                "\u73a9\u5bb6": 0
+            }
+        }, 
+        "664854769": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "jzsk": 0
+                }, 
+                "FLOAT": {
+                    "food": 0.0, 
+                    "gold": 0.0
+                }, 
+                "INTEGER": {
+                    "zyid": 0
+                }, 
+                "UNIT_ENTITY": {}, 
+                "UNIT_NAME": {
+                    "uid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "food": 0, 
+                "gold": 0, 
+                "jzsk": 0, 
+                "uid": 0, 
+                "zyid": 0
+            }
+        }, 
+        "671428624": {
+            "variable_dict": {
+                "DYNAMIC_TRIGGER_INSTANCE": {
+                    "t1": 0, 
+                    "t2": 0
+                }, 
+                "ITEM_ENTITY": {
+                    "item": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "item": 0, 
+                "player": 0, 
+                "t1": 0, 
+                "t2": 0, 
+                "unit": 0
+            }
+        }, 
+        "671559737": {
+            "variable_dict": {
+                "INTEGER": {
+                    "v": 0, 
+                    "\u88ab\u9664\u6570": 0, 
+                    "\u9664\u6570": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "v": 0, 
+                "\u88ab\u9664\u6570": 0, 
+                "\u9664\u6570": 0
+            }
+        }, 
+        "690581757": {
+            "variable_dict": {
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "UI_COMP": {
+                    "tempC": "", 
+                    "tempP": ""
+                }, 
+                "UI_PREFAB_INSTANCE": {
+                    "temp": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "temp": 0, 
+                "tempC": 0, 
+                "tempP": 0, 
+                "\u73a9\u5bb6": 0
+            }
+        }, 
+        "707035428": {
+            "variable_dict": {
+                "FLOAT": {
+                    "food": 0.0
+                }, 
+                "INTEGER": {
+                    "wjid": 0
+                }, 
+                "PLAYER": {
+                    "wj": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "ucf": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "food": 0, 
+                "ucf": 0, 
+                "wj": 0, 
+                "wjid": 0
+            }
+        }, 
+        "718082063": {
+            "variable_dict": {
+                "INTEGER": {
+                    "index": 0, 
+                    "n": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "index": 0, 
+                "n": 0, 
+                "player": 0, 
+                "unit": 0
+            }
+        }, 
+        "728314026": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "j": 0, 
+                    "l": 0, 
+                    "v": 0, 
+                    "wjid": 0
+                }, 
+                "PLAYER": {
+                    "wj": 0, 
+                    "\u73a9\u5bb6": 0
+                }, 
+                "UNIT_NAME": {
+                    "uid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "j": 0, 
+                "l": 0, 
+                "uid": 0, 
+                "v": 0, 
+                "wj": 0, 
+                "wjid": 0, 
+                "\u73a9\u5bb6": 0
+            }
+        }, 
+        "755445835": {
+            "variable_dict": {
+                "FLOAT": {
+                    "jg": 0.0, 
+                    "t": 0.0, 
+                    "v": 0.0, 
+                    "\u5f00\u59cb\u503c": 0.0, 
+                    "\u65f6\u95f4": 0.0, 
+                    "\u7ed3\u675f\u503c": 0.0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "UI_COMP": {
+                    "\u754c\u9762": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "jg": 0, 
+                "t": 0, 
+                "v": 0, 
+                "\u5f00\u59cb\u503c": 0, 
+                "\u65f6\u95f4": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u754c\u9762": 0, 
+                "\u7ed3\u675f\u503c": 0
+            }
+        }, 
+        "757367075": {
+            "variable_dict": {
+                "FLOAT": {
+                    "food": 0.0
+                }, 
+                "INTEGER": {
+                    "wjid": 0
+                }, 
+                "PLAYER": {
+                    "wj": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "ucf": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "food": 0, 
+                "ucf": 0, 
+                "wj": 0, 
+                "wjid": 0
+            }
+        }, 
+        "760414484": {
+            "variable_dict": {
+                "INTEGER": {
+                    "\u4ef7\u4f4d": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u4ef7\u4f4d": 0
+            }
+        }, 
+        "801964247": {
+            "variable_dict": {
+                "INTEGER": {
+                    "length": 0
+                }, 
+                "ITEM_NAME": {}, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "UI_COMP": {
+                    "kjsz": "", 
+                    "tempC": "", 
+                    "tempC2": "", 
+                    "tempP": ""
+                }, 
+                "UI_PREFAB_INSTANCE": {
+                    "\u754c\u9762\u7ec4\u4ef6": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "kjsz": 10, 
+                "length": 0, 
+                "tempC": 0, 
+                "tempC2": 0, 
+                "tempP": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u754c\u9762\u7ec4\u4ef6": 10
+            }
+        }, 
+        "805777485": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "b": false
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "b": 0, 
+                "\u73a9\u5bb6": 0
+            }
+        }, 
+        "818569504": {
+            "variable_dict": {
+                "ABILITY": {
+                    "sk": null
+                }, 
+                "ABILITY_NAME": {
+                    "skid": 0
+                }, 
+                "FLOAT": {
+                    "gx": 0.0
+                }, 
+                "INTEGER": {
+                    "bo": 0, 
+                    "sj": 0, 
+                    "wjid": 0, 
+                    "\u5faa\u73af1": 0, 
+                    "\u6574\u65701": 0
+                }, 
+                "PLAYER": {
+                    "wj": 0
+                }, 
+                "POINT": {
+                    "p": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "PROJECTILE_ENTITY": {
+                    "tsw": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "u": 0, 
+                    "u2": 0, 
+                    "ucf": 0, 
+                    "uxs": 0
+                }, 
+                "UNIT_NAME": {
+                    "uid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "bo": 0, 
+                "gx": 0, 
+                "p": 0, 
+                "sj": 0, 
+                "sk": 0, 
+                "skid": 0, 
+                "tsw": 0, 
+                "u": 0, 
+                "u2": 0, 
+                "ucf": 0, 
+                "uid": 0, 
+                "uxs": 0, 
+                "wj": 0, 
+                "wjid": 0, 
+                "\u5faa\u73af1": 0, 
+                "\u6574\u65701": 0
+            }
+        }, 
+        "828813355": {
+            "variable_dict": {
+                "FLOAT": {
+                    "time": 0.0
+                }, 
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "STRING": {
+                    "info": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "info": 0, 
+                "player": 0, 
+                "t": 0, 
+                "time": 0
+            }
+        }, 
+        "872886332": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "\u663e\u793a": false
+                }, 
+                "UI_COMP": {
+                    "\u754c\u9762": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "\u663e\u793a": 0, 
+                "\u754c\u9762": 0
+            }
+        }, 
+        "889663559": {
+            "variable_dict": {
+                "PLAYER": {
+                    "wj": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "wj": 0
+            }
+        }, 
+        "899227829": {
+            "variable_dict": {
+                "FLOAT": {
+                    "fd": 0.0, 
+                    "jd": 0.0, 
+                    "v": 0.0, 
+                    "\u5175\u79cd\u76ae\u80a4\u5f53\u524d\u8fdb\u5ea6": 0.0, 
+                    "\u529f\u6cd5\u80cc\u5305\u5f53\u524d\u8fdb\u5ea6": 0.0
+                }, 
+                "INTEGER": {
+                    "skinIndex": 0, 
+                    "wjid": 0
+                }, 
+                "ITEM_NAME": {}, 
+                "NEW_TIMER": {
+                    "\u5175\u79cd\u76ae\u80a4\u8ba1\u65f6\u5668": -1, 
+                    "\u529f\u6cd5\u80cc\u5305\u8ba1\u65f6\u5668": -1
+                }, 
+                "STRING": {
+                    "crcs": "", 
+                    "cs": ""
+                }, 
+                "UI_COMP": {
+                    "kj": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "crcs": 0, 
+                "cs": 0, 
+                "fd": 0, 
+                "jd": 0, 
+                "kj": 0, 
+                "skinIndex": 0, 
+                "v": 0, 
+                "wjid": 0, 
+                "\u5175\u79cd\u76ae\u80a4\u5f53\u524d\u8fdb\u5ea6": 0, 
+                "\u5175\u79cd\u76ae\u80a4\u8ba1\u65f6\u5668": 0, 
+                "\u529f\u6cd5\u80cc\u5305\u5f53\u524d\u8fdb\u5ea6": 0, 
+                "\u529f\u6cd5\u80cc\u5305\u8ba1\u65f6\u5668": 0
+            }
+        }, 
+        "928620791": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "\u5b58\u5728\u8be5\u7269\u54c1": false
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "key": 0, 
+                    "\u5355\u82f1\u96c4\u76ae\u80a4\u6570\u91cf": 0, 
+                    "\u5956\u54c1\u4e2a\u6570": 0, 
+                    "\u65b0\u4e0b\u6807": 0
+                }, 
+                "ITEM_NAME": {
+                    "\u76ae\u80a4\u7269\u54c1\u7c7b\u578b": 0, 
+                    "\u8fd4\u56de\u7269\u54c1": 0, 
+                    "\u968f\u673a\u76ae\u80a4\u6c60": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u5165\u53c2\u540d\u79f0": "", 
+                    "\u904d\u5386\u7269\u54c1\u7c7b\u578b\u540d\u79f0": ""
+                }, 
+                "TABLE": {
+                    "\u73a9\u5bb6\u76ae\u80a4\u9053\u5177\u8868": null
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "key": 0, 
+                "\u5165\u53c2\u540d\u79f0": 0, 
+                "\u5355\u82f1\u96c4\u76ae\u80a4\u6570\u91cf": 0, 
+                "\u5956\u54c1\u4e2a\u6570": 0, 
+                "\u5b58\u5728\u8be5\u7269\u54c1": 0, 
+                "\u65b0\u4e0b\u6807": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u73a9\u5bb6\u76ae\u80a4\u9053\u5177\u8868": 0, 
+                "\u76ae\u80a4\u7269\u54c1\u7c7b\u578b": 0, 
+                "\u8fd4\u56de\u7269\u54c1": 0, 
+                "\u904d\u5386\u7269\u54c1\u7c7b\u578b\u540d\u79f0": 0, 
+                "\u968f\u673a\u76ae\u80a4\u6c60": 10
+            }
+        }, 
+        "967196953": {
+            "variable_dict": {
+                "INTEGER": {
+                    "loop": 0, 
+                    "wjid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "loop": 0, 
+                "wjid": 0
+            }
+        }, 
+        "983621881": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "jzsk": 0
+                }, 
+                "FLOAT": {
+                    "food": 0.0, 
+                    "gold": 0.0
+                }, 
+                "INTEGER": {
+                    "zyid": 0
+                }, 
+                "UNIT_NAME": {
+                    "uid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "food": 0, 
+                "gold": 0, 
+                "jzsk": 0, 
+                "uid": 0, 
+                "zyid": 0
+            }
+        }, 
+        "1032073461": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "\u4e3b\u516c\u4f4d\u7f6e": 0, 
+                    "\u5e74": 0, 
+                    "\u5ef6\u957f\u5929\u6570": 0, 
+                    "\u5f53\u524d\u65e5\u671f": 0, 
+                    "\u5f53\u524d\u65f6\u95f4\u6beb\u79d2\u6570": 0, 
+                    "\u65e5": 0, 
+                    "\u6708": 0, 
+                    "\u6709\u6548\u65e5\u671f": 0, 
+                    "\u76ae\u80a4\u4f4d\u7f6e": 0, 
+                    "\u76ae\u80a4\u4f7f\u7528\u60c5\u51b5": 0, 
+                    "\u76ae\u80a4\u62e5\u6709\u60c5\u51b5": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u65e5\u671f\u5b57\u7b26": ""
+                }, 
+                "TABLE": {
+                    "\u5355\u673a\u73a9\u5bb6\u82f1\u96c4\u4f7f\u7528\u8868": null, 
+                    "\u5355\u673a\u73a9\u5bb6\u82f1\u96c4\u62e5\u6709\u8868": null
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "\u4e3b\u516c\u4f4d\u7f6e": 0, 
+                "\u5355\u673a\u73a9\u5bb6\u82f1\u96c4\u4f7f\u7528\u8868": 0, 
+                "\u5355\u673a\u73a9\u5bb6\u82f1\u96c4\u62e5\u6709\u8868": 0, 
+                "\u5e74": 0, 
+                "\u5ef6\u957f\u5929\u6570": 0, 
+                "\u5f53\u524d\u65e5\u671f": 0, 
+                "\u5f53\u524d\u65f6\u95f4\u6beb\u79d2\u6570": 0, 
+                "\u65e5": 0, 
+                "\u65e5\u671f\u5b57\u7b26": 0, 
+                "\u6708": 0, 
+                "\u6709\u6548\u65e5\u671f": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u76ae\u80a4\u4f4d\u7f6e": 0, 
+                "\u76ae\u80a4\u4f7f\u7528\u60c5\u51b5": 10, 
+                "\u76ae\u80a4\u62e5\u6709\u60c5\u51b5": 10
+            }
+        }, 
+        "1039151122": {
+            "variable_dict": {
+                "FLOAT": {
+                    "pos": 0.0, 
+                    "tips_size": 0.0
+                }, 
+                "PLAYER": {
+                    "Player": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "Player": 0, 
+                "pos": 10, 
+                "tips_size": 10
+            }
+        }, 
+        "1080221861": {
+            "variable_dict": {
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u73a9\u5bb6": 0
+            }
+        }, 
+        "1098707237": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "key": 0, 
+                    "wjid": 0, 
+                    "\u529f\u52cb": 0, 
+                    "\u603b\u884c\u6570": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0, 
+                    "\u73a9\u5bb6\u53c2\u6570": 0
+                }, 
+                "STRING": {
+                    "\u5c5e\u6027\u7c7b\u578b": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "key": 0, 
+                "wjid": 0, 
+                "\u529f\u52cb": 0, 
+                "\u5c5e\u6027\u7c7b\u578b": 0, 
+                "\u603b\u884c\u6570": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u73a9\u5bb6\u53c2\u6570": 0
+            }
+        }, 
+        "1147576575": {
+            "variable_dict": {
+                "INTEGER": {
+                    "\u529f\u6cd5\u7c7b\u522b": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u529f\u6cd5\u7c7b\u522b": 0
+            }
+        }, 
+        "1168171250": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "jzsk": 0
+                }, 
+                "FLOAT": {
+                    "food": 0.0, 
+                    "gold": 0.0
+                }, 
+                "INTEGER": {
+                    "zyid": 0
+                }, 
+                "UNIT_NAME": {
+                    "uid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "food": 0, 
+                "gold": 0, 
+                "jzsk": 0, 
+                "uid": 0, 
+                "zyid": 0
+            }
+        }, 
+        "1174876221": {
+            "variable_dict": {
+                "STRING": {
+                    "\u6587\u672c": ""
+                }, 
+                "UI_COMP": {
+                    "\u754c\u9762": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "\u6587\u672c": 0, 
+                "\u754c\u9762": 0
+            }
+        }, 
+        "1174876239": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u663e\u793a\u65f6\u957f": 0.0
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "\u603b\u884c\u6570": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6\u53c2\u6570": 0
+                }, 
+                "STRING": {
+                    "\u9700\u8981\u63d0\u793a\u7684\u4fe1\u606f": "", 
+                    "\u989c\u8272\u7f16\u53f7": "#ffffff"
+                }, 
+                "UI_COMP": {
+                    "\u4fe1\u606f\u5217\u8868": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "\u4fe1\u606f\u5217\u8868": 0, 
+                "\u603b\u884c\u6570": 0, 
+                "\u663e\u793a\u65f6\u957f": 0, 
+                "\u73a9\u5bb6\u53c2\u6570": 0, 
+                "\u9700\u8981\u63d0\u793a\u7684\u4fe1\u606f": 0, 
+                "\u989c\u8272\u7f16\u53f7": 0
+            }
+        }, 
+        "1177661683": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0
+            }
+        }, 
+        "1194823896": {
+            "variable_dict": {
+                "INTEGER": {
+                    "itemCount": 0, 
+                    "itemX": 0, 
+                    "itemY": 0, 
+                    "kjIndex": 0
+                }, 
+                "ITEM_GROUP": {}, 
+                "ITEM_NAME": {
+                    "\u5f53\u524d\u7269\u54c1\u7c7b\u578b": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "UI_COMP": {
+                    "kjsz": "", 
+                    "tempC": "", 
+                    "tempC2": "", 
+                    "tempP": ""
+                }, 
+                "UI_PREFAB_INSTANCE": {
+                    "temp": ""
+                }, 
+                "UNIT_NAME": {
+                    "dwlxz": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "dwlxz": 10, 
+                "itemCount": 0, 
+                "itemX": 0, 
+                "itemY": 0, 
+                "kjIndex": 0, 
+                "kjsz": 10, 
+                "temp": 0, 
+                "tempC": 0, 
+                "tempC2": 0, 
+                "tempP": 0, 
+                "\u5f53\u524d\u7269\u54c1\u7c7b\u578b": 0, 
+                "\u73a9\u5bb6": 0
+            }
+        }, 
+        "1205297438": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "wjid": 0
+                }, 
+                "PLAYER": {
+                    "wj": 0, 
+                    "\u73a9\u5bb6": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "wj": 0, 
+                "wjid": 0, 
+                "\u73a9\u5bb6": 0
+            }
+        }, 
+        "1208430661": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "\u72b6\u6001": false
+                }, 
+                "INTEGER": {
+                    "S": 0, 
+                    "\u6b21\u6570": 0, 
+                    "\u7f16\u53f7": 0
+                }, 
+                "ITEM_NAME": {
+                    "\u7269\u54c1\u7c7b\u578b": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "event": ""
+                }, 
+                "UI_COMP": {
+                    "f": "", 
+                    "f2": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "S": 0, 
+                "event": 0, 
+                "f": 0, 
+                "f2": 0, 
+                "\u6b21\u6570": 0, 
+                "\u7269\u54c1\u7c7b\u578b": 0, 
+                "\u72b6\u6001": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u7f16\u53f7": 0
+            }
+        }, 
+        "1258762318": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "\u73a9\u5bb6": 0
+            }
+        }, 
+        "1268834550": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "jzsk": 0
+                }, 
+                "FLOAT": {
+                    "food": 0.0, 
+                    "gold": 0.0
+                }, 
+                "INTEGER": {
+                    "zyid": 0
+                }, 
+                "UNIT_NAME": {
+                    "uid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "food": 0, 
+                "gold": 0, 
+                "jzsk": 0, 
+                "uid": 0, 
+                "zyid": 0
+            }
+        }, 
+        "1270726670": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "player": 0, 
+                "t": 0, 
+                "unit": 0
+            }
+        }, 
+        "1272844551": {
+            "variable_dict": {
+                "INTEGER": {
+                    "num": 0
+                }, 
+                "STRING": {
+                    "tips": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "num": 0, 
+                "tips": 10
+            }
+        }, 
+        "1306398986": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "skid": 0
+                }, 
+                "INTEGER": {
+                    "ty": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "u": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "skid": 0, 
+                "ty": 0, 
+                "u": 0
+            }
+        }, 
+        "1309093943": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "\u662f/\u5426": false
+                }, 
+                "DAMAGE_TYPE": {
+                    "\u4f24\u5bb3\u7c7b\u578b": 0
+                }, 
+                "FLOAT": {
+                    "\u4f24\u5bb3": 0.0
+                }, 
+                "UNIT_ENTITY": {
+                    "\u5355\u4f4d": 0, 
+                    "\u76ee\u6807": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u4f24\u5bb3": 0, 
+                "\u4f24\u5bb3\u7c7b\u578b": 0, 
+                "\u5355\u4f4d": 0, 
+                "\u662f/\u5426": 0, 
+                "\u76ee\u6807": 0
+            }
+        }, 
+        "1316966628": {
+            "variable_dict": {
+                "FLOAT": {}, 
+                "INTEGER": {
+                    "i": 0, 
+                    "itemX": 0, 
+                    "itemY": 0, 
+                    "\u4efb\u52a1\u4e3b\u516c\u7c7b\u578b": 0, 
+                    "\u4efb\u52a1\u5339\u914d\u6a21\u5f0f": 0, 
+                    "\u5185\u5faa\u73af\u6570\u503c": 0, 
+                    "\u5916\u5faa\u73af\u6b21\u6570": 0, 
+                    "\u5956\u52b1\u79ef\u5206": 0, 
+                    "\u5df2\u5b8c\u6210\u6b21\u6570": 0, 
+                    "\u8fbe\u6807\u6b21\u6570": 0, 
+                    "\u901a\u884c\u8bc1\u4ed8\u8d39\u5956\u52b1\u6570\u91cf": 0, 
+                    "\u901a\u884c\u8bc1\u5956\u52b1\u6570\u91cf": 0
+                }, 
+                "ITEM_NAME": {
+                    "\u901a\u884c\u8bc1\u4ed8\u8d39\u5956\u52b1": 0, 
+                    "\u901a\u884c\u8bc1\u5956\u52b1": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u63cf\u8ff0": ""
+                }, 
+                "UI_COMP": {
+                    "tempC": "", 
+                    "tempC2": "", 
+                    "tempC3": "", 
+                    "tempC4": "", 
+                    "tempP": ""
+                }, 
+                "UI_PREFAB_INSTANCE": {
+                    "\u4ed8\u8d39\u5956\u52b1\u7ec4\u4ef6": "", 
+                    "\u6570\u5b57\u6807\u8bc6\u7ec4\u4ef6": "", 
+                    "\u666e\u901a\u5956\u52b1\u7ec4\u4ef6": "", 
+                    "\u901a\u884c\u8bc1\u4efb\u52a1\u7ec4\u4ef6": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "itemX": 0, 
+                "itemY": 0, 
+                "tempC": 0, 
+                "tempC2": 0, 
+                "tempC3": 0, 
+                "tempC4": 0, 
+                "tempP": 0, 
+                "\u4ed8\u8d39\u5956\u52b1\u7ec4\u4ef6": 10, 
+                "\u4efb\u52a1\u4e3b\u516c\u7c7b\u578b": 10, 
+                "\u4efb\u52a1\u5339\u914d\u6a21\u5f0f": 10, 
+                "\u5185\u5faa\u73af\u6570\u503c": 0, 
+                "\u5916\u5faa\u73af\u6b21\u6570": 0, 
+                "\u5956\u52b1\u79ef\u5206": 10, 
+                "\u5df2\u5b8c\u6210\u6b21\u6570": 0, 
+                "\u63cf\u8ff0": 0, 
+                "\u6570\u5b57\u6807\u8bc6\u7ec4\u4ef6": 10, 
+                "\u666e\u901a\u5956\u52b1\u7ec4\u4ef6": 10, 
+                "\u73a9\u5bb6": 0, 
+                "\u8fbe\u6807\u6b21\u6570": 10, 
+                "\u901a\u884c\u8bc1\u4ed8\u8d39\u5956\u52b1": 10, 
+                "\u901a\u884c\u8bc1\u4ed8\u8d39\u5956\u52b1\u6570\u91cf": 10, 
+                "\u901a\u884c\u8bc1\u4efb\u52a1\u7ec4\u4ef6": 10, 
+                "\u901a\u884c\u8bc1\u5956\u52b1": 10, 
+                "\u901a\u884c\u8bc1\u5956\u52b1\u6570\u91cf": 10
+            }
+        }, 
+        "1318641870": {
+            "variable_dict": {
+                "ABILITY": {
+                    "skill": null
+                }, 
+                "ABILITY_NAME": {
+                    "jnlx": 0
+                }, 
+                "FLOAT": {
+                    "\u57fa\u7840\u751f\u547d\u503c": 0.0, 
+                    "\u653b\u51fb\u529b": 0.0, 
+                    "\u6cd5\u672f\u653b\u51fb\u529b": 0.0, 
+                    "\u7269\u7406\u653b\u51fb\u529b": 0.0, 
+                    "\u79fb\u52a8\u901f\u5ea6": 0.0
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "itemCount": 0, 
+                    "itemX": 0, 
+                    "itemY": 0, 
+                    "kjIndex": 0, 
+                    "length": 0, 
+                    "loop": 0, 
+                    "mI": 0, 
+                    "\u5f53\u524d\u4e2a\u6570": 0
+                }, 
+                "ITEM_NAME": {
+                    "\u5f53\u524d\u7269\u54c1": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "desc": "", 
+                    "jnmc": "", 
+                    "\u5f53\u524d\u529f\u6cd5\u540d\u79f0": ""
+                }, 
+                "TABLE": {
+                    "\u73a9\u5bb6\u529f\u6cd5\u9053\u5177\u8868": null
+                }, 
+                "UI_COMP": {
+                    "kj": "", 
+                    "kjsz": "", 
+                    "tempC": "", 
+                    "tempC2": "", 
+                    "tempC3": "", 
+                    "tempP": ""
+                }, 
+                "UI_PREFAB_INSTANCE": {
+                    "temp": "", 
+                    "\u754c\u9762\u7ec4\u4ef6": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "danwei": 0
+                }, 
+                "UNIT_NAME": {
+                    "dwlx": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "danwei": 0, 
+                "desc": 0, 
+                "dwlx": 0, 
+                "i": 0, 
+                "itemCount": 0, 
+                "itemX": 0, 
+                "itemY": 0, 
+                "jnlx": 10, 
+                "jnmc": 0, 
+                "kj": 0, 
+                "kjIndex": 0, 
+                "kjsz": 10, 
+                "length": 0, 
+                "loop": 0, 
+                "mI": 0, 
+                "skill": 0, 
+                "temp": 0, 
+                "tempC": 0, 
+                "tempC2": 0, 
+                "tempC3": 0, 
+                "tempP": 0, 
+                "\u57fa\u7840\u751f\u547d\u503c": 0, 
+                "\u5f53\u524d\u4e2a\u6570": 0, 
+                "\u5f53\u524d\u529f\u6cd5\u540d\u79f0": 0, 
+                "\u5f53\u524d\u7269\u54c1": 0, 
+                "\u653b\u51fb\u529b": 0, 
+                "\u6cd5\u672f\u653b\u51fb\u529b": 0, 
+                "\u7269\u7406\u653b\u51fb\u529b": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u73a9\u5bb6\u529f\u6cd5\u9053\u5177\u8868": 0, 
+                "\u754c\u9762\u7ec4\u4ef6": 10, 
+                "\u79fb\u52a8\u901f\u5ea6": 0
+            }
+        }, 
+        "1325858865": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "store_unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "player": 0, 
+                "store_unit": 0
+            }
+        }, 
+        "1335713996": {
+            "variable_dict": {
+                "INTEGER": {
+                    "n": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "n": 0
+            }
+        }, 
+        "1352720635": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "jzsk": 0
+                }, 
+                "FLOAT": {
+                    "food": 0.0, 
+                    "gold": 0.0
+                }, 
+                "INTEGER": {
+                    "zyid": 0
+                }, 
+                "UNIT_NAME": {
+                    "uid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "food": 0, 
+                "gold": 0, 
+                "jzsk": 0, 
+                "uid": 0, 
+                "zyid": 0
+            }
+        }, 
+        "1353687227": {
+            "variable_dict": {
+                "ABILITY": {
+                    "jn": null, 
+                    "skill": null
+                }, 
+                "ABILITY_NAME": {
+                    "jnlx": 0
+                }, 
+                "FLOAT": {
+                    "\u57fa\u7840\u751f\u547d\u503c": 0.0, 
+                    "\u653b\u51fb\u529b": 0.0, 
+                    "\u6cd5\u672f\u653b\u51fb\u529b": 0.0, 
+                    "\u7269\u7406\u653b\u51fb\u529b": 0.0, 
+                    "\u79fb\u52a8\u901f\u5ea6": 0.0
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "itemCount": 0, 
+                    "itemX": 0, 
+                    "itemY": 0, 
+                    "kjIndex": 0, 
+                    "length": 0, 
+                    "loop": 0, 
+                    "mI": 0, 
+                    "wjid": 0
+                }, 
+                "NEW_TIMER": {}, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "desc": "", 
+                    "jnmc": "", 
+                    "\u4e3b\u516c\u540d\u79f0": "", 
+                    "\u6a21\u7cca\u67e5\u8be2\u5b57\u6bb5": ""
+                }, 
+                "UI_COMP": {
+                    "kj": "", 
+                    "kjsz": "", 
+                    "tempC": "", 
+                    "tempP": ""
+                }, 
+                "UI_PREFAB_INSTANCE": {
+                    "temp": "", 
+                    "\u754c\u9762\u7ec4\u4ef6": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "danwei": 0
+                }, 
+                "UNIT_NAME": {
+                    "dwlx": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "danwei": 0, 
+                "desc": 0, 
+                "dwlx": 0, 
+                "i": 0, 
+                "itemCount": 0, 
+                "itemX": 0, 
+                "itemY": 0, 
+                "jn": 0, 
+                "jnlx": 10, 
+                "jnmc": 0, 
+                "kj": 0, 
+                "kjIndex": 0, 
+                "kjsz": 10, 
+                "length": 0, 
+                "loop": 0, 
+                "mI": 0, 
+                "skill": 0, 
+                "temp": 0, 
+                "tempC": 0, 
+                "tempP": 0, 
+                "wjid": 0, 
+                "\u4e3b\u516c\u540d\u79f0": 0, 
+                "\u57fa\u7840\u751f\u547d\u503c": 0, 
+                "\u653b\u51fb\u529b": 0, 
+                "\u6a21\u7cca\u67e5\u8be2\u5b57\u6bb5": 0, 
+                "\u6cd5\u672f\u653b\u51fb\u529b": 0, 
+                "\u7269\u7406\u653b\u51fb\u529b": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u754c\u9762\u7ec4\u4ef6": 10, 
+                "\u79fb\u52a8\u901f\u5ea6": 0
+            }
+        }, 
+        "1384325376": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "itemCount": 0, 
+                    "itemX": 0, 
+                    "itemY": 0, 
+                    "j": 0, 
+                    "kjIndex": 0, 
+                    "\u529f\u6cd5\u7c7b\u522b": 0, 
+                    "\u5df2\u4f7f\u7528\u4e2a\u6570": 0, 
+                    "\u5f53\u524d\u4e2a\u6570": 0, 
+                    "\u5f53\u524d\u7c7b\u522b": 0
+                }, 
+                "ITEM_NAME": {
+                    "\u5df2\u4f7f\u7528\u529f\u6cd5": 0, 
+                    "\u5f53\u524d\u7269\u54c1": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u5f53\u524d\u529f\u6cd5\u540d\u79f0": ""
+                }, 
+                "TABLE": {
+                    "\u73a9\u5bb6\u529f\u6cd5\u4f7f\u7528\u8868": null, 
+                    "\u73a9\u5bb6\u529f\u6cd5\u9053\u5177\u8868": null
+                }, 
+                "UI_COMP": {
+                    "kjsz": "", 
+                    "temp": "", 
+                    "tempC": "", 
+                    "tempC2": "", 
+                    "tempC3": "", 
+                    "tempP": "", 
+                    "\u529f\u6cd5\u754c\u9762\u9576\u5d4c\u5217\u8868": ""
+                }, 
+                "UI_PREFAB_INSTANCE": {}
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "itemCount": 0, 
+                "itemX": 0, 
+                "itemY": 0, 
+                "j": 0, 
+                "kjIndex": 0, 
+                "kjsz": 10, 
+                "temp": 0, 
+                "tempC": 0, 
+                "tempC2": 0, 
+                "tempC3": 0, 
+                "tempP": 0, 
+                "\u529f\u6cd5\u754c\u9762\u9576\u5d4c\u5217\u8868": 10, 
+                "\u529f\u6cd5\u7c7b\u522b": 0, 
+                "\u5df2\u4f7f\u7528\u4e2a\u6570": 0, 
+                "\u5df2\u4f7f\u7528\u529f\u6cd5": 0, 
+                "\u5f53\u524d\u4e2a\u6570": 0, 
+                "\u5f53\u524d\u529f\u6cd5\u540d\u79f0": 0, 
+                "\u5f53\u524d\u7269\u54c1": 0, 
+                "\u5f53\u524d\u7c7b\u522b": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u73a9\u5bb6\u529f\u6cd5\u4f7f\u7528\u8868": 0, 
+                "\u73a9\u5bb6\u529f\u6cd5\u9053\u5177\u8868": 0
+            }
+        }, 
+        "1393229841": {
+            "variable_dict": {
+                "DESTRUCTIBLE_ENTITY": {
+                    "destructible": 0
+                }, 
+                "DYNAMIC_TRIGGER_INSTANCE": {
+                    "t1": 0, 
+                    "t2": 0
+                }, 
+                "ITEM_ENTITY": {
+                    "item": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "destructible": 0, 
+                "item": 0, 
+                "player": 0, 
+                "t1": 0, 
+                "t2": 0, 
+                "unit": 0
+            }
+        }, 
+        "1419829493": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "jzsk": 0
+                }, 
+                "FLOAT": {
+                    "food": 0.0, 
+                    "gold": 0.0
+                }, 
+                "INTEGER": {
+                    "zyid": 0
+                }, 
+                "UNIT_NAME": {
+                    "uid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "food": 0, 
+                "gold": 0, 
+                "jzsk": 0, 
+                "uid": 0, 
+                "zyid": 0
+            }
+        }, 
+        "1425182768": {
+            "variable_dict": {
+                "INTEGER": {
+                    "goods_index": 0, 
+                    "n": 0, 
+                    "new tab index": 0, 
+                    "slot": 0
+                }, 
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "store unit": 0, 
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "goods_index": 0, 
+                "n": 0, 
+                "new tab index": 0, 
+                "player": 0, 
+                "slot": 0, 
+                "store unit": 0, 
+                "t": 0, 
+                "unit": 0
+            }
+        }, 
+        "1453383923": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "jzsk": 0
+                }, 
+                "FLOAT": {
+                    "food": 0.0, 
+                    "gold": 0.0
+                }, 
+                "INTEGER": {
+                    "zyid": 0
+                }, 
+                "UNIT_NAME": {
+                    "uid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "food": 0, 
+                "gold": 0, 
+                "jzsk": 0, 
+                "uid": 0, 
+                "zyid": 0
+            }
+        }, 
+        "1471783134": {
+            "variable_dict": {
+                "ABILITY_NAME": {}, 
+                "INTEGER": {
+                    "i": 0, 
+                    "itemX": 0, 
+                    "itemY": 0, 
+                    "\u901a\u884c\u8bc1\u4ed8\u8d39\u5956\u52b1\u6570\u91cf": 0, 
+                    "\u901a\u884c\u8bc1\u5956\u52b1\u6570\u91cf": 0
+                }, 
+                "ITEM_NAME": {
+                    "\u901a\u884c\u8bc1\u4ed8\u8d39\u5956\u52b1": 0, 
+                    "\u901a\u884c\u8bc1\u5956\u52b1": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "UI_COMP": {
+                    "tempC": "", 
+                    "tempC2": "", 
+                    "tempC3": "", 
+                    "tempC4": "", 
+                    "tempP": ""
+                }, 
+                "UI_PREFAB_INSTANCE": {
+                    "temp": "", 
+                    "\u4ed8\u8d39\u5956\u52b1\u7ec4\u4ef6": "", 
+                    "\u6570\u5b57\u6807\u8bc6\u7ec4\u4ef6": "", 
+                    "\u666e\u901a\u5956\u52b1\u7ec4\u4ef6": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "itemX": 0, 
+                "itemY": 0, 
+                "temp": 0, 
+                "tempC": 0, 
+                "tempC2": 0, 
+                "tempC3": 0, 
+                "tempC4": 0, 
+                "tempP": 0, 
+                "\u4ed8\u8d39\u5956\u52b1\u7ec4\u4ef6": 10, 
+                "\u6570\u5b57\u6807\u8bc6\u7ec4\u4ef6": 10, 
+                "\u666e\u901a\u5956\u52b1\u7ec4\u4ef6": 10, 
+                "\u73a9\u5bb6": 0, 
+                "\u901a\u884c\u8bc1\u4ed8\u8d39\u5956\u52b1": 10, 
+                "\u901a\u884c\u8bc1\u4ed8\u8d39\u5956\u52b1\u6570\u91cf": 10, 
+                "\u901a\u884c\u8bc1\u5956\u52b1": 10, 
+                "\u901a\u884c\u8bc1\u5956\u52b1\u6570\u91cf": 10
+            }
+        }, 
+        "1488118054": {
+            "variable_dict": {
+                "INTEGER": {
+                    "gongxun": 0, 
+                    "i": 0, 
+                    "loop": 0, 
+                    "wjid": 0
+                }, 
+                "NEW_TIMER": {}, 
+                "PLAYER": {
+                    "wj": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "gongxun": 0, 
+                "i": 0, 
+                "loop": 0, 
+                "wj": 0, 
+                "wjid": 0
+            }
+        }, 
+        "1491579064": {
+            "variable_dict": {
+                "FLOAT": {
+                    "x": 0.0, 
+                    "y": 0.0
+                }, 
+                "INTEGER": {
+                    "loop": 0, 
+                    "loop1": 0, 
+                    "zyid": 0, 
+                    "\u6574\u65701": 0
+                }, 
+                "NEW_TIMER": {}, 
+                "POINT": {
+                    "dian": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "UNIT_ENTITY": {
+                    "dw": 0
+                }, 
+                "UNIT_GROUP": {
+                    "dwz": []
+                }, 
+                "UNIT_NAME": {
+                    "dw_type": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "dian": 0, 
+                "dw": 0, 
+                "dw_type": 0, 
+                "dwz": 0, 
+                "loop": 0, 
+                "loop1": 0, 
+                "x": 0, 
+                "y": 0, 
+                "zyid": 0, 
+                "\u6574\u65701": 0
+            }
+        }, 
+        "1523634464": {
+            "variable_dict": {
+                "FLOAT": {}, 
+                "INTEGER": {
+                    "i": 0, 
+                    "loop": 0, 
+                    "wjid_temp": 0
+                }, 
+                "PLAYER": {
+                    "rankArr": 0, 
+                    "sjwj": 0, 
+                    "wjArr": 0
+                }, 
+                "PLAYER_GROUP": {
+                    "sjwjArr": []
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "loop": 0, 
+                "rankArr": 10, 
+                "sjwj": 0, 
+                "sjwjArr": 0, 
+                "wjArr": 10, 
+                "wjid_temp": 0
+            }
+        }, 
+        "1538904316": {
+            "variable_dict": {
+                "BOOLEAN": {}, 
+                "INTEGER": {
+                    "\u5269\u4f59\u6570\u91cf": 0, 
+                    "\u5e74": 0, 
+                    "\u5ef6\u957f\u5929\u6570": 0, 
+                    "\u65b0\u4e0b\u6807": 0, 
+                    "\u65e5": 0, 
+                    "\u65e5\u671f\u6574\u6570": 0, 
+                    "\u6708": 0, 
+                    "\u76ae\u80a4\u4f4d": 0, 
+                    "\u82f1\u96c4\u4f4d": 0
+                }, 
+                "ITEM_NAME": {
+                    "\u76ae\u80a4\u7269\u54c1\u7c7b\u578b": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u76ae\u80a4\u540d\u79f0": "", 
+                    "\u904d\u5386\u7269\u54c1\u7c7b\u578b\u540d\u79f0": ""
+                }, 
+                "TABLE": {
+                    "\u73a9\u5bb6\u76ae\u80a4\u9053\u5177\u8868": null
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5269\u4f59\u6570\u91cf": 0, 
+                "\u5e74": 0, 
+                "\u5ef6\u957f\u5929\u6570": 0, 
+                "\u65b0\u4e0b\u6807": 0, 
+                "\u65e5": 0, 
+                "\u65e5\u671f\u6574\u6570": 0, 
+                "\u6708": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u73a9\u5bb6\u76ae\u80a4\u9053\u5177\u8868": 0, 
+                "\u76ae\u80a4\u4f4d": 0, 
+                "\u76ae\u80a4\u540d\u79f0": 0, 
+                "\u76ae\u80a4\u7269\u54c1\u7c7b\u578b": 0, 
+                "\u82f1\u96c4\u4f4d": 0, 
+                "\u904d\u5386\u7269\u54c1\u7c7b\u578b\u540d\u79f0": 0
+            }
+        }, 
+        "1559846928": {
+            "variable_dict": {
+                "INTEGER": {
+                    "Ci": 0, 
+                    "Ri": 0, 
+                    "i": 0, 
+                    "index": 0
+                }, 
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }, 
+                "UNIT_GROUP": {
+                    "unit group": []
+                }
+            }, 
+            "variable_length_dict": {
+                "Ci": 0, 
+                "Ri": 0, 
+                "i": 0, 
+                "index": 0, 
+                "player": 0, 
+                "t": 0, 
+                "unit": 0, 
+                "unit group": 0
+            }
+        }, 
+        "1570595004": {
+            "variable_dict": {
+                "INTEGER": {
+                    "cindex": 0, 
+                    "rindex": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "cindex": 0, 
+                "rindex": 0
+            }
+        }, 
+        "1585119271": {
+            "variable_dict": {
+                "INTEGER": {
+                    "goods_index": 0, 
+                    "i": 0, 
+                    "n": 0, 
+                    "slot": 0
+                }, 
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "buyer player": 0, 
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "store unit": 0, 
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "buyer player": 0, 
+                "goods_index": 0, 
+                "i": 0, 
+                "n": 0, 
+                "player": 0, 
+                "slot": 0, 
+                "store unit": 0, 
+                "t": 0, 
+                "unit": 0
+            }
+        }, 
+        "1587601652": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "jzsk": 0
+                }, 
+                "FLOAT": {
+                    "food": 0.0, 
+                    "gold": 0.0
+                }, 
+                "INTEGER": {
+                    "zyid": 0
+                }, 
+                "UNIT_NAME": {
+                    "uid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "food": 0, 
+                "gold": 0, 
+                "jzsk": 0, 
+                "uid": 0, 
+                "zyid": 0
+            }
+        }, 
+        "1594306616": {
+            "variable_dict": {
+                "STRING": {
+                    "\u4fe1\u606f": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "\u4fe1\u606f": 0
+            }
+        }, 
+        "1617174799": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "jzsk": 0
+                }, 
+                "FLOAT": {
+                    "food": 0.0, 
+                    "gold": 0.0
+                }, 
+                "INTEGER": {
+                    "zyid": 0
+                }, 
+                "UNIT_NAME": {
+                    "uid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "food": 0, 
+                "gold": 0, 
+                "jzsk": 0, 
+                "uid": 0, 
+                "zyid": 0
+            }
+        }, 
+        "1647644926": {
+            "variable_dict": {
+                "PLAYER": {
+                    "wj": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "wj": 0
+            }
+        }, 
+        "1658396911": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "wjid": 0, 
+                    "\u968f\u673a\u89d2\u8272id": 0
+                }, 
+                "PLAYER": {
+                    "wj": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "wj": 0, 
+                "wjid": 0, 
+                "\u968f\u673a\u89d2\u8272id": 0
+            }
+        }, 
+        "1665044742": {
+            "variable_dict": {
+                "ITEM_NAME": {
+                    "\u529f\u6cd5\u7269\u54c1\u7ec4": 0
+                }, 
+                "PLAYER": {}, 
+                "TABLE": {}, 
+                "UI_COMP": {
+                    "tempC": "", 
+                    "tempP": "", 
+                    "\u529f\u6cd5\u63a7\u4ef6\u7ec4": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "tempC": 0, 
+                "tempP": 0, 
+                "\u529f\u6cd5\u63a7\u4ef6\u7ec4": 10, 
+                "\u529f\u6cd5\u7269\u54c1\u7ec4": 10
+            }
+        }, 
+        "1671487736": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "jzsk": 0
+                }, 
+                "FLOAT": {
+                    "food": 0.0, 
+                    "gold": 0.0
+                }, 
+                "INTEGER": {
+                    "zyid": 0
+                }, 
+                "UNIT_NAME": {
+                    "uid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "food": 0, 
+                "gold": 0, 
+                "jzsk": 0, 
+                "uid": 0, 
+                "zyid": 0
+            }
+        }, 
+        "1679438034": {
+            "variable_dict": {
+                "FLOAT": {
+                    "fd": 0.0, 
+                    "jd": 0.0, 
+                    "\u529f\u6cd5\u80cc\u5305\u5f53\u524d\u8fdb\u5ea6": 0.0
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "\u5185\u90e8\u7d22\u5f15": 0, 
+                    "\u5b57\u7b26\u8f6c\u6574\u6570": 0, 
+                    "\u5f53\u524d\u529f\u6cd5\u6570\u91cf": 0, 
+                    "\u9576\u5d4c\u754c\u9762\u5185\u90e8\u7d22\u5f15": 0
+                }, 
+                "ITEM_NAME": {
+                    "\u5185\u5faa\u73af\u529f\u6cd5": 0, 
+                    "\u529f\u6cd5\u7269\u54c1\u7ec4": 0, 
+                    "\u5916\u5faa\u73af\u529f\u6cd5": 0, 
+                    "\u5f53\u524d\u529f\u6cd5": 0, 
+                    "\u5f85\u63cf\u8ff0\u7269\u54c1": 0
+                }, 
+                "NEW_TIMER": {
+                    "\u529f\u6cd5\u80cc\u5305\u8ba1\u65f6\u5668": -1
+                }, 
+                "STRING": {
+                    "fh": "", 
+                    "\u5f53\u524d\u529f\u6cd5\u540d\u79f0": ""
+                }, 
+                "TABLE": {
+                    "\u529f\u6cd5\u4f7f\u7528\u8868": null, 
+                    "\u73a9\u5bb6\u529f\u6cd5\u4f7f\u7528\u8868": null, 
+                    "\u73a9\u5bb6\u529f\u6cd5\u9053\u5177\u8868": null
+                }, 
+                "UI_COMP": {
+                    "tempC": "", 
+                    "tempP": "", 
+                    "\u529f\u6cd5\u63a7\u4ef6\u7ec4": "", 
+                    "\u529f\u6cd5\u9576\u5d4c\u5217\u8868": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "fd": 0, 
+                "fh": 10, 
+                "i": 0, 
+                "jd": 0, 
+                "tempC": 0, 
+                "tempP": 0, 
+                "\u5185\u5faa\u73af\u529f\u6cd5": 0, 
+                "\u5185\u90e8\u7d22\u5f15": 0, 
+                "\u529f\u6cd5\u4f7f\u7528\u8868": 0, 
+                "\u529f\u6cd5\u63a7\u4ef6\u7ec4": 10, 
+                "\u529f\u6cd5\u7269\u54c1\u7ec4": 10, 
+                "\u529f\u6cd5\u80cc\u5305\u5f53\u524d\u8fdb\u5ea6": 0, 
+                "\u529f\u6cd5\u80cc\u5305\u8ba1\u65f6\u5668": 0, 
+                "\u529f\u6cd5\u9576\u5d4c\u5217\u8868": 10, 
+                "\u5916\u5faa\u73af\u529f\u6cd5": 0, 
+                "\u5b57\u7b26\u8f6c\u6574\u6570": 0, 
+                "\u5f53\u524d\u529f\u6cd5": 0, 
+                "\u5f53\u524d\u529f\u6cd5\u540d\u79f0": 0, 
+                "\u5f53\u524d\u529f\u6cd5\u6570\u91cf": 0, 
+                "\u5f85\u63cf\u8ff0\u7269\u54c1": 0, 
+                "\u73a9\u5bb6\u529f\u6cd5\u4f7f\u7528\u8868": 0, 
+                "\u73a9\u5bb6\u529f\u6cd5\u9053\u5177\u8868": 0, 
+                "\u9576\u5d4c\u754c\u9762\u5185\u90e8\u7d22\u5f15": 0
+            }
+        }, 
+        "1712926937": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "\u901a\u884c\u8bc1\u5217\u8868\u6b63\u5728\u62d6\u62fd": false
+                }, 
+                "FLOAT": {
+                    "fd": 0.0, 
+                    "jd": 0.0
+                }, 
+                "INTEGER": {
+                    "i": 0
+                }, 
+                "NEW_TIMER": {
+                    "\u901a\u884c\u8bc1\u4efb\u52a1\u8ba1\u65f6\u5668": -1
+                }, 
+                "STRING": {
+                    "\u5151\u6362\u7801": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "fd": 0, 
+                "i": 0, 
+                "jd": 0, 
+                "\u5151\u6362\u7801": 0, 
+                "\u901a\u884c\u8bc1\u4efb\u52a1\u8ba1\u65f6\u5668": 0, 
+                "\u901a\u884c\u8bc1\u5217\u8868\u6b63\u5728\u62d6\u62fd": 0
+            }
+        }, 
+        "1725829387": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "skid": 0
+                }, 
+                "INTEGER": {
+                    "ty": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "skid": 0, 
+                "ty": 0
+            }
+        }, 
+        "1755144379": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "index": 0, 
+                    "row": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "index": 0, 
+                "player": 0, 
+                "row": 0
+            }
+        }, 
+        "1755373815": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "jzsk": 0
+                }, 
+                "FLOAT": {
+                    "food": 0.0, 
+                    "gold": 0.0
+                }, 
+                "INTEGER": {
+                    "zyid": 0
+                }, 
+                "UNIT_NAME": {
+                    "uid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "food": 0, 
+                "gold": 0, 
+                "jzsk": 0, 
+                "uid": 0, 
+                "zyid": 0
+            }
+        }, 
+        "1765691653": {
+            "variable_dict": {
+                "ITEM_NAME": {
+                    "\u529f\u6cd5\u7269\u54c1\u7ec4": 0, 
+                    "\u5916\u5faa\u73af\u529f\u6cd5": 0
+                }, 
+                "PLAYER": {}, 
+                "STRING": {
+                    "\u5f53\u524d\u529f\u6cd5\u540d\u79f0": ""
+                }, 
+                "TABLE": {}, 
+                "UI_COMP": {
+                    "tempC": "", 
+                    "tempP": "", 
+                    "\u529f\u6cd5\u63a7\u4ef6\u7ec4": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "tempC": 0, 
+                "tempP": 0, 
+                "\u529f\u6cd5\u63a7\u4ef6\u7ec4": 10, 
+                "\u529f\u6cd5\u7269\u54c1\u7ec4": 10, 
+                "\u5916\u5faa\u73af\u529f\u6cd5": 0, 
+                "\u5f53\u524d\u529f\u6cd5\u540d\u79f0": 0
+            }
+        }, 
+        "1771921608": {
+            "variable_dict": {
+                "FLOAT": {
+                    "dis": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "dis": 0
+            }
+        }, 
+        "1780588830": {
+            "variable_dict": {
+                "ANGLE": {
+                    "angle1": 0.0, 
+                    "angle2": 0.0, 
+                    "angle3": 0.0, 
+                    "\u89d2\u5ea6": 0.0
+                }, 
+                "FLOAT": {
+                    "\u5750\u6807x": 0.0, 
+                    "\u5750\u6807y": 0.0
+                }, 
+                "INTEGER": {
+                    "glold": 0, 
+                    "i": 0, 
+                    "index_num": 0, 
+                    "j": 0, 
+                    "len": 0, 
+                    "loop": 0, 
+                    "n": 0, 
+                    "remain_num": 0, 
+                    "wjid": 0, 
+                    "\u4eba\u6570": 0, 
+                    "\u51fa\u6765\u6570\u91cf": 0, 
+                    "\u5269\u4f59\u4eba\u6570": 0, 
+                    "\u53d6\u5230\u4eba\u6570": 0
+                }, 
+                "POINT": {
+                    "loc": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "startLoc": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "zjLoc": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {
+                    "str": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "n_danwei": 0, 
+                    "temp": 0, 
+                    "\u4e0a\u9635\u7ec4": 0, 
+                    "\u5efa\u7b51\u5355\u4f4d\u6570\u7ec4": 0
+                }, 
+                "UNIT_GROUP": {
+                    "\u73a9\u5bb6\u5efa\u7b51\u7ec4": []
+                }
+            }, 
+            "variable_length_dict": {
+                "angle1": 10, 
+                "angle2": 10, 
+                "angle3": 10, 
+                "glold": 10, 
+                "i": 0, 
+                "index_num": 0, 
+                "j": 0, 
+                "len": 0, 
+                "loc": 0, 
+                "loop": 0, 
+                "n": 0, 
+                "n_danwei": 0, 
+                "remain_num": 10, 
+                "startLoc": 0, 
+                "str": 0, 
+                "temp": 0, 
+                "wjid": 0, 
+                "zjLoc": 0, 
+                "\u4e0a\u9635\u7ec4": 10, 
+                "\u4eba\u6570": 0, 
+                "\u51fa\u6765\u6570\u91cf": 0, 
+                "\u5269\u4f59\u4eba\u6570": 0, 
+                "\u53d6\u5230\u4eba\u6570": 0, 
+                "\u5750\u6807x": 0, 
+                "\u5750\u6807y": 0, 
+                "\u5efa\u7b51\u5355\u4f4d\u6570\u7ec4": 10, 
+                "\u73a9\u5bb6\u5efa\u7b51\u7ec4": 0, 
+                "\u89d2\u5ea6": 0
+            }
+        }, 
+        "1785688324": {
+            "variable_dict": {
+                "INTEGER": {
+                    "j": 0, 
+                    "\u5df2\u4f7f\u7528\u4e2a\u6570": 0
+                }, 
+                "ITEM_NAME": {
+                    "\u5df2\u4f7f\u7528\u529f\u6cd5": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "TABLE": {}
+            }, 
+            "variable_length_dict": {
+                "j": 0, 
+                "\u5df2\u4f7f\u7528\u4e2a\u6570": 0, 
+                "\u5df2\u4f7f\u7528\u529f\u6cd5": 0, 
+                "\u73a9\u5bb6": 0
+            }
+        }, 
+        "1805476041": {
+            "variable_dict": {
+                "INTEGER": {
+                    "tab_index": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "tab_index": 0
+            }
+        }, 
+        "1812410432": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "jzsk": 0
+                }, 
+                "INTEGER": {
+                    "n": 0, 
+                    "wjid": 0, 
+                    "zyid": 0
+                }, 
+                "PLAYER": {
+                    "wj": 0, 
+                    "\u73a9\u5bb6": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "jzsk": 0, 
+                "n": 0, 
+                "wj": 0, 
+                "wjid": 0, 
+                "zyid": 0, 
+                "\u73a9\u5bb6": 0
+            }
+        }, 
+        "1812410433": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u65f6\u95f4": 0.0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u5b57\u7b26\u4e32": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5b57\u7b26\u4e32": 0, 
+                "\u65f6\u95f4": 0, 
+                "\u73a9\u5bb6": 0
+            }
+        }, 
+        "1844474141": {
+            "variable_dict": {
+                "FLOAT": {
+                    "shishu": 0.0
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "wjid": 0
+                }, 
+                "PLAYER": {
+                    "wj": 0
+                }, 
+                "POINT": {
+                    "p": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "UNIT_ENTITY": {
+                    "n_danwei": 0
+                }, 
+                "UNIT_NAME": {
+                    "danweiT": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "danweiT": 0, 
+                "i": 0, 
+                "n_danwei": 0, 
+                "p": 0, 
+                "shishu": 0, 
+                "wj": 0, 
+                "wjid": 0
+            }
+        }, 
+        "1862742090": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "b": false
+                }, 
+                "FLOAT": {
+                    "t": 0.0, 
+                    "v": 0.0, 
+                    "\u65f6\u95f4": 0.0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "UI_COMP": {
+                    "\u754c\u9762": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "b": 0, 
+                "t": 0, 
+                "v": 0, 
+                "\u65f6\u95f4": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u754c\u9762": 0
+            }
+        }, 
+        "1872433179": {
+            "variable_dict": {
+                "ITEM_ENTITY": {
+                    "item": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "item": 0, 
+                "player": 0
+            }
+        }, 
+        "1878839496": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "jzsk": 0
+                }, 
+                "FLOAT": {
+                    "food": 0.0, 
+                    "gold": 0.0
+                }, 
+                "UNIT_NAME": {
+                    "uid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "food": 0, 
+                "gold": 0, 
+                "jzsk": 0, 
+                "uid": 0
+            }
+        }, 
+        "1883234523": {
+            "variable_dict": {
+                "BOOLEAN": {}, 
+                "FLOAT": {
+                    "\u7ed3\u7b97\u5750\u6807X": 0.0
+                }, 
+                "INTEGER": {
+                    "\u5f53\u524d\u9f20\u6807\u5750\u6807X": 0, 
+                    "\u8d77\u59cb\u9f20\u6807\u5750\u6807X": 0
+                }, 
+                "NEW_TIMER": {}
+            }, 
+            "variable_length_dict": {
+                "\u5f53\u524d\u9f20\u6807\u5750\u6807X": 0, 
+                "\u7ed3\u7b97\u5750\u6807X": 0, 
+                "\u8d77\u59cb\u9f20\u6807\u5750\u6807X": 0
+            }
+        }, 
+        "1892561142": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "key": 0, 
+                    "\u5355\u529f\u6cd5\u7b49\u7ea7\u6570\u91cf": 0, 
+                    "\u5355\u82f1\u96c4\u76ae\u80a4\u6570\u91cf": 0, 
+                    "\u5956\u54c1\u4e0b\u6807": 0
+                }, 
+                "ITEM_NAME": {
+                    "\u5165\u53c2": 0, 
+                    "\u8fd4\u56de\u7269\u54c1": 0, 
+                    "\u968f\u673a\u529f\u6cd5\u6c60": 0, 
+                    "\u968f\u673a\u76ae\u80a4\u6c60": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "key": 0, 
+                "\u5165\u53c2": 0, 
+                "\u5355\u529f\u6cd5\u7b49\u7ea7\u6570\u91cf": 0, 
+                "\u5355\u82f1\u96c4\u76ae\u80a4\u6570\u91cf": 0, 
+                "\u5956\u54c1\u4e0b\u6807": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u8fd4\u56de\u7269\u54c1": 0, 
+                "\u968f\u673a\u529f\u6cd5\u6c60": 10, 
+                "\u968f\u673a\u76ae\u80a4\u6c60": 10
+            }
+        }, 
+        "1898844371": {
+            "variable_dict": {
+                "INTEGER": {
+                    "\u76ae\u80a4\u4f4d\u7f6e": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u76ae\u80a4\u4f4d\u7f6e": 0
+            }
+        }, 
+        "1903862004": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "\u5c0f\u65f6": 0, 
+                    "\u5e74": 0, 
+                    "\u65e5": 0, 
+                    "\u65e5\u671f\u6574\u6570": 0, 
+                    "\u6708": 0, 
+                    "\u76ae\u80a4\u4f7f\u7528\u60c5\u51b5": 0, 
+                    "\u76ae\u80a4\u62e5\u6709\u60c5\u51b5": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "STRING": {}, 
+                "TABLE": {
+                    "\u5355\u673a\u73a9\u5bb6\u76ae\u80a4\u4f7f\u7528\u8868": null, 
+                    "\u5355\u673a\u73a9\u5bb6\u76ae\u80a4\u62e5\u6709\u8868": null
+                }, 
+                "TABLE_SAVE": {}, 
+                "UI_COMP": {
+                    "kjsz": "", 
+                    "tempC": "", 
+                    "tempC2": "", 
+                    "tempP": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "kjsz": 10, 
+                "tempC": 0, 
+                "tempC2": 0, 
+                "tempP": 0, 
+                "\u5355\u673a\u73a9\u5bb6\u76ae\u80a4\u4f7f\u7528\u8868": 0, 
+                "\u5355\u673a\u73a9\u5bb6\u76ae\u80a4\u62e5\u6709\u8868": 0, 
+                "\u5c0f\u65f6": 0, 
+                "\u5e74": 0, 
+                "\u65e5": 0, 
+                "\u65e5\u671f\u6574\u6570": 0, 
+                "\u6708": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u76ae\u80a4\u4f7f\u7528\u60c5\u51b5": 10, 
+                "\u76ae\u80a4\u62e5\u6709\u60c5\u51b5": 10
+            }
+        }, 
+        "1929850942": {
+            "variable_dict": {
+                "IMAGE_KEY": {
+                    "\u56fe\u6807": 0
+                }, 
+                "UI_COMP": {
+                    "\u754c\u9762": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "\u56fe\u6807": 0, 
+                "\u754c\u9762": 0
+            }
+        }, 
+        "1947451601": {
+            "variable_dict": {
+                "INTEGER": {
+                    "heroIndex": 0
+                }, 
+                "STRING": {
+                    "crcs": "", 
+                    "cs": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "crcs": 0, 
+                "cs": 0, 
+                "heroIndex": 0
+            }
+        }, 
+        "1994264841": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "skid": 0
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "ty": 0
+                }, 
+                "PLAYER": {
+                    "wj": 0
+                }, 
+                "POINT": {
+                    "p": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "p": 0, 
+                "skid": 0, 
+                "ty": 0, 
+                "wj": 0
+            }
+        }, 
+        "2011042060": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0
+            }
+        }, 
+        "2013737032": {
+            "variable_dict": {
+                "ITEM_NAME": {
+                    "\u5546\u54c1": 0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "UI_COMP": {
+                    "f": "", 
+                    "\u754c\u9762": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "f": 0, 
+                "\u5546\u54c1": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u754c\u9762": 0
+            }
+        }, 
+        "2014875937": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u91d1\u5e01": 0.0
+                }, 
+                "INTEGER": {
+                    "\u6ce2\u6b21": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u6ce2\u6b21": 0, 
+                "\u91d1\u5e01": 0
+            }
+        }, 
+        "2079805465": {
+            "variable_dict": {
+                "INTEGER": {
+                    "Ci": 0, 
+                    "Ri": 0, 
+                    "cindex": 0, 
+                    "i": 0, 
+                    "rindex": 0
+                }, 
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "Ci": 0, 
+                "Ri": 0, 
+                "cindex": 0, 
+                "i": 0, 
+                "player": 0, 
+                "rindex": 0, 
+                "t": 0, 
+                "unit": 0
+            }
+        }, 
+        "2143150292": {
+            "variable_dict": {
+                "BOOLEAN": {}, 
+                "FLOAT": {
+                    "\u529f\u6cd5\u80cc\u5305\u5f53\u524d\u8fdb\u5ea6": 0.0
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "\u53d6\u6a21\u503c": 0, 
+                    "\u65cb\u8f6c\u683c\u6570": 0, 
+                    "\u7f29\u653e\u6b21\u6570": 0
+                }, 
+                "ITEM_NAME": {
+                    "\u771f\u5b9e\u5956\u54c1": 0
+                }, 
+                "NEW_TIMER": {
+                    "\u529f\u6cd5\u80cc\u5305\u8ba1\u65f6\u5668": -1, 
+                    "\u7f29\u653e\u8ba1\u65f6\u5668": -1
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "SOUND_ENTITY": {
+                    "\u8f6c\u52a8\u58f0\u97f3": 0
+                }, 
+                "UI_COMP": {
+                    "\u4e2d\u5956\u63a7\u4ef6": "", 
+                    "\u5956\u54c1\u63a7\u4ef6": ""
+                }, 
+                "UI_PREFAB_INSTANCE": {}
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "\u4e2d\u5956\u63a7\u4ef6": 0, 
+                "\u529f\u6cd5\u80cc\u5305\u5f53\u524d\u8fdb\u5ea6": 0, 
+                "\u529f\u6cd5\u80cc\u5305\u8ba1\u65f6\u5668": 0, 
+                "\u53d6\u6a21\u503c": 0, 
+                "\u5956\u54c1\u63a7\u4ef6": 0, 
+                "\u65cb\u8f6c\u683c\u6570": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u771f\u5b9e\u5956\u54c1": 0, 
+                "\u7f29\u653e\u6b21\u6570": 0, 
+                "\u7f29\u653e\u8ba1\u65f6\u5668": 0, 
+                "\u8f6c\u52a8\u58f0\u97f3": 0
+            }
+        }
+    }, 
+    "variable_comments": {}, 
+    "variable_dict": {
+        "ABILITY": {
+            "\u4e3b\u516c\u6280\u80fd": null
+        }, 
+        "ABILITY_NAME": {
+            "\u4e3b\u516c\u6280\u80fd\u7c7b\u578b": 0, 
+            "\u5efa\u9020\u6280\u80fd": 0, 
+            "\u5efa\u9020\u6280\u80fd\uff08\u4e1c\u5434\uff09": 0, 
+            "\u5efa\u9020\u6280\u80fd\uff08\u66f9\u9b4f\uff09": 0, 
+            "\u5efa\u9020\u6280\u80fd\uff08\u8700\u6c49\uff09": 0, 
+            "\u5efa\u9020\u6280\u80fd\uff08\u897f\u51c9\uff09": 0
+        }, 
+        "BOOLEAN": {
+            "GameOver": false, 
+            "TEST": false, 
+            "isEnd": false, 
+            "is_send": false, 
+            "tzstate": false, 
+            "\u4e71\u4e16\u6a21\u5f0f": false, 
+            "\u5173\u95ed\u533a\u57df\u9650\u5236": true, 
+            "\u52a0\u7fa4\u5956\u52b1": false, 
+            "\u53cd\u5f39\u4f24\u5bb3\u5224\u5b9a": false, 
+            "\u56de\u5408\u8fdb\u884c\u4e2d": false, 
+            "\u5854\u5168\u89e3\u9501": false, 
+            "\u5b58\u6863\u5168\u89e3\u9501": false, 
+            "\u5f00\u59cb\u5efa\u9020": false, 
+            "\u65b0\u6625\u4f73\u8282": true, 
+            "\u6b63\u5728\u62bd\u5956": false, 
+            "\u707e\u53d8\u6a21\u5f0f": false, 
+            "\u89e3\u9501\u5927\u707e\u53d8": false, 
+            "\u9f99\u8109\u8bed\u97f3cd": true
+        }, 
+        "FLOAT": {
+            "RangerGold": 0.0, 
+            "UnitStateLife": 0.0, 
+            "UnitStateLife2": 0.0, 
+            "UnitStateLife3": 0.0, 
+            "\u4e1c\u5434\u4ef7\u683c": 0.0, 
+            "\u521d\u59cb\u529f\u52cb": 0.0, 
+            "\u521d\u59cb\u653b\u51fb\u529b": 0.0, 
+            "\u521d\u59cb\u653b\u51fb\u901f\u5ea6%": 0.0, 
+            "\u521d\u59cb\u91d1\u5e01": 0.0, 
+            "\u521d\u59cb\u9b54\u6cd5\u503c": 0.0, 
+            "\u521d\u59cb\u9b54\u6cd5\u6062\u590d": 0.0, 
+            "\u552e\u5854\u7cfb\u6570": 0.8, 
+            "\u5efa\u9020\u4ef7\u683c": 0.0, 
+            "\u653b\u51fb\u56de\u84dd": 0.0, 
+            "\u66f9\u9b4f\u4ef7\u683c": 0.0, 
+            "\u8700\u6c49\u4ef7\u683c": 0.0, 
+            "\u897f\u51c9\u4ef7\u683c": 0.0, 
+            "\u8fdb\u653b\u519b\u9977": 0.0, 
+            "\u96be\u5ea6\u521d\u59cb\u91d1\u5e01": 0.0, 
+            "\u96be\u5ea6\u62a4\u7532": 0.0, 
+            "\u96be\u5ea6\u751f\u547d%": 0.0
+        }, 
+        "IMAGE_KEY": {
+            "MeritArt": 0
+        }, 
+        "INTEGER": {
+            "A\u6570\u91cf": 0, 
+            "BGM\u5012\u8ba1\u65f6": 0, 
+            "BGM\u5e8f\u53f7": 0, 
+            "BOSS\u6570\u91cf": 0, 
+            "E\u6570\u91cf": 0, 
+            "GLOBAL_BAG_MAX_NUM": 0, 
+            "GameLife": 0, 
+            "GameMaxLife": 0, 
+            "GameTimeMaxS": 0, 
+            "GameTimeS": 0, 
+            "IWave": 0, 
+            "IWaveMax": 56, 
+            "Nandu": 0, 
+            "PlayerSdcs": 0, 
+            "Q\u6570\u91cf": 0, 
+            "RangerFood": 0, 
+            "R\u6570\u91cf": 0, 
+            "S\u6570\u91cf": 0, 
+            "W\u6570\u91cf": 0, 
+            "Z\u6570\u91cf": 0, 
+            "choose_num": 0, 
+            "iRound": 0, 
+            "sGap": 0, 
+            "tt": 0, 
+            "\u4e1c\u5434\u4eba\u53e3": 0, 
+            "\u4e1c\u5434\u901a\u5173\u5b58\u6863_1": 0, 
+            "\u4e1c\u5434\u901a\u5173\u5b58\u6863_2": 0, 
+            "\u4e1c\u5434\u901a\u5173\u5b58\u6863_3": 0, 
+            "\u4e1c\u5434\u901a\u5173\u5b58\u6863_4": 0, 
+            "\u4e1c\u5434\u901a\u5173\u5b58\u6863_5": 0, 
+            "\u5148\u77e5\u7cfb\u65701": 0, 
+            "\u5148\u77e5\u7cfb\u65702": 0, 
+            "\u5148\u77e5\u7cfb\u65703": 0, 
+            "\u5148\u77e5\u7cfb\u65704": 0, 
+            "\u51fa\u5175num": 0, 
+            "\u51fa\u5175\u4eba\u6570": 0, 
+            "\u51fa\u5175\u95f4\u9694\u65f6\u95f4": 0, 
+            "\u529f\u6cd5\u9576\u5d4c\u7c7b\u578b": 0, 
+            "\u529f\u6cd5\u9576\u5d4c\u7d22\u5f15": 0, 
+            "\u53ef\u7528\u4eba\u53e3\u521d\u59cb\u503c": 0, 
+            "\u547c\u5438\u6b21\u6570": 0, 
+            "\u56de\u5408\u5f00\u59cb\u51c6\u5907\u65f6\u95f4": 0, 
+            "\u5b58\u6d3b\u6570": 0, 
+            "\u5f00\u5c40\u65f6\u95f4": 30, 
+            "\u65b0\u624b\u6307\u5f15\u6b65\u9aa4": -1, 
+            "\u66f9\u9b4f\u4eba\u53e3": 0, 
+            "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_1": 0, 
+            "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_2": 0, 
+            "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_3": 0, 
+            "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_4": 0, 
+            "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_5": 0, 
+            "\u6a21\u5f0fID": 0, 
+            "\u6ce2\u6b21\u91d1\u5e01": 0, 
+            "\u73a9\u5bb6\u6570": 0, 
+            "\u7535\u5f71\u9ed1\u5e55\u900f\u660e\u5ea6": 0, 
+            "\u804c\u4e1a\u7f16\u53f7": 0, 
+            "\u8700\u6c49\u4eba\u53e3": 0, 
+            "\u8700\u6c49\u901a\u5173\u5b58\u6863_1": 0, 
+            "\u8700\u6c49\u901a\u5173\u5b58\u6863_2": 0, 
+            "\u8700\u6c49\u901a\u5173\u5b58\u6863_3": 0, 
+            "\u8700\u6c49\u901a\u5173\u5b58\u6863_4": 0, 
+            "\u8700\u6c49\u901a\u5173\u5b58\u6863_5": 0, 
+            "\u884c\u56ca\u754c\u9762\u5de6\u4fa7\u5bfc\u822a\u680f\u4e0b\u6807": 0, 
+            "\u897f\u51c9\u4eba\u53e3": 0, 
+            "\u897f\u51c9\u901a\u5173\u5b58\u6863_1": 0, 
+            "\u897f\u51c9\u901a\u5173\u5b58\u6863_2": 0, 
+            "\u897f\u51c9\u901a\u5173\u5b58\u6863_3": 0, 
+            "\u897f\u51c9\u901a\u5173\u5b58\u6863_4": 0, 
+            "\u897f\u51c9\u901a\u5173\u5b58\u6863_5": 0, 
+            "\u9009\u89d2\u8d85\u65f6\u65f6\u95f4": 0, 
+            "\u901a\u5173\u5956\u52b1\u96be\u5ea6": 1, 
+            "\u901a\u5173\u5956\u52b1\u9875\u7b7e": 1
+        }, 
+        "ITEM_ENTITY": {}, 
+        "ITEM_NAME": {
+            "\u529f\u6cd5\u754c\u9762\u529f\u6cd5\u9576\u5d4c\u7269\u54c1\u7ec4": 0, 
+            "\u5957\u88c5\u5854": 0, 
+            "\u5f53\u524d\u9576\u5d4c\u529f\u6cd5": 0, 
+            "\u5f85\u62bd\u5956\u54c1": 0, 
+            "\u968f\u673a\u9053\u5177": 0
+        }, 
+        "LINK_SFX_ENTITY": {
+            "tzlight": 0
+        }, 
+        "NEW_TIMER": {
+            "\u8ba1\u65f6\u5668": -1, 
+            "\u901a\u884c\u8bc1\u5217\u8868\u8ba1\u65f6\u5668": -1
+        }, 
+        "PLAYER": {
+            "Player": null, 
+            "opArr": 0, 
+            "\u80cc\u666f\u97f3\u4e50\u73a9\u5bb6": 0
+        }, 
+        "PLAYER_GROUP": {
+            "Force1": [], 
+            "\u6dd8\u6c70\u73a9\u5bb6\u7ec4": []
+        }, 
+        "POINT": {
+            "PlayerStartLoc": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "\u51751\u70b9": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "\u51752\u70b9": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "\u51753\u70b9": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "\u51754\u70b9": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "\u51fa\u5175\u70b9": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "\u65b0\u624b\u5f15\u5bfc\u533a\u57df": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "\u73a9\u5bb6\u51fa\u751f\u70b9": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "\u9020\u5175\u70b9": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    0, 
+                    0
+                ]
+            }
+        }, 
+        "POINT_LIST": {
+            "Path": null
+        }, 
+        "POLYGON": {
+            "\u51fa\u5175\u533a\u57df1": 0
+        }, 
+        "RECTANGLE": {
+            "\u9650\u5236\u533a\u57df": 0
+        }, 
+        "ROUND_AREA": {
+            "\u7269\u54c1\u653e\u7f6e\u533a\u57df": 0
+        }, 
+        "SFX_ENTITY": {
+            "\u9009\u62e9\u7279\u6548": 0
+        }, 
+        "SOUND_ENTITY": {
+            "\u5931\u8d25\u97f3\u4e50": 0, 
+            "\u5f53\u524dBGM": 0, 
+            "\u80cc\u666f": 0, 
+            "\u80dc\u5229\u97f3\u4e50": 0
+        }, 
+        "STRING": {
+            "NanduString": "", 
+            "UnitStateSkill": "", 
+            "\u5175\u79cd\u76ae\u80a4\u5f53\u524d\u82f1\u96c4\u540d\u79f0": "", 
+            "\u73a9\u5bb6\u5f53\u524d\u67e5\u770b\u7684\u9875\u7b7e": "11", 
+            "\u7cbe\u82f1\u602a\u6280\u80fd": "", 
+            "\u82f1\u96c4\u76ae\u80a4\u5f53\u524d\u82f1\u96c4\u540d\u79f0": "", 
+            "\u884c\u56ca\u754c\u9762\u4f7f\u7528\u9053\u5177\u540d\u79f0": ""
+        }, 
+        "TABLE": {
+            "UI_Manager": null, 
+            "temp_rank": null, 
+            "v\u4fe1\u606f\u63d0\u793a\u8868": null, 
+            "v\u4fe1\u606f\u63d0\u793a\u900f\u660e\u5ea6\u8868": null, 
+            "v\u4fe1\u606f\u63d0\u793a\u989c\u8272\u8868": null, 
+            "\u6392\u884c\u8868": null
+        }, 
+        "TEXTURE": {
+            "Boss\u63d0\u793a\u56fe\u7247": 0, 
+            "UnitStateIcon": 0, 
+            "\u6218\u529f\u7b49\u7ea7\u56fe\u7247": 0, 
+            "\u7cbe\u82f1\u63d0\u793a\u56fe\u7247": 0
+        }, 
+        "UI_COMP": {
+            "Animation_Effect": "", 
+            "MultiBoardItemDrop": "", 
+            "MultiBoardItemFood": "", 
+            "MultiBoardItemGold": "", 
+            "MultiBoardItemGx": "", 
+            "MultiBoardItemIcon": "", 
+            "MultiBoardItemKill": "", 
+            "MultiBoardItemName": "", 
+            "MultiBoardItemRace": "", 
+            "\u4ef7\u4f4dUI": "", 
+            "\u529f\u6cd5\u754c\u9762\u529f\u6cd5\u9576\u5d4c\u63a7\u4ef6\u7ec4": "", 
+            "\u529f\u6cd5\u9576\u5d4c\u9009\u4e2d\u63a7\u4ef6": "", 
+            "\u591a\u9762\u677f": "", 
+            "\u591a\u9762\u677f\u6807\u9898\u3010\u8840\u91cf\u3011": "", 
+            "\u591a\u9762\u677f\u6807\u9898\u3010\u96be\u5ea6\u3011": "", 
+            "\u591a\u9762\u677f\u80cc\u666f": "", 
+            "\u591a\u9762\u677f\u9879\u76ee\u3010\u4eba\u53e3\u3011": "", 
+            "\u591a\u9762\u677f\u9879\u76ee\u3010\u51fb\u6740\u3011": "", 
+            "\u591a\u9762\u677f\u9879\u76ee\u3010\u529f\u52cb\u3011": "", 
+            "\u591a\u9762\u677f\u9879\u76ee\u3010\u5934\u50cf\u3011": "", 
+            "\u591a\u9762\u677f\u9879\u76ee\u3010\u73a9\u5bb6\u3011": "", 
+            "\u591a\u9762\u677f\u9879\u76ee\u3010\u804c\u4e1a\u3011": "", 
+            "\u591a\u9762\u677f\u9879\u76ee\u3010\u80cc\u666f\u3011": "", 
+            "\u591a\u9762\u677f\u9879\u76ee\u3010\u91d1\u5e01\u3011": "", 
+            "\u5efa\u9020\u6280\u80fd\u6309\u94ae": "", 
+            "\u5efa\u9020\u6309\u94ae": "", 
+            "\u5efa\u9020\u6309\u94ae\u56fe\u7247": "", 
+            "\u5efa\u9020\u6309\u94ae\u7981\u7528": "", 
+            "\u6218\u529f\u573a\u666f\u754c\u9762": "", 
+            "\u6280\u80fd\u6309\u94ae\u5feb\u6377\u952e": "", 
+            "\u6280\u80fd\u6309\u94ae\u80cc\u666f": "", 
+            "\u6280\u80fd\u81ea\u52a8\u8fb9\u6846": "", 
+            "\u6280\u80fd\u88ab\u52a8\u8fb9\u6846": "", 
+            "\u6280\u80fd\u975e\u81ea\u52a8\u8fb9\u6846": "", 
+            "\u65b0\u624b\u5f15\u5bfc\u754c\u9762": "", 
+            "\u9009\u62e9\u82f1\u96c4\u754c\u9762": ""
+        }, 
+        "UNIT_ENTITY": {
+            "Builder": null, 
+            "PlayerSelectUnit": 0, 
+            "tzunit": 0, 
+            "\u4e0a\u53e4\u795e\u9f99": 0, 
+            "\u73a9\u5bb6\u82f1\u96c4": 0, 
+            "\u7ed3\u675f\u7535\u5f71\u5f20\u89d2": 0, 
+            "\u9063\u6563\u5355\u4f4d": 0
+        }, 
+        "UNIT_NAME": {
+            "BossType": 0, 
+            "CareerRanger": 0, 
+            "JYType": 0, 
+            "UnitType": 0, 
+            "\u5080\u5121\u8349\u4eba": 0, 
+            "\u5efa\u9020\u6b66\u5c06\u7c7b\u578b": 0, 
+            "\u82f1\u96c4": 0
+        }
+    }, 
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "UI_Manager", 
+                "UI_Manager"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "GLOBAL_BAG_MAX_NUM", 
+                "GLOBAL_BAG_MAX_NUM"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "GameMaxLife", 
+                "GameMaxLife"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Path", 
+                "Path"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u552e\u5854\u7cfb\u6570", 
+                "\u552e\u5854\u7cfb\u6570"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "GameLife", 
+                "GameLife"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Builder", 
+                "Builder"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "PlayerSdcs", 
+                "PlayerSdcs"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "IWave", 
+                "IWave"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Player", 
+                "Player"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5efa\u9020\u6b66\u5c06\u7c7b\u578b", 
+                "\u5efa\u9020\u6b66\u5c06\u7c7b\u578b"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5efa\u9020\u6280\u80fd\uff08\u8700\u6c49\uff09", 
+                "\u5efa\u9020\u6280\u80fd\uff08\u8700\u6c49\uff09"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u82f1\u96c4", 
+                "\u73a9\u5bb6\u82f1\u96c4"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u591a\u9762\u677f\u6807\u9898\u3010\u96be\u5ea6\u3011", 
+                "\u591a\u9762\u677f\u6807\u9898\u3010\u96be\u5ea6\u3011"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u53cd\u5f39\u4f24\u5bb3\u5224\u5b9a", 
+                "\u53cd\u5f39\u4f24\u5bb3\u5224\u5b9a"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5efa\u9020\u6280\u80fd\u6309\u94ae", 
+                "\u5efa\u9020\u6280\u80fd\u6309\u94ae"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "UnitStateSkill", 
+                "UnitStateSkill"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u66f9\u9b4f\u4eba\u53e3", 
+                "\u66f9\u9b4f\u4eba\u53e3"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u591a\u9762\u677f\u9879\u76ee\u3010\u51fb\u6740\u3011", 
+                "\u591a\u9762\u677f\u9879\u76ee\u3010\u51fb\u6740\u3011"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6a21\u5f0fID", 
+                "\u6a21\u5f0fID"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u9009\u62e9\u7279\u6548", 
+                "\u9009\u62e9\u7279\u6548"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "NanduString", 
+                "NanduString"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u521d\u59cb\u653b\u51fb\u529b", 
+                "\u521d\u59cb\u653b\u51fb\u529b"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u521d\u59cb\u9b54\u6cd5\u503c", 
+                "\u521d\u59cb\u9b54\u6cd5\u503c"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "BGM\u5e8f\u53f7", 
+                "BGM\u5e8f\u53f7"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5b58\u6d3b\u6570", 
+                "\u5b58\u6d3b\u6570"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u521d\u59cb\u91d1\u5e01", 
+                "\u521d\u59cb\u91d1\u5e01"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5f00\u5c40\u65f6\u95f4", 
+                "\u5f00\u5c40\u65f6\u95f4"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u591a\u9762\u677f\u6807\u9898\u3010\u8840\u91cf\u3011", 
+                "\u591a\u9762\u677f\u6807\u9898\u3010\u8840\u91cf\u3011"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u96be\u5ea6\u751f\u547d%", 
+                "\u96be\u5ea6\u751f\u547d%"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u547c\u5438\u6b21\u6570", 
+                "\u547c\u5438\u6b21\u6570"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u591a\u9762\u677f\u9879\u76ee\u3010\u5934\u50cf\u3011", 
+                "\u591a\u9762\u677f\u9879\u76ee\u3010\u5934\u50cf\u3011"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5148\u77e5\u7cfb\u65702", 
+                "\u5148\u77e5\u7cfb\u65702"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5efa\u9020\u6280\u80fd\uff08\u4e1c\u5434\uff09", 
+                "\u5efa\u9020\u6280\u80fd\uff08\u4e1c\u5434\uff09"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u8fdb\u653b\u519b\u9977", 
+                "\u8fdb\u653b\u519b\u9977"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u7ed3\u675f\u7535\u5f71\u5f20\u89d2", 
+                "\u7ed3\u675f\u7535\u5f71\u5f20\u89d2"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "UnitStateLife3", 
+                "UnitStateLife3"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5854\u5168\u89e3\u9501", 
+                "\u5854\u5168\u89e3\u9501"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u521d\u59cb\u529f\u52cb", 
+                "\u521d\u59cb\u529f\u52cb"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "v\u4fe1\u606f\u63d0\u793a\u8868", 
+                "v\u4fe1\u606f\u63d0\u793a\u8868"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Q\u6570\u91cf", 
+                "Q\u6570\u91cf"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "TEST", 
+                "TEST"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5173\u95ed\u533a\u57df\u9650\u5236", 
+                "\u5173\u95ed\u533a\u57df\u9650\u5236"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u7cbe\u82f1\u63d0\u793a\u56fe\u7247", 
+                "\u7cbe\u82f1\u63d0\u793a\u56fe\u7247"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5b58\u6863\u5168\u89e3\u9501", 
+                "\u5b58\u6863\u5168\u89e3\u9501"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u8700\u6c49\u4eba\u53e3", 
+                "\u8700\u6c49\u4eba\u53e3"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u591a\u9762\u677f\u9879\u76ee\u3010\u4eba\u53e3\u3011", 
+                "\u591a\u9762\u677f\u9879\u76ee\u3010\u4eba\u53e3\u3011"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u897f\u51c9\u4eba\u53e3", 
+                "\u897f\u51c9\u4eba\u53e3"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5efa\u9020\u6280\u80fd\uff08\u897f\u51c9\uff09", 
+                "\u5efa\u9020\u6280\u80fd\uff08\u897f\u51c9\uff09"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u82f1\u96c4", 
+                "\u82f1\u96c4"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u591a\u9762\u677f\u9879\u76ee\u3010\u80cc\u666f\u3011", 
+                "\u591a\u9762\u677f\u9879\u76ee\u3010\u80cc\u666f\u3011"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Z\u6570\u91cf", 
+                "Z\u6570\u91cf"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5efa\u9020\u6280\u80fd", 
+                "\u5efa\u9020\u6280\u80fd"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u4e1c\u5434\u4eba\u53e3", 
+                "\u4e1c\u5434\u4eba\u53e3"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5f00\u59cb\u5efa\u9020", 
+                "\u5f00\u59cb\u5efa\u9020"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "IWaveMax", 
+                "IWaveMax"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "MultiBoardItemKill", 
+                "MultiBoardItemKill"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "BGM\u5012\u8ba1\u65f6", 
+                "BGM\u5012\u8ba1\u65f6"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "BOSS\u6570\u91cf", 
+                "BOSS\u6570\u91cf"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u65b0\u624b\u6307\u5f15\u6b65\u9aa4", 
+                "\u65b0\u624b\u6307\u5f15\u6b65\u9aa4"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "BossType", 
+                "BossType"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u96be\u5ea6\u62a4\u7532", 
+                "\u96be\u5ea6\u62a4\u7532"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "RangerFood", 
+                "RangerFood"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "MultiBoardItemFood", 
+                "MultiBoardItemFood"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5efa\u9020\u4ef7\u683c", 
+                "\u5efa\u9020\u4ef7\u683c"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "PlayerSelectUnit", 
+                "PlayerSelectUnit"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u51754\u70b9", 
+                "\u51754\u70b9"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "CareerRanger", 
+                "CareerRanger"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u9063\u6563\u5355\u4f4d", 
+                "\u9063\u6563\u5355\u4f4d"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "MultiBoardItemGold", 
+                "MultiBoardItemGold"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6280\u80fd\u6309\u94ae\u5feb\u6377\u952e", 
+                "\u6280\u80fd\u6309\u94ae\u5feb\u6377\u952e"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u591a\u9762\u677f\u9879\u76ee\u3010\u804c\u4e1a\u3011", 
+                "\u591a\u9762\u677f\u9879\u76ee\u3010\u804c\u4e1a\u3011"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6218\u529f\u7b49\u7ea7\u56fe\u7247", 
+                "\u6218\u529f\u7b49\u7ea7\u56fe\u7247"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u521d\u59cb\u653b\u51fb\u901f\u5ea6%", 
+                "\u521d\u59cb\u653b\u51fb\u901f\u5ea6%"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5efa\u9020\u6280\u80fd\uff08\u66f9\u9b4f\uff09", 
+                "\u5efa\u9020\u6280\u80fd\uff08\u66f9\u9b4f\uff09"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5148\u77e5\u7cfb\u65703", 
+                "\u5148\u77e5\u7cfb\u65703"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "v\u4fe1\u606f\u63d0\u793a\u900f\u660e\u5ea6\u8868", 
+                "v\u4fe1\u606f\u63d0\u793a\u900f\u660e\u5ea6\u8868"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u591a\u9762\u677f", 
+                "\u591a\u9762\u677f"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u65b0\u624b\u5f15\u5bfc\u533a\u57df", 
+                "\u65b0\u624b\u5f15\u5bfc\u533a\u57df"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "MeritArt", 
+                "MeritArt"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "UnitStateLife2", 
+                "UnitStateLife2"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u51752\u70b9", 
+                "\u51752\u70b9"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6280\u80fd\u975e\u81ea\u52a8\u8fb9\u6846", 
+                "\u6280\u80fd\u975e\u81ea\u52a8\u8fb9\u6846"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "v\u4fe1\u606f\u63d0\u793a\u989c\u8272\u8868", 
+                "v\u4fe1\u606f\u63d0\u793a\u989c\u8272\u8868"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "W\u6570\u91cf", 
+                "W\u6570\u91cf"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "UnitStateIcon", 
+                "UnitStateIcon"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u65b0\u6625\u4f73\u8282", 
+                "\u65b0\u6625\u4f73\u8282"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u591a\u9762\u677f\u9879\u76ee\u3010\u73a9\u5bb6\u3011", 
+                "\u591a\u9762\u677f\u9879\u76ee\u3010\u73a9\u5bb6\u3011"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "GameTimeMaxS", 
+                "GameTimeMaxS"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Animation_Effect", 
+                "Animation_Effect"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Boss\u63d0\u793a\u56fe\u7247", 
+                "Boss\u63d0\u793a\u56fe\u7247"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u8ba1\u65f6\u5668", 
+                "\u8ba1\u65f6\u5668"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "tt", 
+                "tt"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "JYType", 
+                "JYType"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u96be\u5ea6\u521d\u59cb\u91d1\u5e01", 
+                "\u96be\u5ea6\u521d\u59cb\u91d1\u5e01"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "tzunit", 
+                "tzunit"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5efa\u9020\u6309\u94ae\u56fe\u7247", 
+                "\u5efa\u9020\u6309\u94ae\u56fe\u7247"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Nandu", 
+                "Nandu"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u4e71\u4e16\u6a21\u5f0f", 
+                "\u4e71\u4e16\u6a21\u5f0f"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5efa\u9020\u6309\u94ae", 
+                "\u5efa\u9020\u6309\u94ae"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u804c\u4e1a\u7f16\u53f7", 
+                "\u804c\u4e1a\u7f16\u53f7"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u4e3b\u516c\u6280\u80fd\u7c7b\u578b", 
+                "\u4e3b\u516c\u6280\u80fd\u7c7b\u578b"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u707e\u53d8\u6a21\u5f0f", 
+                "\u707e\u53d8\u6a21\u5f0f"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u4e1c\u5434\u4ef7\u683c", 
+                "\u4e1c\u5434\u4ef7\u683c"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u897f\u51c9\u4ef7\u683c", 
+                "\u897f\u51c9\u4ef7\u683c"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "S\u6570\u91cf", 
+                "S\u6570\u91cf"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5148\u77e5\u7cfb\u65704", 
+                "\u5148\u77e5\u7cfb\u65704"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u80cc\u666f", 
+                "\u80cc\u666f"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Force1", 
+                "Force1"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u89e3\u9501\u5927\u707e\u53d8", 
+                "\u89e3\u9501\u5927\u707e\u53d8"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "MultiBoardItemDrop", 
+                "MultiBoardItemDrop"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6280\u80fd\u6309\u94ae\u80cc\u666f", 
+                "\u6280\u80fd\u6309\u94ae\u80cc\u666f"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u7535\u5f71\u9ed1\u5e55\u900f\u660e\u5ea6", 
+                "\u7535\u5f71\u9ed1\u5e55\u900f\u660e\u5ea6"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "GameTimeS", 
+                "GameTimeS"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "E\u6570\u91cf", 
+                "E\u6570\u91cf"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "R\u6570\u91cf", 
+                "R\u6570\u91cf"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u51fa\u751f\u70b9", 
+                "\u73a9\u5bb6\u51fa\u751f\u70b9"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u66f9\u9b4f\u4ef7\u683c", 
+                "\u66f9\u9b4f\u4ef7\u683c"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5931\u8d25\u97f3\u4e50", 
+                "\u5931\u8d25\u97f3\u4e50"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "UnitStateLife", 
+                "UnitStateLife"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u521d\u59cb\u9b54\u6cd5\u6062\u590d", 
+                "\u521d\u59cb\u9b54\u6cd5\u6062\u590d"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u901a\u5173\u5956\u52b1\u96be\u5ea6", 
+                "\u901a\u5173\u5956\u52b1\u96be\u5ea6"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u52a0\u7fa4\u5956\u52b1", 
+                "\u52a0\u7fa4\u5956\u52b1"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6218\u529f\u573a\u666f\u754c\u9762", 
+                "\u6218\u529f\u573a\u666f\u754c\u9762"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u80cc\u666f\u97f3\u4e50\u73a9\u5bb6", 
+                "\u80cc\u666f\u97f3\u4e50\u73a9\u5bb6"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "tzlight", 
+                "tzlight"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "MultiBoardItemIcon", 
+                "MultiBoardItemIcon"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u8700\u6c49\u4ef7\u683c", 
+                "\u8700\u6c49\u4ef7\u683c"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u591a\u9762\u677f\u9879\u76ee\u3010\u91d1\u5e01\u3011", 
+                "\u591a\u9762\u677f\u9879\u76ee\u3010\u91d1\u5e01\u3011"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u901a\u5173\u5956\u52b1\u9875\u7b7e", 
+                "\u901a\u5173\u5956\u52b1\u9875\u7b7e"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5f53\u524dBGM", 
+                "\u5f53\u524dBGM"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u51751\u70b9", 
+                "\u51751\u70b9"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "tzstate", 
+                "tzstate"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u653b\u51fb\u56de\u84dd", 
+                "\u653b\u51fb\u56de\u84dd"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "MultiBoardItemName", 
+                "MultiBoardItemName"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u591a\u9762\u677f\u80cc\u666f", 
+                "\u591a\u9762\u677f\u80cc\u666f"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u9650\u5236\u533a\u57df", 
+                "\u9650\u5236\u533a\u57df"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u51753\u70b9", 
+                "\u51753\u70b9"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u65b0\u624b\u5f15\u5bfc\u754c\u9762", 
+                "\u65b0\u624b\u5f15\u5bfc\u754c\u9762"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u5f53\u524d\u67e5\u770b\u7684\u9875\u7b7e", 
+                "\u73a9\u5bb6\u5f53\u524d\u67e5\u770b\u7684\u9875\u7b7e"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u80dc\u5229\u97f3\u4e50", 
+                "\u80dc\u5229\u97f3\u4e50"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "UnitType", 
+                "UnitType"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5148\u77e5\u7cfb\u65701", 
+                "\u5148\u77e5\u7cfb\u65701"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u4ef7\u4f4dUI", 
+                "\u4ef7\u4f4dUI"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5efa\u9020\u6309\u94ae\u7981\u7528", 
+                "\u5efa\u9020\u6309\u94ae\u7981\u7528"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u7cbe\u82f1\u602a\u6280\u80fd", 
+                "\u7cbe\u82f1\u602a\u6280\u80fd"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u7269\u54c1\u653e\u7f6e\u533a\u57df", 
+                "\u7269\u54c1\u653e\u7f6e\u533a\u57df"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u4e3b\u516c\u6280\u80fd", 
+                "\u4e3b\u516c\u6280\u80fd"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6280\u80fd\u81ea\u52a8\u8fb9\u6846", 
+                "\u6280\u80fd\u81ea\u52a8\u8fb9\u6846"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "RangerGold", 
+                "RangerGold"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u6570", 
+                "\u73a9\u5bb6\u6570"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "MultiBoardItemRace", 
+                "MultiBoardItemRace"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u9f99\u8109\u8bed\u97f3cd", 
+                "\u9f99\u8109\u8bed\u97f3cd"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6280\u80fd\u88ab\u52a8\u8fb9\u6846", 
+                "\u6280\u80fd\u88ab\u52a8\u8fb9\u6846"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "A\u6570\u91cf", 
+                "A\u6570\u91cf"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "GameOver", 
+                "GameOver"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "iRound", 
+                "iRound"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u897f\u51c9\u901a\u5173\u5b58\u6863_2", 
+                "\u897f\u51c9\u901a\u5173\u5b58\u6863_2"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_2", 
+                "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_2"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u897f\u51c9\u901a\u5173\u5b58\u6863_3", 
+                "\u897f\u51c9\u901a\u5173\u5b58\u6863_3"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u4e1c\u5434\u901a\u5173\u5b58\u6863_5", 
+                "\u4e1c\u5434\u901a\u5173\u5b58\u6863_5"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u897f\u51c9\u901a\u5173\u5b58\u6863_1", 
+                "\u897f\u51c9\u901a\u5173\u5b58\u6863_1"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u4e1c\u5434\u901a\u5173\u5b58\u6863_2", 
+                "\u4e1c\u5434\u901a\u5173\u5b58\u6863_2"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u4e1c\u5434\u901a\u5173\u5b58\u6863_3", 
+                "\u4e1c\u5434\u901a\u5173\u5b58\u6863_3"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u8700\u6c49\u901a\u5173\u5b58\u6863_5", 
+                "\u8700\u6c49\u901a\u5173\u5b58\u6863_5"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u8700\u6c49\u901a\u5173\u5b58\u6863_4", 
+                "\u8700\u6c49\u901a\u5173\u5b58\u6863_4"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_4", 
+                "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_4"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u8700\u6c49\u901a\u5173\u5b58\u6863_3", 
+                "\u8700\u6c49\u901a\u5173\u5b58\u6863_3"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u8700\u6c49\u901a\u5173\u5b58\u6863_2", 
+                "\u8700\u6c49\u901a\u5173\u5b58\u6863_2"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u8700\u6c49\u901a\u5173\u5b58\u6863_1", 
+                "\u8700\u6c49\u901a\u5173\u5b58\u6863_1"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5957\u88c5\u5854", 
+                "\u5957\u88c5\u5854"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_3", 
+                "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_3"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_1", 
+                "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_1"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "PlayerStartLoc", 
+                "PlayerStartLoc"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_5", 
+                "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_5"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u4e1c\u5434\u901a\u5173\u5b58\u6863_1", 
+                "\u4e1c\u5434\u901a\u5173\u5b58\u6863_1"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u897f\u51c9\u901a\u5173\u5b58\u6863_4", 
+                "\u897f\u51c9\u901a\u5173\u5b58\u6863_4"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u4e1c\u5434\u901a\u5173\u5b58\u6863_4", 
+                "\u4e1c\u5434\u901a\u5173\u5b58\u6863_4"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u897f\u51c9\u901a\u5173\u5b58\u6863_5", 
+                "\u897f\u51c9\u901a\u5173\u5b58\u6863_5"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u56de\u5408\u5f00\u59cb\u51c6\u5907\u65f6\u95f4", 
+                "\u56de\u5408\u5f00\u59cb\u51c6\u5907\u65f6\u95f4"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u51fa\u5175\u4eba\u6570", 
+                "\u51fa\u5175\u4eba\u6570"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u51fa\u5175\u533a\u57df1", 
+                "\u51fa\u5175\u533a\u57df1"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u9020\u5175\u70b9", 
+                "\u9020\u5175\u70b9"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "sGap", 
+                "sGap"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u51fa\u5175\u70b9", 
+                "\u51fa\u5175\u70b9"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "choose_num", 
+                "choose_num"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "is_send", 
+                "is_send"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u51fa\u5175\u95f4\u9694\u65f6\u95f4", 
+                "\u51fa\u5175\u95f4\u9694\u65f6\u95f4"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u51fa\u5175num", 
+                "\u51fa\u5175num"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u591a\u9762\u677f\u9879\u76ee\u3010\u529f\u52cb\u3011", 
+                "\u591a\u9762\u677f\u9879\u76ee\u3010\u529f\u52cb\u3011"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "MultiBoardItemGx", 
+                "MultiBoardItemGx"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6392\u884c\u8868", 
+                "\u6392\u884c\u8868"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u4e0a\u53e4\u795e\u9f99", 
+                "\u4e0a\u53e4\u795e\u9f99"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6dd8\u6c70\u73a9\u5bb6\u7ec4", 
+                "\u6dd8\u6c70\u73a9\u5bb6\u7ec4"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u53ef\u7528\u4eba\u53e3\u521d\u59cb\u503c", 
+                "\u53ef\u7528\u4eba\u53e3\u521d\u59cb\u503c"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "opArr", 
+                "opArr"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u9009\u62e9\u82f1\u96c4\u754c\u9762", 
+                "\u9009\u62e9\u82f1\u96c4\u754c\u9762"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "temp_rank", 
+                "temp_rank"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6ce2\u6b21\u91d1\u5e01", 
+                "\u6ce2\u6b21\u91d1\u5e01"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "isEnd", 
+                "isEnd"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u968f\u673a\u9053\u5177", 
+                "\u968f\u673a\u9053\u5177"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u56de\u5408\u8fdb\u884c\u4e2d", 
+                "\u56de\u5408\u8fdb\u884c\u4e2d"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5080\u5121\u8349\u4eba", 
+                "\u5080\u5121\u8349\u4eba"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u9009\u89d2\u8d85\u65f6\u65f6\u95f4", 
+                "\u9009\u89d2\u8d85\u65f6\u65f6\u95f4"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5175\u79cd\u76ae\u80a4\u5f53\u524d\u82f1\u96c4\u540d\u79f0", 
+                "\u5175\u79cd\u76ae\u80a4\u5f53\u524d\u82f1\u96c4\u540d\u79f0"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u82f1\u96c4\u76ae\u80a4\u5f53\u524d\u82f1\u96c4\u540d\u79f0", 
+                "\u82f1\u96c4\u76ae\u80a4\u5f53\u524d\u82f1\u96c4\u540d\u79f0"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6b63\u5728\u62bd\u5956", 
+                "\u6b63\u5728\u62bd\u5956"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5f85\u62bd\u5956\u54c1", 
+                "\u5f85\u62bd\u5956\u54c1"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u901a\u884c\u8bc1\u5217\u8868\u8ba1\u65f6\u5668", 
+                "\u901a\u884c\u8bc1\u5217\u8868\u8ba1\u65f6\u5668"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u884c\u56ca\u754c\u9762\u4f7f\u7528\u9053\u5177\u540d\u79f0", 
+                "\u884c\u56ca\u754c\u9762\u4f7f\u7528\u9053\u5177\u540d\u79f0"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u884c\u56ca\u754c\u9762\u5de6\u4fa7\u5bfc\u822a\u680f\u4e0b\u6807", 
+                "\u884c\u56ca\u754c\u9762\u5de6\u4fa7\u5bfc\u822a\u680f\u4e0b\u6807"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5f53\u524d\u9576\u5d4c\u529f\u6cd5", 
+                "\u5f53\u524d\u9576\u5d4c\u529f\u6cd5"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u529f\u6cd5\u9576\u5d4c\u9009\u4e2d\u63a7\u4ef6", 
+                "\u529f\u6cd5\u9576\u5d4c\u9009\u4e2d\u63a7\u4ef6"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u529f\u6cd5\u9576\u5d4c\u7d22\u5f15", 
+                "\u529f\u6cd5\u9576\u5d4c\u7d22\u5f15"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u529f\u6cd5\u9576\u5d4c\u7c7b\u578b", 
+                "\u529f\u6cd5\u9576\u5d4c\u7c7b\u578b"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u529f\u6cd5\u754c\u9762\u529f\u6cd5\u9576\u5d4c\u63a7\u4ef6\u7ec4", 
+                "\u529f\u6cd5\u754c\u9762\u529f\u6cd5\u9576\u5d4c\u63a7\u4ef6\u7ec4"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u529f\u6cd5\u754c\u9762\u529f\u6cd5\u9576\u5d4c\u7269\u54c1\u7ec4", 
+                "\u529f\u6cd5\u754c\u9762\u529f\u6cd5\u9576\u5d4c\u7269\u54c1\u7ec4"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "Animation_Effect": 10, 
+        "A\u6570\u91cf": 10, 
+        "BGM\u5012\u8ba1\u65f6": 0, 
+        "BGM\u5e8f\u53f7": 0, 
+        "BOSS\u6570\u91cf": 0, 
+        "BossType": 10, 
+        "Boss\u63d0\u793a\u56fe\u7247": 10, 
+        "Builder": 10, 
+        "CareerRanger": 10, 
+        "E\u6570\u91cf": 10, 
+        "Force1": 0, 
+        "GLOBAL_BAG_MAX_NUM": 0, 
+        "GameLife": 0, 
+        "GameMaxLife": 0, 
+        "GameOver": 0, 
+        "GameTimeMaxS": 0, 
+        "GameTimeS": 0, 
+        "IWave": 0, 
+        "IWaveMax": 0, 
+        "JYType": 10, 
+        "MeritArt": 10, 
+        "MultiBoardItemDrop": 10, 
+        "MultiBoardItemFood": 10, 
+        "MultiBoardItemGold": 10, 
+        "MultiBoardItemGx": 10, 
+        "MultiBoardItemIcon": 10, 
+        "MultiBoardItemKill": 10, 
+        "MultiBoardItemName": 10, 
+        "MultiBoardItemRace": 10, 
+        "Nandu": 0, 
+        "NanduString": 0, 
+        "Path": 10, 
+        "Player": 10, 
+        "PlayerSdcs": 10, 
+        "PlayerSelectUnit": 10, 
+        "PlayerStartLoc": 10, 
+        "Q\u6570\u91cf": 10, 
+        "RangerFood": 10, 
+        "RangerGold": 10, 
+        "R\u6570\u91cf": 10, 
+        "S\u6570\u91cf": 10, 
+        "TEST": 0, 
+        "UI_Manager": 0, 
+        "UnitStateIcon": 10, 
+        "UnitStateLife": 10, 
+        "UnitStateLife2": 10, 
+        "UnitStateLife3": 10, 
+        "UnitStateSkill": 10, 
+        "UnitType": 10, 
+        "W\u6570\u91cf": 10, 
+        "Z\u6570\u91cf": 10, 
+        "choose_num": 0, 
+        "iRound": 0, 
+        "isEnd": 0, 
+        "is_send": 0, 
+        "opArr": 10, 
+        "sGap": 0, 
+        "temp_rank": 0, 
+        "tt": 0, 
+        "tzlight": 10, 
+        "tzstate": 10, 
+        "tzunit": 10, 
+        "v\u4fe1\u606f\u63d0\u793a\u8868": 0, 
+        "v\u4fe1\u606f\u63d0\u793a\u900f\u660e\u5ea6\u8868": 0, 
+        "v\u4fe1\u606f\u63d0\u793a\u989c\u8272\u8868": 0, 
+        "\u4e0a\u53e4\u795e\u9f99": 0, 
+        "\u4e1c\u5434\u4eba\u53e3": 10, 
+        "\u4e1c\u5434\u4ef7\u683c": 10, 
+        "\u4e1c\u5434\u901a\u5173\u5b58\u6863_1": 10, 
+        "\u4e1c\u5434\u901a\u5173\u5b58\u6863_2": 10, 
+        "\u4e1c\u5434\u901a\u5173\u5b58\u6863_3": 10, 
+        "\u4e1c\u5434\u901a\u5173\u5b58\u6863_4": 10, 
+        "\u4e1c\u5434\u901a\u5173\u5b58\u6863_5": 10, 
+        "\u4e3b\u516c\u6280\u80fd": 10, 
+        "\u4e3b\u516c\u6280\u80fd\u7c7b\u578b": 10, 
+        "\u4e71\u4e16\u6a21\u5f0f": 0, 
+        "\u4ef7\u4f4dUI": 10, 
+        "\u5080\u5121\u8349\u4eba": 0, 
+        "\u5148\u77e5\u7cfb\u65701": 10, 
+        "\u5148\u77e5\u7cfb\u65702": 10, 
+        "\u5148\u77e5\u7cfb\u65703": 10, 
+        "\u5148\u77e5\u7cfb\u65704": 10, 
+        "\u5173\u95ed\u533a\u57df\u9650\u5236": 10, 
+        "\u51751\u70b9": 10, 
+        "\u51752\u70b9": 10, 
+        "\u51753\u70b9": 10, 
+        "\u51754\u70b9": 10, 
+        "\u5175\u79cd\u76ae\u80a4\u5f53\u524d\u82f1\u96c4\u540d\u79f0": 0, 
+        "\u51fa\u5175num": 0, 
+        "\u51fa\u5175\u4eba\u6570": 0, 
+        "\u51fa\u5175\u533a\u57df1": 10, 
+        "\u51fa\u5175\u70b9": 10, 
+        "\u51fa\u5175\u95f4\u9694\u65f6\u95f4": 0, 
+        "\u521d\u59cb\u529f\u52cb": 10, 
+        "\u521d\u59cb\u653b\u51fb\u529b": 10, 
+        "\u521d\u59cb\u653b\u51fb\u901f\u5ea6%": 10, 
+        "\u521d\u59cb\u91d1\u5e01": 10, 
+        "\u521d\u59cb\u9b54\u6cd5\u503c": 10, 
+        "\u521d\u59cb\u9b54\u6cd5\u6062\u590d": 10, 
+        "\u529f\u6cd5\u754c\u9762\u529f\u6cd5\u9576\u5d4c\u63a7\u4ef6\u7ec4": 10, 
+        "\u529f\u6cd5\u754c\u9762\u529f\u6cd5\u9576\u5d4c\u7269\u54c1\u7ec4": 10, 
+        "\u529f\u6cd5\u9576\u5d4c\u7c7b\u578b": 0, 
+        "\u529f\u6cd5\u9576\u5d4c\u7d22\u5f15": 0, 
+        "\u529f\u6cd5\u9576\u5d4c\u9009\u4e2d\u63a7\u4ef6": 0, 
+        "\u52a0\u7fa4\u5956\u52b1": 10, 
+        "\u53cd\u5f39\u4f24\u5bb3\u5224\u5b9a": 0, 
+        "\u53ef\u7528\u4eba\u53e3\u521d\u59cb\u503c": 0, 
+        "\u547c\u5438\u6b21\u6570": 0, 
+        "\u552e\u5854\u7cfb\u6570": 10, 
+        "\u56de\u5408\u5f00\u59cb\u51c6\u5907\u65f6\u95f4": 0, 
+        "\u56de\u5408\u8fdb\u884c\u4e2d": 0, 
+        "\u5854\u5168\u89e3\u9501": 0, 
+        "\u591a\u9762\u677f": 0, 
+        "\u591a\u9762\u677f\u6807\u9898\u3010\u8840\u91cf\u3011": 0, 
+        "\u591a\u9762\u677f\u6807\u9898\u3010\u96be\u5ea6\u3011": 0, 
+        "\u591a\u9762\u677f\u80cc\u666f": 0, 
+        "\u591a\u9762\u677f\u9879\u76ee\u3010\u4eba\u53e3\u3011": 10, 
+        "\u591a\u9762\u677f\u9879\u76ee\u3010\u51fb\u6740\u3011": 10, 
+        "\u591a\u9762\u677f\u9879\u76ee\u3010\u529f\u52cb\u3011": 10, 
+        "\u591a\u9762\u677f\u9879\u76ee\u3010\u5934\u50cf\u3011": 10, 
+        "\u591a\u9762\u677f\u9879\u76ee\u3010\u73a9\u5bb6\u3011": 10, 
+        "\u591a\u9762\u677f\u9879\u76ee\u3010\u804c\u4e1a\u3011": 10, 
+        "\u591a\u9762\u677f\u9879\u76ee\u3010\u80cc\u666f\u3011": 10, 
+        "\u591a\u9762\u677f\u9879\u76ee\u3010\u91d1\u5e01\u3011": 10, 
+        "\u5931\u8d25\u97f3\u4e50": 0, 
+        "\u5957\u88c5\u5854": 10, 
+        "\u5b58\u6863\u5168\u89e3\u9501": 0, 
+        "\u5b58\u6d3b\u6570": 0, 
+        "\u5efa\u9020\u4ef7\u683c": 10, 
+        "\u5efa\u9020\u6280\u80fd": 10, 
+        "\u5efa\u9020\u6280\u80fd\u6309\u94ae": 10, 
+        "\u5efa\u9020\u6280\u80fd\uff08\u4e1c\u5434\uff09": 10, 
+        "\u5efa\u9020\u6280\u80fd\uff08\u66f9\u9b4f\uff09": 10, 
+        "\u5efa\u9020\u6280\u80fd\uff08\u8700\u6c49\uff09": 10, 
+        "\u5efa\u9020\u6280\u80fd\uff08\u897f\u51c9\uff09": 10, 
+        "\u5efa\u9020\u6309\u94ae": 10, 
+        "\u5efa\u9020\u6309\u94ae\u56fe\u7247": 10, 
+        "\u5efa\u9020\u6309\u94ae\u7981\u7528": 10, 
+        "\u5efa\u9020\u6b66\u5c06\u7c7b\u578b": 10, 
+        "\u5f00\u59cb\u5efa\u9020": 10, 
+        "\u5f00\u5c40\u65f6\u95f4": 0, 
+        "\u5f53\u524dBGM": 10, 
+        "\u5f53\u524d\u9576\u5d4c\u529f\u6cd5": 0, 
+        "\u5f85\u62bd\u5956\u54c1": 10, 
+        "\u6218\u529f\u573a\u666f\u754c\u9762": 0, 
+        "\u6218\u529f\u7b49\u7ea7\u56fe\u7247": 10, 
+        "\u6280\u80fd\u6309\u94ae\u5feb\u6377\u952e": 10, 
+        "\u6280\u80fd\u6309\u94ae\u80cc\u666f": 10, 
+        "\u6280\u80fd\u81ea\u52a8\u8fb9\u6846": 10, 
+        "\u6280\u80fd\u88ab\u52a8\u8fb9\u6846": 10, 
+        "\u6280\u80fd\u975e\u81ea\u52a8\u8fb9\u6846": 10, 
+        "\u6392\u884c\u8868": 0, 
+        "\u653b\u51fb\u56de\u84dd": 10, 
+        "\u65b0\u624b\u5f15\u5bfc\u533a\u57df": 10, 
+        "\u65b0\u624b\u5f15\u5bfc\u754c\u9762": 10, 
+        "\u65b0\u624b\u6307\u5f15\u6b65\u9aa4": 10, 
+        "\u65b0\u6625\u4f73\u8282": 0, 
+        "\u66f9\u9b4f\u4eba\u53e3": 10, 
+        "\u66f9\u9b4f\u4ef7\u683c": 10, 
+        "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_1": 10, 
+        "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_2": 10, 
+        "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_3": 10, 
+        "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_4": 10, 
+        "\u66f9\u9b4f\u901a\u5173\u5b58\u6863_5": 10, 
+        "\u6a21\u5f0fID": 0, 
+        "\u6b63\u5728\u62bd\u5956": 0, 
+        "\u6ce2\u6b21\u91d1\u5e01": 10, 
+        "\u6dd8\u6c70\u73a9\u5bb6\u7ec4": 0, 
+        "\u707e\u53d8\u6a21\u5f0f": 0, 
+        "\u7269\u54c1\u653e\u7f6e\u533a\u57df": 10, 
+        "\u73a9\u5bb6\u51fa\u751f\u70b9": 10, 
+        "\u73a9\u5bb6\u5f53\u524d\u67e5\u770b\u7684\u9875\u7b7e": 10, 
+        "\u73a9\u5bb6\u6570": 0, 
+        "\u73a9\u5bb6\u82f1\u96c4": 10, 
+        "\u7535\u5f71\u9ed1\u5e55\u900f\u660e\u5ea6": 0, 
+        "\u7cbe\u82f1\u602a\u6280\u80fd": 10, 
+        "\u7cbe\u82f1\u63d0\u793a\u56fe\u7247": 10, 
+        "\u7ed3\u675f\u7535\u5f71\u5f20\u89d2": 0, 
+        "\u804c\u4e1a\u7f16\u53f7": 10, 
+        "\u80cc\u666f": 10, 
+        "\u80cc\u666f\u97f3\u4e50\u73a9\u5bb6": 0, 
+        "\u80dc\u5229\u97f3\u4e50": 0, 
+        "\u82f1\u96c4": 10, 
+        "\u82f1\u96c4\u76ae\u80a4\u5f53\u524d\u82f1\u96c4\u540d\u79f0": 0, 
+        "\u8700\u6c49\u4eba\u53e3": 10, 
+        "\u8700\u6c49\u4ef7\u683c": 10, 
+        "\u8700\u6c49\u901a\u5173\u5b58\u6863_1": 10, 
+        "\u8700\u6c49\u901a\u5173\u5b58\u6863_2": 10, 
+        "\u8700\u6c49\u901a\u5173\u5b58\u6863_3": 10, 
+        "\u8700\u6c49\u901a\u5173\u5b58\u6863_4": 10, 
+        "\u8700\u6c49\u901a\u5173\u5b58\u6863_5": 10, 
+        "\u884c\u56ca\u754c\u9762\u4f7f\u7528\u9053\u5177\u540d\u79f0": 0, 
+        "\u884c\u56ca\u754c\u9762\u5de6\u4fa7\u5bfc\u822a\u680f\u4e0b\u6807": 0, 
+        "\u897f\u51c9\u4eba\u53e3": 10, 
+        "\u897f\u51c9\u4ef7\u683c": 10, 
+        "\u897f\u51c9\u901a\u5173\u5b58\u6863_1": 10, 
+        "\u897f\u51c9\u901a\u5173\u5b58\u6863_2": 10, 
+        "\u897f\u51c9\u901a\u5173\u5b58\u6863_3": 10, 
+        "\u897f\u51c9\u901a\u5173\u5b58\u6863_4": 10, 
+        "\u897f\u51c9\u901a\u5173\u5b58\u6863_5": 10, 
+        "\u89e3\u9501\u5927\u707e\u53d8": 0, 
+        "\u8ba1\u65f6\u5668": 0, 
+        "\u8fdb\u653b\u519b\u9977": 10, 
+        "\u9009\u62e9\u7279\u6548": 10, 
+        "\u9009\u62e9\u82f1\u96c4\u754c\u9762": 10, 
+        "\u9009\u89d2\u8d85\u65f6\u65f6\u95f4": 0, 
+        "\u901a\u5173\u5956\u52b1\u96be\u5ea6": 10, 
+        "\u901a\u5173\u5956\u52b1\u9875\u7b7e": 10, 
+        "\u901a\u884c\u8bc1\u5217\u8868\u8ba1\u65f6\u5668": 0, 
+        "\u9020\u5175\u70b9": 10, 
+        "\u9063\u6563\u5355\u4f4d": 10, 
+        "\u9650\u5236\u533a\u57df": 10, 
+        "\u968f\u673a\u9053\u5177": 10, 
+        "\u96be\u5ea6\u521d\u59cb\u91d1\u5e01": 10, 
+        "\u96be\u5ea6\u62a4\u7532": 0, 
+        "\u96be\u5ea6\u751f\u547d%": 0, 
+        "\u9f99\u8109\u8bed\u97f3cd": 0
+    }
+}

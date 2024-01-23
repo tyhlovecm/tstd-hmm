@@ -1,0 +1,647 @@
+{
+    "_custom_": true, 
+    "_ref_": 134220054, 
+    "attached_NNVvgIAtEe2yIwD-he-FnA": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_ability": 0, 
+    "attached_agility": 0, 
+    "attached_attack_interval": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_attack_mag": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_attack_phy": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_attack_range": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_attack_speed": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_b5JywIAkEe2c6AD-he-FnH": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_cd_reduce": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_critical_chance": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_critical_dmg": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_custom_1": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_custom_10": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_custom_11": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_custom_12": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_custom_2": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_custom_3": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_custom_4": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_custom_5": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_custom_7": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_custom_9": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_defense_mag": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_defense_phy": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_dmg_reduction": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_dodge_rate": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_extra_dmg": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_healing_effect": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_hit_rate": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_hp_max": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_hp_rec": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_intelligence": 0, 
+    "attached_ksVR3oAfEe2O0AD-he-FnK": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_mU0yT4AiEe2KnQD-he-FnP": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_mp_max": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_mp_rec": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_muURoX94Ee2DbwD-he-FnG": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_of8MAGmaEe2LGAD-dSoz-Z": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_ori_speed": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_paElMKLCEe2gfAD-he-FnK": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_passive_abilities": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "attached_pene_mag": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_pene_mag_ratio": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_pene_phy": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_pene_phy_ratio": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_s7sYoYAiEe2UDgD-he-FnD": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_strength": 0, 
+    "attached_vampire_mag": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_vampire_phy": {
+        "__tuple__": true, 
+        "items": [
+            0.0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_vision_night": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_vision_rng": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_vision_sector_angle_day": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_vision_sector_angle_night": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_vision_sector_night": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_vision_sector_rng": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "attached_vision_true": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "auto_use": false, 
+    "base_color_mod": 0, 
+    "base_tint_color": [
+        255, 
+        255, 
+        255, 
+        0.5
+    ], 
+    "body_size": 3.0, 
+    "buy_res_list": {
+        "__tuple__": true, 
+        "items": [
+            [
+                "official_res_1", 
+                400
+            ]
+        ]
+    }, 
+    "cd_type": "", 
+    "compose_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "cur_charge": 0, 
+    "cur_stack": 1, 
+    "delete_on_discard": false, 
+    "description": 1195182269, 
+    "disable_overlapping": false, 
+    "discard_enable": true, 
+    "discard_when_dead": false, 
+    "drop_stay_time": 999999.0, 
+    "effect_list": {}, 
+    "fresnel_color": [
+        255, 
+        0, 
+        0, 
+        1
+    ], 
+    "fresnel_emissive_color_strength": 0.0, 
+    "fresnel_exp": 1.0, 
+    "hp_max": 0.0, 
+    "icon": 106505, 
+    "init_stock": 5, 
+    "item_billboard_type": 1, 
+    "key": 134220054, 
+    "kv": {
+        "\u4f5c\u7528\u8303\u56f4": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "\u4f5c\u7528\u8303\u56f4", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 1, 
+            "type": 1, 
+            "value": 2000.0
+        }, 
+        "\u6301\u7eed\u65f6\u95f4": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "\u6301\u7eed\u65f6\u95f4", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 0, 
+            "type": 1, 
+            "value": 10.0
+        }, 
+        "\u6700\u5927\u901f\u5ea6": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "\u6700\u5927\u901f\u5ea6", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 2, 
+            "type": 1, 
+            "value": 650.0
+        }
+    }, 
+    "level": 1, 
+    "material_alpha": 1.0, 
+    "material_change": 0, 
+    "material_color": [
+        255, 
+        255, 
+        255
+    ], 
+    "material_color_intensity": 1.0, 
+    "max_stock": 5, 
+    "maximum_charging": 5, 
+    "maximum_stacking": 1, 
+    "model": 200506, 
+    "model_opacity": 1.0, 
+    "name": -536300955, 
+    "precondition_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "refresh_interval": 1.0, 
+    "sale_enable": true, 
+    "sell_res_list": {
+        "__tuple__": true, 
+        "items": [
+            [
+                "official_res_1", 
+                300
+            ]
+        ]
+    }, 
+    "sound_event_list": "", 
+    "stack_type": 2, 
+    "start_rft": 1.0, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": [
+            "\u6d88\u8017\u54c1", 
+            "\u88ab\u52a8\u4f7f\u7528"
+        ]
+    }, 
+    "uid": "134220054", 
+    "use_base_tint_color": false, 
+    "use_consume": 1, 
+    "use_fresnel": false
+}

@@ -1,0 +1,58 @@
+{
+    "bloom": {
+        "bloom_decay": 0.0, 
+        "bloom_strength": 0.9999999999999999
+    }, 
+    "color_grading": {
+        "color_grading_type": 8
+    }, 
+    "env_time_of_day": {
+        "time_of_day_template": 300002
+    }, 
+    "shadow_quality": {
+        "enable_ue4_csm": false, 
+        "fix_sun_shadow_range": 40.0
+    }, 
+    "sky_box": {
+        "sky_box_type": 100000
+    }, 
+    "terrain": {
+        "terrain_version": 2, 
+        "water_materials": [
+            {
+                "color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.051, 
+                        0.123, 
+                        0.341
+                    ]
+                }, 
+                "custom_color": true, 
+                "flow_direction": 90.0, 
+                "flow_perturbation": 0.5, 
+                "flow_speed": 0.3, 
+                "mat_id": 1, 
+                "name": "\u6c34", 
+                "original": true
+            }, 
+            {
+                "color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.947, 
+                        0.117, 
+                        0.007
+                    ]
+                }, 
+                "custom_color": true, 
+                "flow_direction": 0.0, 
+                "flow_perturbation": 0.3, 
+                "flow_speed": 0.2, 
+                "mat_id": 2, 
+                "name": "\u5ca9\u6d46", 
+                "original": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "trigger_dict": {
+        "1381171477": {
+            "action": [
+                861077782, 
+                491979031, 
+                1465057560
+            ], 
+            "call_enabled": true, 
+            "condition": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                [
+                                    "BOOLEAN", 
+                                    "TEST"
+                                ]
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }, 
+                        {
+                            "arg_type": 100035, 
+                            "args_list": [
+                                "=="
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                true
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "condition_type": "BOOL_COMPARE", 
+                    "element_id": 1381171477000002, 
+                    "enable": true
+                }
+            ], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                5.0
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1381171477000001, 
+                    "enable": true, 
+                    "event_type": "GAME_ELAPSE_ONCE"
+                }
+            ], 
+            "group_id": "0AvYD4nkEe6Oc+DVXvweyy", 
+            "p_trigger_id": null, 
+            "trigger_id": 1381171477, 
+            "trigger_name": "\u6d4b\u8bd5\u6307\u4ee4", 
+            "valid": true
+        }, 
+        "1448280338": {
+            "action": [
+                2102591763, 
+                760414484
+            ], 
+            "call_enabled": true, 
+            "condition": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                [
+                                    "BOOLEAN", 
+                                    "TEST"
+                                ]
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }, 
+                        {
+                            "arg_type": 100035, 
+                            "args_list": [
+                                "=="
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                true
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "condition_type": "BOOL_COMPARE", 
+                    "element_id": 1448280338000002, 
+                    "enable": true
+                }
+            ], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                5
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1448280338000001, 
+                    "enable": true, 
+                    "event_type": "GAME_ELAPSE_ONCE"
+                }
+            ], 
+            "group_id": "0AvYD4nkEe6Oc+DVXvweyy", 
+            "p_trigger_id": null, 
+            "trigger_id": 1448280338, 
+            "trigger_name": "\u4f5c\u5f0a\u7801", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    1448280338, 
+                    "\u4f5c\u5f0a\u7801"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1381171477, 
+                    "\u6d4b\u8bd5\u6307\u4ee4"
+                ]
+            }
+        ], 
+        "is_sub_folder": true, 
+        "key": "0AvYD4nkEe6Oc+DVXvweyy", 
+        "name": "\u4f5c\u5f0a\u6307\u4ee4"
+    }
+}

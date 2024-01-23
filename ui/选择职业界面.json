@@ -1,0 +1,721 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134266996, 
+                            "name": "\u9009\u4e2d", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    104.0, 
+                                    161.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.24154589371981, 
+                                    48.20359281437126
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    224.0, 
+                                    345.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "aa06e9a6-0f28-4ae4-ad07-5a557c6135c0", 
+                            "visible": false
+                        }
+                    ], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c41_\u70b9\u51fb", 
+                            "sound_id": null, 
+                            "type": 2
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c41_\u79fb\u5165", 
+                            "sound_id": null, 
+                            "type": 24
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c41_\u79fb\u51fa", 
+                            "sound_id": null, 
+                            "type": 25
+                        }
+                    ], 
+                    "image": 134272437, 
+                    "name": "\u9009\u62e9\u82f1\u96c41", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            346.0, 
+                            655.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            18.020833333333332, 
+                            60.64814814814815
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            207.0, 
+                            334.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "4ff6889b-6a9d-4978-b7b8-039a7fbc00e4"
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134266996, 
+                            "name": "\u9009\u4e2d", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    108.2728500366211, 
+                                    167.39385986328125
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    49.89532259752124, 
+                                    50.11792211475486
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    217.0, 
+                                    333.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "6005a1c2-488b-4a0f-a7d2-c7d5f0b4374e", 
+                            "visible": false
+                        }
+                    ], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c42_\u70b9\u51fb", 
+                            "sound_id": null, 
+                            "type": 2
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c42_\u79fb\u5165", 
+                            "sound_id": null, 
+                            "type": 24
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c42_\u79fb\u51fa", 
+                            "sound_id": null, 
+                            "type": 25
+                        }
+                    ], 
+                    "image": 134277584, 
+                    "name": "\u9009\u62e9\u82f1\u96c42", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            782.0, 
+                            655.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            40.729166666666664, 
+                            60.64814814814815
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            217.0, 
+                            334.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "edc72a13-c427-402f-8967-2bb41d091448"
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134266996, 
+                            "name": "\u9009\u4e2d", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    108.2728500366211, 
+                                    167.39385986328125
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    49.89532259752124, 
+                                    50.11792211475486
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    217.0, 
+                                    333.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "f9061341-9111-47f7-aa38-f43a0ba4621a", 
+                            "visible": false
+                        }
+                    ], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c43_\u70b9\u51fb", 
+                            "sound_id": null, 
+                            "type": 2
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c43_\u79fb\u5165", 
+                            "sound_id": null, 
+                            "type": 24
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c43_\u79fb\u51fa", 
+                            "sound_id": null, 
+                            "type": 25
+                        }
+                    ], 
+                    "image": 134236916, 
+                    "name": "\u9009\u62e9\u82f1\u96c43", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            1210.0, 
+                            655.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            63.020833333333336, 
+                            60.64814814814815
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            217.0, 
+                            334.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "3cc4e6f3-1b21-4007-b932-f61cf891a89c"
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134266996, 
+                            "name": "\u9009\u4e2d", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    109.0, 
+                                    167.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.23041474654379, 
+                                    50.0
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    217.0, 
+                                    333.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "000c6efa-33da-4f7b-af93-0a505a12e605", 
+                            "visible": false
+                        }
+                    ], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c44_\u70b9\u51fb", 
+                            "sound_id": null, 
+                            "type": 2
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c44_\u79fb\u5165", 
+                            "sound_id": null, 
+                            "type": 24
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c44_\u79fb\u51fa", 
+                            "sound_id": null, 
+                            "type": 25
+                        }
+                    ], 
+                    "image": 134249209, 
+                    "name": "\u9009\u62e9\u82f1\u96c44", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            1645.0, 
+                            655.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            85.67708333333334, 
+                            60.64814814814815
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            217.0, 
+                            334.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "15240315-9466-46ee-85f8-b851b1edc0b2"
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134266996, 
+                            "name": "\u9009\u4e2d", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    109.0, 
+                                    167.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.23041474654379, 
+                                    50.0
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    217.0, 
+                                    333.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "4811a25c-2186-4db5-85ad-e514aa340366", 
+                            "visible": false
+                        }
+                    ], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c45_\u70b9\u51fb", 
+                            "sound_id": null, 
+                            "type": 2
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c45_\u79fb\u5165", 
+                            "sound_id": null, 
+                            "type": 24
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c45_\u79fb\u51fa", 
+                            "sound_id": null, 
+                            "type": 25
+                        }
+                    ], 
+                    "image": 134262551, 
+                    "name": "\u9009\u62e9\u82f1\u96c45", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            351.0, 
+                            250.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            18.28125, 
+                            23.14814814814815
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            217.0, 
+                            334.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "ea0e4d06-18d5-49ac-9648-d601de25c1a9"
+                }, 
+                {
+                    "children": [
+                        {
+                            "adapter_option": [
+                                false, 
+                                false, 
+                                false, 
+                                false, 
+                                0.10614013671875, 
+                                0.89385986328125, 
+                                -0.22714996337890625, 
+                                0.22714996337890625
+                            ], 
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    77.66666666666667, 
+                                    107.66666666666667, 
+                                    77.66666666666667, 
+                                    107.66666666666667
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134266996, 
+                            "name": "\u9009\u4e2d", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    108.2728500366211, 
+                                    167.39385986328125
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    49.89532259752124, 
+                                    50.11792211475486
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    217.0, 
+                                    333.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "3fe90641-a765-4ae2-9888-95ec251aa0e0", 
+                            "visible": false
+                        }
+                    ], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c46_\u70b9\u51fb", 
+                            "sound_id": null, 
+                            "type": 2
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c46_\u79fb\u5165", 
+                            "sound_id": null, 
+                            "type": 24
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c46_\u79fb\u51fa", 
+                            "sound_id": null, 
+                            "type": 25
+                        }
+                    ], 
+                    "image": 134281352, 
+                    "name": "\u9009\u62e9\u82f1\u96c46", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            782.0, 
+                            250.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            40.729166666666664, 
+                            23.14814814814815
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            217.0, 
+                            334.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "b5205414-5922-4135-8720-52a0c519c4a4"
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134266996, 
+                            "name": "\u9009\u4e2d", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    109.0, 
+                                    167.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.23041474654379, 
+                                    50.0
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    217.0, 
+                                    333.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "1bed21b3-0185-482c-93c6-4c5fa4c1c326", 
+                            "visible": false
+                        }
+                    ], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c47_\u70b9\u51fb", 
+                            "sound_id": null, 
+                            "type": 2
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c47_\u79fb\u5165", 
+                            "sound_id": null, 
+                            "type": 24
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c47_\u79fb\u51fa", 
+                            "sound_id": null, 
+                            "type": 25
+                        }
+                    ], 
+                    "image": 134269485, 
+                    "name": "\u9009\u62e9\u82f1\u96c47", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            1210.0, 
+                            250.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            63.020833333333336, 
+                            23.14814814814815
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            217.0, 
+                            334.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "29cc84bd-7b73-492c-bfd2-fcd39186df73"
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134266996, 
+                            "name": "\u9009\u4e2d", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    109.0, 
+                                    168.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.23041474654379, 
+                                    50.29940119760479
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    217.0, 
+                                    333.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "35aa95ca-6733-4da6-8998-174401096041", 
+                            "visible": false
+                        }
+                    ], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c48_\u70b9\u51fb", 
+                            "sound_id": null, 
+                            "type": 2
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c48_\u79fb\u5165", 
+                            "sound_id": null, 
+                            "type": 24
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u82f1\u96c48_\u79fb\u51fa", 
+                            "sound_id": null, 
+                            "type": 25
+                        }
+                    ], 
+                    "image": 134279979, 
+                    "name": "\u9009\u62e9\u82f1\u96c48", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            1645.0, 
+                            250.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            85.67708333333334, 
+                            23.14814814814815
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            217.0, 
+                            334.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "42c918a7-26ba-499e-b30f-d8e856201924"
+                }
+            ], 
+            "event_list": [], 
+            "image": 134240884, 
+            "name": "\u80cc\u666f", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "4a1d9fa3-5404-48be-8d20-8a2aa7e7b2c9"
+        }
+    ], 
+    "name": "\u9009\u62e9\u804c\u4e1a\u754c\u9762", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "a0132292-52ef-4dfa-8709-65c09682eb16", 
+    "visible": false, 
+    "zorder": 450
+}

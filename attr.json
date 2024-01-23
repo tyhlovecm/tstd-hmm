@@ -1,0 +1,322 @@
+{
+    "b": [], 
+    "c": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_1", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u529f\u52cb\u503c", 
+                    "desc_bit": 1, 
+                    "key": "custom_1", 
+                    "maximun": 100000000.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_2", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u4eba\u53e3", 
+                    "desc_bit": 1, 
+                    "key": "custom_2", 
+                    "maximun": 100000000.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_3", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u4ef7\u683c", 
+                    "desc_bit": 1, 
+                    "key": "custom_3", 
+                    "maximun": 100000000.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_4", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u6700\u5c0f\u653b\u51fb\u529b", 
+                    "desc_bit": 1, 
+                    "key": "custom_4", 
+                    "maximun": 100000000.0, 
+                    "minimun": -1000000000.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_5", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u6700\u5927\u653b\u51fb\u529b", 
+                    "desc_bit": 1, 
+                    "key": "custom_5", 
+                    "maximun": 100000000.0, 
+                    "minimun": -1000000000.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_7", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u5347\u7ea7\u529f\u52cb", 
+                    "desc_bit": 1, 
+                    "key": "custom_7", 
+                    "maximun": 100000000.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_9", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u653b\u51fb\u8303\u56f42", 
+                    "desc_bit": 1, 
+                    "key": "custom_9", 
+                    "maximun": 100000000.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_10", 
+                {
+                    "default": 1.0, 
+                    "desc": "\u653b\u51fb\u901f\u5ea62", 
+                    "desc_bit": 1, 
+                    "key": "custom_10", 
+                    "maximun": 100000000.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_11", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u51fb\u6740\u5956\u52b1", 
+                    "desc_bit": 1, 
+                    "key": "custom_11", 
+                    "maximun": 10000000.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_12", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u6e85\u5c04\u8303\u56f4", 
+                    "desc_bit": 1, 
+                    "key": "custom_12", 
+                    "maximun": 10000000.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "of8MAGmaEe2LGAD-dSoz-Z", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u4ee5\u793c\u5f85\u4eba", 
+                    "desc_bit": 1, 
+                    "key": "of8MAGmaEe2LGAD-dSoz-Z", 
+                    "maximun": 10000000.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "muURoX94Ee2DbwD-he-FnG", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u6bcf\u79d2\u6218\u529f", 
+                    "desc_bit": 1, 
+                    "key": "muURoX94Ee2DbwD-he-FnG", 
+                    "maximun": 1000.0, 
+                    "minimun": -1000.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "ksVR3oAfEe2O0AD-he-FnK", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u51cf\u63a7\u65f6\u95f4%", 
+                    "desc_bit": 1, 
+                    "key": "ksVR3oAfEe2O0AD-he-FnK", 
+                    "maximun": 80.0, 
+                    "minimun": -100.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "mU0yT4AiEe2KnQD-he-FnP", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u8fdb\u653b\u9b54\u6cd5\u4e0a\u9650", 
+                    "desc_bit": 1, 
+                    "key": "mU0yT4AiEe2KnQD-he-FnP", 
+                    "maximun": 100000.0, 
+                    "minimun": -100000.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "s7sYoYAiEe2UDgD-he-FnD", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u8fdb\u653b\u9b54\u6cd5\u6062\u590d", 
+                    "desc_bit": 1, 
+                    "key": "s7sYoYAiEe2UDgD-he-FnD", 
+                    "maximun": 100000.0, 
+                    "minimun": -100000.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "b5JywIAkEe2c6AD-he-FnH", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u51fb\u6740\u6218\u529f", 
+                    "desc_bit": 1, 
+                    "key": "b5JywIAkEe2c6AD-he-FnH", 
+                    "maximun": 0.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "NNVvgIAtEe2yIwD-he-FnA", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u51fb\u6740\u9b54\u6cd5\u503c", 
+                    "desc_bit": 1, 
+                    "key": "NNVvgIAtEe2yIwD-he-FnA", 
+                    "maximun": 100000.0, 
+                    "minimun": -100000.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "paElMKLCEe2gfAD-he-FnK", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u653b\u51fb\u56de\u84dd", 
+                    "desc_bit": 1, 
+                    "key": "paElMKLCEe2gfAD-he-FnK", 
+                    "maximun": 10000.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }
+    ], 
+    "p": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "strength", 
+                {
+                    "d": "\u529b\u91cf", 
+                    "k": "strength", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "agility", 
+                {
+                    "d": "\u654f\u6377", 
+                    "k": "agility", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "intelligence", 
+                {
+                    "d": "\u667a\u529b", 
+                    "k": "intelligence", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "main", 
+                {
+                    "d": "\u4e3b\u5c5e\u6027", 
+                    "k": "main", 
+                    "m": []
+                }
+            ]
+        }
+    ], 
+    "ps": 1
+}

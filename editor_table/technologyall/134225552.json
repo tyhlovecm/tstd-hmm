@@ -1,0 +1,45 @@
+{
+    "_custom_": true, 
+    "_ref_": 134225552, 
+    "affect_all": false, 
+    "affect_tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "cells": [
+        [
+            1, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 100000, 
+                "level": 1, 
+                "name": -1931645053, 
+                "precondition_list": []
+            }
+        ]
+    ], 
+    "description": 2072588355, 
+    "key": 134225552, 
+    "kv": {
+        "tip": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 0, 
+            "key": "tip", 
+            "prop_cls": "PText", 
+            "remark": "", 
+            "sort": 0, 
+            "type": 0, 
+            "value": "5000\u6218\u529f"
+        }
+    }, 
+    "max_lv": 1, 
+    "name": -1931645053, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "uid": "134225552"
+}

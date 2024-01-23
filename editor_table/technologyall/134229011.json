@@ -1,0 +1,33 @@
+{
+    "_custom_": true, 
+    "_ref_": 134229011, 
+    "affect_all": false, 
+    "affect_tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "cells": [
+        [
+            1, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 100000, 
+                "level": 1, 
+                "name": 407632622, 
+                "precondition_list": []
+            }
+        ]
+    ], 
+    "description": -1905178071, 
+    "key": 134229011, 
+    "kv": {}, 
+    "max_lv": 1, 
+    "name": 407632622, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "uid": "134229011"
+}

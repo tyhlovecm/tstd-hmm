@@ -1,0 +1,283 @@
+{
+    "trigger_dict": {}, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            9355431, 
+                            "\u521d\u59cb\u5316\u73a9\u5bb6"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1122320552, 
+                            "\u9000\u51fa\u6e38\u620f"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            728314026, 
+                            "\u521d\u59cb\u5316\u6e38\u620f\u6570\u636e"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            467251455, 
+                            "\u5236\u9020\u5efa\u7b51"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1272844551, 
+                            "\u7a8d\u95e8\u63d0\u793a"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            517869832, 
+                            "\u533a\u57df\u9650\u5236"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1592312006, 
+                            "\u6218\u6597\u6a21\u5f0f"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "xs553oXWEe6HE+DVXvweyz", 
+                "name": "\u521d\u59cb\u5316"
+            }, 
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1658396911, 
+                            "\u70b9\u51fb\u9009\u62e9\u89d2\u8272"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            83476728, 
+                            "\u786e\u8ba4\u9009\u4e2d\u89d2\u8272"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            257585425, 
+                            "\u6d88\u606f\u5217\u8868\u663e\u793a"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            47644957, 
+                            "\u5efa\u9020\u6280\u80fd\u5f00\u542f"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            967196953, 
+                            "\u5efa\u9020\u6280\u80fd\u7981\u7528"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            374559004, 
+                            "\u56de\u5408\u8fdb\u884c\u4e2d"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1844474141, 
+                            "\u5efa\u9020\u5b8c\u6210"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1780588830, 
+                            "\u56de\u5408\u5f00\u59cb"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            466170143, 
+                            "\u9020\u5175"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            818569504, 
+                            "\u51fb\u6740\u5355\u4f4d"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            24555815, 
+                            "\u6dd8\u6c70"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1523634464, 
+                            "\u5339\u914d\u5bf9\u624b"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            61431974, 
+                            "F1\u9009\u4e2d\u82f1\u96c4"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1491579064, 
+                            "\u80dc\u5229\u7535\u5f71"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "VRjhUYXbEe6GRODVXvwey8", 
+                "name": "\u529f\u80fd"
+            }, 
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            983388338, 
+                            "\u521d\u59cb\u5316\u6570\u636e"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1855807667, 
+                            "\u521d\u59cb\u5316\u53e5\u67c4"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1755144379, 
+                            "\u521d\u59cb\u5316\u4e8b\u4ef6"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "ZouioYXrEe6-NuDVXvweyz", 
+                "name": "UI"
+            }, 
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1436561626, 
+                            "\u5efa\u9020\u6309\u94ae\u63d0\u793a\u6846\uff08\u9690\u85cf\uff09"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            564191471, 
+                            "\u5efa\u9020\u6309\u94ae\u63d0\u793a\u6846\uff08\u663e\u793a\uff09"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            241979661, 
+                            "\u6392\u884c\u699c"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            975470881, 
+                            "\u73a9\u5bb6\u8d44\u6e90_2"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "f6teEYXrEe6OPeDVXvwey5", 
+                "name": "\u81ea\u5236UI"
+            }, 
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1647644922, 
+                            "\u5efa\u9020\u79fb\u5165"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1647644926, 
+                            "\u5efa\u9020\u6210\u529f"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "QI0owIhTEe6JKODVXvweyy", 
+                "name": "SFX_2"
+            }, 
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1448280338, 
+                            "\u4f5c\u5f0a\u7801"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1381171477, 
+                            "\u6d4b\u8bd5\u6307\u4ee4"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "0AvYD4nkEe6Oc+DVXvweyy", 
+                "name": "\u4f5c\u5f0a\u6307\u4ee4"
+            }
+        ], 
+        "is_sub_folder": false, 
+        "key": "voB4D4XWEe65A+DVXvwey3", 
+        "name": "new"
+    }
+}

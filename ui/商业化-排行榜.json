@@ -1,0 +1,2027 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 110972, 
+                            "name": "\u6392\u540d\u80cc\u666f", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    412.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    5.952380952380952
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    740.0, 
+                                    80.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "58526f9b-6e5b-4c31-a2fd-14af19e0b068"
+                        }, 
+                        {
+                            "adapter_option": [
+                                true, 
+                                false, 
+                                false, 
+                                true, 
+                                0.0, 
+                                709.0, 
+                                768.0, 
+                                10.0
+                            ], 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134270317, 
+                            "name": "\u5173\u95ed\u6309\u94ae", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    791.0, 
+                                    732.5
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    95.99514563106796, 
+                                    96.89153439153439
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    46.0, 
+                                    47.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "287852b5-15d7-4191-8df8-7a8b57f2b488"
+                        }, 
+                        {
+                            "adapter_option": [
+                                true, 
+                                false, 
+                                true, 
+                                false, 
+                                50.0, 
+                                657.0, 
+                                80.0, 
+                                586.0
+                            ], 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134252145, 
+                            "name": "\u6807\u9898", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    159.0, 
+                                    681.5
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    19.296116504854368, 
+                                    90.14550264550265
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    158.0, 
+                                    49.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "50a5db71-0851-41c3-9974-75ffb4624278"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        0.0, 
+                                        500.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0, 
+                                                560.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u540d\u6b21", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    50.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    7.575757575757576, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    100.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "100", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "651409af-d3fe-4728-8d4c-4145a2abd389"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                130.0, 
+                                                310.0
+                                            ], 
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2, 
+                                                    8
+                                                ]
+                                            }, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u540d\u5b57", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    240.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    36.36363636363637, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    220.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "\u540d\u5b57\u6700\u591a\u4e03\u4e2a\u5b57", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "241ff3cd-1291-479c-8d3a-890e779f72c4"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                420.0, 
+                                                140.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u573a\u6b21", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    470.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    71.21212121212122, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    100.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "10000", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "2fcb1f3c-889e-444b-9704-2ba6b11d5c4e"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                550.0, 
+                                                10.0
+                                            ], 
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2, 
+                                                    8
+                                                ]
+                                            }, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u5e73\u5747\u540d\u6b21", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    600.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    90.9090909090909, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    100.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "3.4", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "b6038660-7abf-4135-b783-c0127decf720"
+                                        }
+                                    ], 
+                                    "event_list": [], 
+                                    "name": "\u6392\u540d\u5355\u98790", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            330.0, 
+                                            525.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            95.45454545454545
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            660.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "type": 7, 
+                                    "uid": "ac913840-30cf-43cd-99b1-1584602c28d6", 
+                                    "visible": false
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        50.0, 
+                                        450.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0, 
+                                                560.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u540d\u6b21", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    50.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    7.575757575757576, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    100.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "100", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "88341f87-5e99-4b19-9181-ce115471a9de"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                130.0, 
+                                                310.0
+                                            ], 
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2, 
+                                                    8
+                                                ]
+                                            }, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u540d\u5b57", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    240.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    36.36363636363637, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    220.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "\u540d\u5b57\u6700\u591a\u4e03\u4e2a\u5b57", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "46fbe602-56e1-4d8d-9f2b-04e7c1d7d926"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                420.0, 
+                                                140.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u573a\u6b21", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    470.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    71.21212121212122, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    100.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "10000", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "f133ad9d-0117-4e13-87cd-5731f20e7faf"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                550.0, 
+                                                10.0
+                                            ], 
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2, 
+                                                    8
+                                                ]
+                                            }, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u5e73\u5747\u540d\u6b21", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    600.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    90.9090909090909, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    100.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "3.4", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "3805e7f9-8edd-410c-bf15-508ad7babf56"
+                                        }
+                                    ], 
+                                    "event_list": [], 
+                                    "name": "\u6392\u540d\u5355\u98791", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            330.0, 
+                                            475.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            86.36363636363636
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            660.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "type": 7, 
+                                    "uid": "357957eb-f051-45a1-b0ff-42c4c5d4dce3", 
+                                    "visible": false
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        100.0, 
+                                        400.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0, 
+                                                560.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u540d\u6b21", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    50.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    7.575757575757576, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    100.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "100", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "e2c12221-6695-4285-a8a6-b82c4ee3f7c4"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                130.0, 
+                                                310.0
+                                            ], 
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2, 
+                                                    8
+                                                ]
+                                            }, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u540d\u5b57", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    240.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    36.36363636363637, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    220.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "\u540d\u5b57\u6700\u591a\u4e03\u4e2a\u5b57", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "037d4da8-b24b-488a-a9da-8705446a6658"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                420.0, 
+                                                140.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u573a\u6b21", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    470.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    71.21212121212122, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    100.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "10000", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "8bbc31d7-700f-4ea9-8292-206909ce4bcf"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                550.0, 
+                                                10.0
+                                            ], 
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2, 
+                                                    8
+                                                ]
+                                            }, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u5e73\u5747\u540d\u6b21", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    600.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    90.9090909090909, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    100.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "3.4", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "f2ae7f0d-0113-4ffb-b24b-a58043984799"
+                                        }
+                                    ], 
+                                    "event_list": [], 
+                                    "name": "\u6392\u540d\u5355\u98792", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            330.0, 
+                                            425.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            77.27272727272727
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            660.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "type": 7, 
+                                    "uid": "2348a7c3-145e-408e-95a4-6d5ef548b172", 
+                                    "visible": false
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        450.0, 
+                                        50.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0, 
+                                                560.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u540d\u6b21", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    50.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    7.575757575757576, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    100.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "100", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "1c2f58f8-3b10-4725-a933-362f3c927425"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                130.0, 
+                                                310.0
+                                            ], 
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2, 
+                                                    8
+                                                ]
+                                            }, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u540d\u5b57", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    240.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    36.36363636363637, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    220.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "\u540d\u5b57\u6700\u591a\u4e03\u4e2a\u5b57", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "581e1279-9199-497c-aa2b-3962dc9ee1eb"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                420.0, 
+                                                140.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u573a\u6b21", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    470.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    71.21212121212122, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    100.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "10000", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "3cccc586-5875-431a-ac42-92318137b5c4"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                550.0, 
+                                                10.0
+                                            ], 
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2, 
+                                                    8
+                                                ]
+                                            }, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u5e73\u5747\u540d\u6b21", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    600.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    90.9090909090909, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    100.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "3.4", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "3da2da50-f0ea-417c-a97b-533c74c5f3eb"
+                                        }
+                                    ], 
+                                    "event_list": [], 
+                                    "name": "\u6392\u540d\u5355\u98799", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            330.0, 
+                                            75.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            13.636363636363635
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            660.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "type": 7, 
+                                    "uid": "f72470b4-b1eb-4863-be4b-71d3622fcbe3", 
+                                    "visible": false
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        500.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0, 
+                                                560.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u540d\u6b21", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    50.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    7.575757575757576, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    100.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "100", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "9009311d-6b3f-4575-bfb8-169d96ad29da"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                130.0, 
+                                                310.0
+                                            ], 
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2, 
+                                                    8
+                                                ]
+                                            }, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u540d\u5b57", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    240.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    36.36363636363637, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    220.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "\u540d\u5b57\u6700\u591a\u4e03\u4e2a\u5b57", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "e7ea0d00-2b16-4b15-9b93-50c7662be21e"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                420.0, 
+                                                140.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u573a\u6b21", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    470.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    71.21212121212122, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    100.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "10000", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "34a1b9f3-dd68-4f07-a05a-6c9a2a0b45cc"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                0.0, 
+                                                0.0, 
+                                                550.0, 
+                                                10.0
+                                            ], 
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2, 
+                                                    8
+                                                ]
+                                            }, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKWeiBeiW7", 
+                                                    30
+                                                ]
+                                            }, 
+                                            "font_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    49, 
+                                                    18, 
+                                                    13, 
+                                                    255
+                                                ]
+                                            }, 
+                                            "name": "\u5e73\u5747\u540d\u6b21", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    600.0, 
+                                                    25.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    90.9090909090909, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    100.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "3.4", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "b8fed28e-7fff-49a2-a8c6-7373407d6d8e"
+                                        }
+                                    ], 
+                                    "event_list": [], 
+                                    "name": "\u6392\u540d\u5355\u987910", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            330.0, 
+                                            25.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            4.545454545454546
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            660.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "type": 7, 
+                                    "uid": "87a45e41-0062-4ed8-9424-9d6dad0c337a", 
+                                    "visible": false
+                                }
+                            ], 
+                            "clip_enabled": true, 
+                            "event_list": [], 
+                            "mask_image": 134077, 
+                            "name": "\u5916\u90e8\u8fb9\u6846", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    412.0, 
+                                    360.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    47.61904761904761
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    660.0, 
+                                    550.0
+                                ]
+                            }, 
+                            "type": 7, 
+                            "uid": "7bc23a3c-aaeb-437c-8275-41df8af1b9ed"
+                        }, 
+                        {
+                            "adapter_option": [
+                                false, 
+                                true, 
+                                false, 
+                                false, 
+                                686.0, 
+                                20.0, 
+                                82.0, 
+                                82.0
+                            ], 
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        false, 
+                                        false, 
+                                        true, 
+                                        false, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        560.0
+                                    ], 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "HKWeiBeiW7", 
+                                            30
+                                        ]
+                                    }, 
+                                    "font_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            255, 
+                                            234, 
+                                            203, 
+                                            255
+                                        ]
+                                    }, 
+                                    "name": "\u540d\u6b21", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            25.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            7.575757575757576, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            100.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "100", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "d4feecb3-376c-431d-b908-24293d0e823f"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        false, 
+                                        false, 
+                                        true, 
+                                        false, 
+                                        0.0, 
+                                        0.0, 
+                                        130.0, 
+                                        310.0
+                                    ], 
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "HKWeiBeiW7", 
+                                            30
+                                        ]
+                                    }, 
+                                    "font_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            255, 
+                                            234, 
+                                            203, 
+                                            255
+                                        ]
+                                    }, 
+                                    "name": "\u540d\u5b57", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            240.0, 
+                                            25.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            36.36363636363637, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            220.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "\u540d\u5b57\u6700\u591a\u4e03\u4e2a\u5b57", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "d5de1966-fd52-43cb-918b-b19193b022ad"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        false, 
+                                        false, 
+                                        true, 
+                                        false, 
+                                        0.0, 
+                                        0.0, 
+                                        420.0, 
+                                        140.0
+                                    ], 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "HKWeiBeiW7", 
+                                            30
+                                        ]
+                                    }, 
+                                    "font_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            255, 
+                                            234, 
+                                            203, 
+                                            255
+                                        ]
+                                    }, 
+                                    "name": "\u573a\u6b21", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            470.0, 
+                                            25.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            71.21212121212122, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            100.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "10000", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "89110478-11ff-4d14-bd7c-130069f4c204"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        false, 
+                                        false, 
+                                        true, 
+                                        false, 
+                                        0.0, 
+                                        0.0, 
+                                        550.0, 
+                                        10.0
+                                    ], 
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "HKWeiBeiW7", 
+                                            30
+                                        ]
+                                    }, 
+                                    "font_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            255, 
+                                            234, 
+                                            203, 
+                                            255
+                                        ]
+                                    }, 
+                                    "name": "\u5e73\u5747\u540d\u6b21", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            600.0, 
+                                            25.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            90.9090909090909, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            100.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "3.4", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "0a06b2ee-58ac-4efc-aa71-2d4a16cc8f5a"
+                                }
+                            ], 
+                            "event_list": [], 
+                            "name": "\u6392\u540d\u5355\u9879", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    412.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    5.952380952380952
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    660.0, 
+                                    50.0
+                                ]
+                            }, 
+                            "type": 7, 
+                            "uid": "37e604d0-d407-455b-8443-ec57aee146c9"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134277138, 
+                    "name": "\u6392\u884c\u9762\u677f", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            540.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            824.0, 
+                            756.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "920edf25-5978-43cf-b432-5dd20e4eef6a"
+                }
+            ], 
+            "event_list": [], 
+            "image": 134279310, 
+            "name": "\u80cc\u666f\u677f", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "swallow_touches": true, 
+            "type": 4, 
+            "uid": "05ddd555-0264-43eb-ba4d-465147657297"
+        }
+    ], 
+    "name": "\u5546\u4e1a\u5316-\u6392\u884c\u699c", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "25ffa8e7-5ff3-4ae3-94ef-a7a70ea27cdc", 
+    "visible": false, 
+    "zorder": 550
+}

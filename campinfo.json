@@ -1,0 +1,1254 @@
+{
+    "camp": {
+        "1": {
+            "camp_name": "$faction 1", 
+            "camp_name_en": "Faction 1", 
+            "camp_name_zh": "\u9635\u8425 1", 
+            "least_num": 0, 
+            "roles": [
+                1
+            ], 
+            "share_vision": true
+        }, 
+        "2": {
+            "camp_name": "$faction 2", 
+            "camp_name_en": "Faction 2", 
+            "camp_name_zh": "\u9635\u8425 2", 
+            "least_num": 0, 
+            "roles": [
+                2
+            ], 
+            "share_vision": true
+        }, 
+        "3": {
+            "camp_name": "$faction 3", 
+            "camp_name_en": "Faction 3", 
+            "camp_name_zh": "\u9635\u8425 3", 
+            "least_num": 0, 
+            "roles": [
+                3
+            ], 
+            "share_vision": false
+        }, 
+        "4": {
+            "camp_name": "$faction 4", 
+            "camp_name_en": "Faction 4", 
+            "camp_name_zh": "\u9635\u8425 4", 
+            "least_num": 0, 
+            "roles": [
+                4
+            ], 
+            "share_vision": false
+        }, 
+        "5": {
+            "camp_name": "$faction 5", 
+            "camp_name_en": "Faction 5", 
+            "camp_name_zh": "\u9635\u8425 5", 
+            "least_num": 0, 
+            "roles": [
+                5
+            ], 
+            "share_vision": false
+        }, 
+        "6": {
+            "camp_name": "$faction 6", 
+            "camp_name_en": "Faction 6", 
+            "camp_name_zh": "\u9635\u8425 6", 
+            "least_num": 0, 
+            "roles": [
+                6
+            ], 
+            "share_vision": false
+        }, 
+        "7": {
+            "camp_name": "$faction 7", 
+            "camp_name_en": "Faction 7", 
+            "camp_name_zh": "\u9635\u8425 7", 
+            "least_num": 0, 
+            "roles": [
+                7
+            ], 
+            "share_vision": true
+        }, 
+        "8": {
+            "camp_name": "$faction 8", 
+            "camp_name_en": "Faction 8", 
+            "camp_name_zh": "\u9635\u8425 8", 
+            "least_num": 0, 
+            "roles": [
+                8
+            ], 
+            "share_vision": true
+        }, 
+        "30": {
+            "camp_name": "$code_camp_referee", 
+            "camp_name_en": "Observer", 
+            "camp_name_zh": "\u88c1\u5224", 
+            "least_num": 0, 
+            "roles": [], 
+            "share_vision": true
+        }, 
+        "9999": {
+            "camp_name": "$faction 9999", 
+            "camp_name_en": "Neutral", 
+            "camp_name_zh": "\u4e2d\u7acb", 
+            "least_num": 0, 
+            "roles": [
+                31, 
+                32
+            ], 
+            "share_vision": true
+        }
+    }, 
+    "camp_limit": 1, 
+    "role": {
+        "1": {
+            "camp_id": 1, 
+            "role_color": "#FF0000", 
+            "role_name": "$player 1", 
+            "role_name_en": "Player 1", 
+            "role_name_zh": "\u73a9\u5bb6 1", 
+            "role_type": 1
+        }, 
+        "2": {
+            "camp_id": 2, 
+            "role_color": "#FF8000", 
+            "role_name": "$player 2", 
+            "role_name_en": "Player 2", 
+            "role_name_zh": "\u73a9\u5bb6 2", 
+            "role_type": 1
+        }, 
+        "3": {
+            "camp_id": 3, 
+            "role_color": "#FFFF00", 
+            "role_name": "$player 3", 
+            "role_name_en": "Player 3", 
+            "role_name_zh": "\u73a9\u5bb6 3", 
+            "role_type": 1
+        }, 
+        "4": {
+            "camp_id": 4, 
+            "role_color": "#590202", 
+            "role_name": "$player 4", 
+            "role_name_en": "Player 4", 
+            "role_name_zh": "\u73a9\u5bb6 4", 
+            "role_type": 1
+        }, 
+        "5": {
+            "camp_id": 5, 
+            "role_color": "#00FF00", 
+            "role_name": "$player 5", 
+            "role_name_en": "Player 5", 
+            "role_name_zh": "\u73a9\u5bb6 5", 
+            "role_type": 1
+        }, 
+        "6": {
+            "camp_id": 6, 
+            "role_color": "#EF35F2", 
+            "role_name": "$player 6", 
+            "role_name_en": "Player 6", 
+            "role_name_zh": "\u73a9\u5bb6 6", 
+            "role_type": 1
+        }, 
+        "7": {
+            "camp_id": 7, 
+            "role_color": "#401138", 
+            "role_name": "$player 7", 
+            "role_name_en": "Player 7", 
+            "role_name_zh": "\u73a9\u5bb6 7", 
+            "role_type": 1
+        }, 
+        "8": {
+            "camp_id": 8, 
+            "role_color": "#0080FF", 
+            "role_name": "$player 8", 
+            "role_name_en": "Player 8", 
+            "role_name_zh": "\u73a9\u5bb6 8", 
+            "role_type": 1
+        }, 
+        "31": {
+            "camp_id": 9999, 
+            "role_color": "#808080", 
+            "role_name": "$player 31", 
+            "role_name_en": "Neutral Hostile", 
+            "role_name_zh": "\u4e2d\u7acb \u654c\u5bf9", 
+            "role_type": 2
+        }, 
+        "32": {
+            "camp_id": 9999, 
+            "role_color": "#808080", 
+            "role_name": "$player 32", 
+            "role_name_en": "Neutral Friendly", 
+            "role_name_zh": "\u4e2d\u7acb \u53cb\u5584", 
+            "role_type": 2
+        }
+    }, 
+    "role_res_types": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "official_res_1", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "gold", 
+                    "icon_id": 100000, 
+                    "is_coin": true, 
+                    "is_editored": true, 
+                    "key": "official_res_1", 
+                    "maximun": [
+                        1073758208, 
+                        1073741824
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "gold"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_res_1", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u4eba\u53e3", 
+                    "icon_id": 100661, 
+                    "is_coin": true, 
+                    "is_editored": true, 
+                    "key": "custom_res_1", 
+                    "maximun": [
+                        1000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        -10000000, 
+                        0
+                    ], 
+                    "name": "\u4eba\u53e3"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_res_2", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u6728\u5934", 
+                    "icon_id": 100560, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "custom_res_2", 
+                    "maximun": [
+                        1000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u6728\u5934"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_res_3", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "custom_res_3", 
+                    "maximun": [
+                        1000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        -10000000, 
+                        0
+                    ], 
+                    "name": "\u4f7f\u7528\u4eba\u53e3"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_res_4", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "custom_res_4", 
+                    "maximun": [
+                        1000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        -10000000, 
+                        0
+                    ], 
+                    "name": "\u53ef\u7528\u4eba\u53e3"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_res_6", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u91d1\u5e01\u589e\u5e45", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "custom_res_6", 
+                    "maximun": [
+                        1000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u91d1\u5e01\u589e\u5e45"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "00uwwGZgEe2xDQD-OPx-RQ", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u9f99\u8109", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "00uwwGZgEe2xDQD-OPx-RQ", 
+                    "maximun": [
+                        1000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u9f99\u8109"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Gb49z2lYEe2FGwD-OPx-RS", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u6740\u654c\u5956\u52b1", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "Gb49z2lYEe2FGwD-OPx-RS", 
+                    "maximun": [
+                        1000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u6740\u654c\u5956\u52b1"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "KgyWoWlYEe2glQD-OPx-Ra", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u6740\u654c\u529f\u52cb", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "KgyWoWlYEe2glQD-OPx-Ra", 
+                    "maximun": [
+                        1000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u6740\u654c\u529f\u52cb"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Sp118HeREe2OEgD-OPx-Re", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u94dc\u94b1\u5956\u52b1", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "Sp118HeREe2OEgD-OPx-Re", 
+                    "maximun": [
+                        1000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u94dc\u94b1\u5956\u52b1"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "kAHlkYwnEe2ZowD-he-FnD", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u538b\u5c81\u94b1", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "kAHlkYwnEe2ZowD-he-FnD", 
+                    "maximun": [
+                        10000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u538b\u5c81\u94b1"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "aodvgMcIEe2GFgD-he-FnF", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u521d\u59cb\u653b\u51fb%", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "aodvgMcIEe2GFgD-he-FnF", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u521d\u59cb\u653b\u51fb%"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "nB0R0ccIEe2obgD-he-FnK", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u6cd5\u672f\u52a0\u6210%", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "nB0R0ccIEe2obgD-he-FnK", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u6cd5\u672f\u52a0\u6210%"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "uPR+EccIEe2cRQD-he-FnD", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u521d\u59cb\u91d1\u5e01", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "uPR+EccIEe2cRQD-he-FnD", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u521d\u59cb\u91d1\u5e01"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "JKtNIciSEe292gD-he-FnC", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u6740\u654c\u6570", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "JKtNIciSEe292gD-he-FnC", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u6740\u654c\u6570"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "V-1sgMiSEe2kOQD-he-FnM", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u521d\u59cb\u653b\u51fb\u529b", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "V-1sgMiSEe2kOQD-he-FnM", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u521d\u59cb\u653b\u51fb\u529b"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "dm918MiSEe2xWQD-he-FnM", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u521d\u59cb\u9b54\u6cd5", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "dm918MiSEe2xWQD-he-FnM", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u521d\u59cb\u9b54\u6cd5"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "ypAEgMjCEe2EtAD-he-FnO", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u989d\u5916\u6740\u654c\u6570", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "ypAEgMjCEe2EtAD-he-FnO", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u989d\u5916\u6740\u654c\u6570"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "OZ9G4clbEe2xKAD-he-FnG", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u9063\u6563\u91d1\u5e01%", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "OZ9G4clbEe2xKAD-he-FnG", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u9063\u6563\u91d1\u5e01%"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "LnRucMlcEe27sAD-he-FnI", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u53ec\u5524\u653b\u51fb", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "LnRucMlcEe27sAD-he-FnI", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u53ec\u5524\u653b\u51fb"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "tDVOgMlcEe2cZAD-he-FnG", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u521d\u59cb\u6218\u529f", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "tDVOgMlcEe2cZAD-he-FnG", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u521d\u59cb\u6218\u529f"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "3XnhwMlcEe2zjgD-he-FnJ", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u8fdb\u653b\u519b\u9977", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "3XnhwMlcEe2zjgD-he-FnJ", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u8fdb\u653b\u519b\u9977"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Pqg9j8lgEe2Z0wD-he-FnE", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u8fdb\u653b\u6740\u654c", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "Pqg9j8lgEe2Z0wD-he-FnE", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u8fdb\u653b\u6740\u654c"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "uKDpLslgEe2-LQD-he-FnJ", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u8fdb\u653b\u653b\u51fb", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "uKDpLslgEe2-LQD-he-FnJ", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u8fdb\u653b\u653b\u51fb"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "9n-Wz8lgEe2nCAD-he-FnF", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u8fdb\u653b\u9b54\u6cd5\u503c", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "9n-Wz8lgEe2nCAD-he-FnF", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u8fdb\u653b\u9b54\u6cd5\u503c"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "KlNbMMlhEe2UyQD-he-FnH", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u9b54\u6cd5\u6062\u590d\u901f\u5ea6", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "KlNbMMlhEe2UyQD-he-FnH", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u9b54\u6cd5\u6062\u590d\u901f\u5ea6"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "kLLNHsl-Ee2JNAD-he-FnJ", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u7269\u7406\u52a0\u6210%", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "kLLNHsl-Ee2JNAD-he-FnJ", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u7269\u7406\u52a0\u6210%"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "3LHMbsmAEe2mYgD-he-FnA", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u653b\u51fb\u56de\u84dd", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "3LHMbsmAEe2mYgD-he-FnA", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u653b\u51fb\u56de\u84dd"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "33hUj8mCEe29uAD-he-FnO", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u65bd\u6cd5\u56de\u84dd", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "33hUj8mCEe29uAD-he-FnO", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u65bd\u6cd5\u56de\u84dd"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "gUOM3smDEe2U7AD-he-FnP", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u653b\u51fb\u901f\u5ea6%", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "gUOM3smDEe2U7AD-he-FnP", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u653b\u51fb\u901f\u5ea6%"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "uw--gMmDEe2c-QD-he-FnE", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u51b7\u5374\u7f29\u51cf", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "uw--gMmDEe2c-QD-he-FnE", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u51b7\u5374\u7f29\u51cf"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "m-3IgM0zEe2TQgD-he-FnC", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u9f99\u8109\u6700\u5927\u503c", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "m-3IgM0zEe2TQgD-he-FnC", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u9f99\u8109\u6700\u5927\u503c"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "GYxlns60Ee2pSQD-he-FnN", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u719f\u7ec3\u5ea6", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "GYxlns60Ee2pSQD-he-FnN", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u719f\u7ec3\u5ea6"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "JgN3sM60Ee2D7gD-he-FnD", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u5929\u8d4b\u70b9", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "JgN3sM60Ee2D7gD-he-FnD", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u5929\u8d4b\u70b9"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "rUzeoc7XEe2zgQD-he-FnB", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u5730\u56fe\u7b49\u7ea7", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "rUzeoc7XEe2zgQD-he-FnB", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u5730\u56fe\u7b49\u7ea7"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "OiBaT87YEe2dbAD-he-FnB", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u719f\u7ec3\u5ea6\u83b7\u53d6%", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "OiBaT87YEe2dbAD-he-FnB", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u719f\u7ec3\u5ea6\u83b7\u53d6%"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "E8WDAM+oEe2cUAD-he-FnE", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u51cf\u63a7\u65f6\u95f4%", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "E8WDAM+oEe2cUAD-he-FnE", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        -100000, 
+                        0
+                    ], 
+                    "name": "\u51cf\u63a7\u65f6\u95f4%"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "1X7OsM+uEe2PVgD-he-FnI", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u53ec\u5524\u65f6\u95f4", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "1X7OsM+uEe2PVgD-he-FnI", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u53ec\u5524\u65f6\u95f4"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "YIlxQM+vEe2gmgD-he-FnL", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u7269\u7406\u4f24\u5bb3", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "YIlxQM+vEe2gmgD-he-FnL", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u7269\u7406\u4f24\u5bb3"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "eW2qT8+vEe2DUwD-he-FnL", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u6cd5\u672f\u4f24\u5bb3", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "eW2qT8+vEe2DUwD-he-FnL", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u6cd5\u672f\u4f24\u5bb3"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Iwn9wNKZEe2HTQD-he-FnJ", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u53ec\u5524\u653b\u51fb%", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "Iwn9wNKZEe2HTQD-he-FnJ", 
+                    "maximun": [
+                        10000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u53ec\u5524\u653b\u51fb%"
+                }
+            ]
+        }
+    ]
+}

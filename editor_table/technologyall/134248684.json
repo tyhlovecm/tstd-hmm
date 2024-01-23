@@ -1,0 +1,407 @@
+{
+    "_custom_": true, 
+    "_ref_": 134248684, 
+    "affect_all": false, 
+    "affect_tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "cells": [
+        [
+            1, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 100000, 
+                "level": 1, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            2, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 2, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            3, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 3, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            4, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 4, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            5, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 5, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            6, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 6, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            7, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 7, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            8, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 8, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            9, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 9, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            10, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 10, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            11, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 11, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            12, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 12, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            13, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 13, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            14, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 14, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            15, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 15, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            16, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 16, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            17, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 17, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            18, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 18, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            19, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 19, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            20, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 20, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            21, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 21, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            22, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 22, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            23, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 23, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            24, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 24, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            25, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 25, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            26, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 26, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            27, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 27, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            28, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 28, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            29, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 29, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            30, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 30, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            31, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 31, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            32, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 32, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            33, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 33, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            34, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 34, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ], 
+        [
+            35, 
+            {
+                "attr_list": [], 
+                "buy_res_list": [], 
+                "icon": 10000, 
+                "level": 35, 
+                "name": 724924902, 
+                "precondition_list": []
+            }
+        ]
+    ], 
+    "description": -634131479, 
+    "key": 134248684, 
+    "kv": {}, 
+    "max_lv": 35, 
+    "name": 724924902, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "uid": "134248684"
+}

@@ -1,0 +1,1182 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                true, 
+                false, 
+                439.0, 
+                202.49725341796875, 
+                460.11412048339844, 
+                184.11412048339844
+            ], 
+            "bg_image": 999, 
+            "block_scrolling": true, 
+            "cap_insets": {
+                "__tuple__": true, 
+                "items": [
+                    75, 
+                    0, 
+                    1695, 
+                    96
+                ]
+            }, 
+            "children": [
+                {
+                    "adapter_option": [
+                        false, 
+                        false, 
+                        true, 
+                        false, 
+                        -4.14, 
+                        4.14, 
+                        0.0, 
+                        -61.96
+                    ], 
+                    "bold": true, 
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                1.0, 
+                                -1.0, 
+                                0.0, 
+                                0.0
+                            ], 
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKWeiBeiW7", 
+                                    24
+                                ]
+                            }, 
+                            "name": "1d", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    650.0, 
+                                    16.5
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    47.14285714285714
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1300.0, 
+                                    35.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "1. \u5bfc\u5165\u4e09\u5f20\u8868\u683c", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "d789d6a7-dbb0-4f86-ac4c-d69ffed55d73"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "HKWeiBeiW7", 
+                            24
+                        ]
+                    }, 
+                    "font_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            7, 
+                            2, 
+                            2, 
+                            255
+                        ]
+                    }, 
+                    "label_effect": {
+                        "__tuple__": true, 
+                        "items": [
+                            true, 
+                            false, 
+                            false, 
+                            false
+                        ]
+                    }, 
+                    "name": "1", 
+                    "opacity": 0.0, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            650.0, 
+                            17.5
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.94955233156898, 
+                            3.9908529961114514
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1300.0, 
+                            35.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "1. \u5bfc\u5165\u4e09\u5f20\u8868\u683c", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "e7ec5ab5-6bd2-4537-b2c8-6635a7120458"
+                }, 
+                {
+                    "bold": true, 
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                0.0, 
+                                0.0, 
+                                0.0, 
+                                0.0
+                            ], 
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKWeiBeiW7", 
+                                    24
+                                ]
+                            }, 
+                            "name": "2d", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    650.0, 
+                                    17.5
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1300.0, 
+                                    35.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "2. \u5c06\u6d88\u606f\u5217\u8868ui.json\u653e\u5165\u5730\u56fe\u7684UI\u6587\u4ef6\u5939\u91cc", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "0a838963-5c16-4751-bf63-73e4f83e3d24"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "HKWeiBeiW7", 
+                            24
+                        ]
+                    }, 
+                    "font_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0, 
+                            255
+                        ]
+                    }, 
+                    "label_effect": {
+                        "__tuple__": true, 
+                        "items": [
+                            true, 
+                            false, 
+                            false, 
+                            false
+                        ]
+                    }, 
+                    "name": "2", 
+                    "opacity": 0.0, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            650.0, 
+                            21.639999389648438
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.94955233156898, 
+                            4.934974651430197
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1300.0, 
+                            35.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "2. \u5c06\u6d88\u606f\u5217\u8868ui.json\u653e\u5165\u5730\u56fe\u7684UI\u6587\u4ef6\u5939\u91cc", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "e6fe89cb-a64a-48c4-8efd-269358b6447e"
+                }, 
+                {
+                    "bold": true, 
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                0.0, 
+                                0.0, 
+                                0.0, 
+                                0.0
+                            ], 
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKWeiBeiW7", 
+                                    24
+                                ]
+                            }, 
+                            "name": "3d", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    650.0, 
+                                    17.5
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1300.0, 
+                                    35.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "3. \u5bfc\u5165\u89e6\u53d1", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "3a5fce9a-bb82-40f0-8056-3d5c86a59bf6"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "HKWeiBeiW7", 
+                            24
+                        ]
+                    }, 
+                    "font_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0, 
+                            255
+                        ]
+                    }, 
+                    "label_effect": {
+                        "__tuple__": true, 
+                        "items": [
+                            true, 
+                            false, 
+                            false, 
+                            false
+                        ]
+                    }, 
+                    "name": "3", 
+                    "opacity": 0.0, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            650.0, 
+                            21.639999389648438
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.94955233156898, 
+                            4.934974651430197
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1300.0, 
+                            35.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "3. \u5bfc\u5165\u89e6\u53d1", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "04039c88-c94b-475d-ad98-c482a07ef62e"
+                }, 
+                {
+                    "bold": true, 
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                0.0, 
+                                0.0, 
+                                0.0, 
+                                0.0
+                            ], 
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKWeiBeiW7", 
+                                    24
+                                ]
+                            }, 
+                            "name": "4d", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    650.0, 
+                                    17.5
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1300.0, 
+                                    35.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "4. \u63d0\u4f9b\u4e86\u6d4b\u8bd5\u89e6\u53d1\uff0c\u8f93\u5165\u6587\u5b57\u5728\u5de6\u4fa7\u663e\u793a\u5373\u6210\u529f", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "960d67e2-e61d-46c5-8a89-527fdf8e5745"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "HKWeiBeiW7", 
+                            24
+                        ]
+                    }, 
+                    "font_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0, 
+                            255
+                        ]
+                    }, 
+                    "label_effect": {
+                        "__tuple__": true, 
+                        "items": [
+                            true, 
+                            false, 
+                            false, 
+                            false
+                        ]
+                    }, 
+                    "name": "4", 
+                    "opacity": 0.0, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            650.0, 
+                            21.639999389648438
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.94955233156898, 
+                            4.934974651430197
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1300.0, 
+                            35.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "4. \u63d0\u4f9b\u4e86\u6d4b\u8bd5\u89e6\u53d1\uff0c\u8f93\u5165\u6587\u5b57\u5728\u5de6\u4fa7\u663e\u793a\u5373\u6210\u529f", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "eeef0735-9f35-4fc2-ad03-3fb1448c8252"
+                }, 
+                {
+                    "bold": true, 
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                0.0, 
+                                0.0, 
+                                0.0, 
+                                0.0
+                            ], 
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKWeiBeiW7", 
+                                    24
+                                ]
+                            }, 
+                            "name": "5d", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    650.0, 
+                                    17.5
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1300.0, 
+                                    35.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "4. \u63d0\u4f9b\u4e86\u6d4b\u8bd5\u89e6\u53d1\uff0c\u8f93\u5165\u6587\u5b57\u5728\u5de6\u4fa7\u663e\u793a\u5373\u6210\u529f", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "b199f7c5-7b27-44ab-8f8e-6b81a3fdcdfe"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "HKWeiBeiW7", 
+                            24
+                        ]
+                    }, 
+                    "font_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0, 
+                            255
+                        ]
+                    }, 
+                    "label_effect": {
+                        "__tuple__": true, 
+                        "items": [
+                            true, 
+                            false, 
+                            false, 
+                            false
+                        ]
+                    }, 
+                    "name": "5", 
+                    "opacity": 0.0, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            650.0, 
+                            21.639999389648438
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.94955233156898, 
+                            4.934974651430197
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1300.0, 
+                            35.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "4. \u63d0\u4f9b\u4e86\u6d4b\u8bd5\u89e6\u53d1\uff0c\u8f93\u5165\u6587\u5b57\u5728\u5de6\u4fa7\u663e\u793a\u5373\u6210\u529f", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "9f1a8379-79aa-40fe-aaf2-1de9e4601a55"
+                }, 
+                {
+                    "bold": true, 
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                0.0, 
+                                0.0, 
+                                0.0, 
+                                0.0
+                            ], 
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKWeiBeiW7", 
+                                    24
+                                ]
+                            }, 
+                            "name": "6d", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    650.0, 
+                                    17.5
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1300.0, 
+                                    35.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "4. \u63d0\u4f9b\u4e86\u6d4b\u8bd5\u89e6\u53d1\uff0c\u8f93\u5165\u6587\u5b57\u5728\u5de6\u4fa7\u663e\u793a\u5373\u6210\u529f", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "52476539-fb2d-412f-8044-f04626da5815"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "HKWeiBeiW7", 
+                            24
+                        ]
+                    }, 
+                    "font_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0, 
+                            255
+                        ]
+                    }, 
+                    "label_effect": {
+                        "__tuple__": true, 
+                        "items": [
+                            true, 
+                            false, 
+                            false, 
+                            false
+                        ]
+                    }, 
+                    "name": "6", 
+                    "opacity": 0.0, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            650.0, 
+                            21.639999389648438
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.94955233156898, 
+                            4.934974651430197
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1300.0, 
+                            35.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "4. \u63d0\u4f9b\u4e86\u6d4b\u8bd5\u89e6\u53d1\uff0c\u8f93\u5165\u6587\u5b57\u5728\u5de6\u4fa7\u663e\u793a\u5373\u6210\u529f", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "ef0fea12-64f9-48a3-8269-e61092641223"
+                }, 
+                {
+                    "bold": true, 
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                0.0, 
+                                0.0, 
+                                0.0, 
+                                0.0
+                            ], 
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKWeiBeiW7", 
+                                    24
+                                ]
+                            }, 
+                            "name": "7d", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    650.0, 
+                                    17.5
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1300.0, 
+                                    35.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "4. \u63d0\u4f9b\u4e86\u6d4b\u8bd5\u89e6\u53d1\uff0c\u8f93\u5165\u6587\u5b57\u5728\u5de6\u4fa7\u663e\u793a\u5373\u6210\u529f", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "9a338730-5575-43c8-b9dc-7c7978c75da4"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "HKWeiBeiW7", 
+                            24
+                        ]
+                    }, 
+                    "font_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0, 
+                            255
+                        ]
+                    }, 
+                    "label_effect": {
+                        "__tuple__": true, 
+                        "items": [
+                            true, 
+                            false, 
+                            false, 
+                            false
+                        ]
+                    }, 
+                    "name": "7", 
+                    "opacity": 0.0, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            650.0, 
+                            21.639999389648438
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.94955233156898, 
+                            4.934974651430197
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1300.0, 
+                            35.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "4. \u63d0\u4f9b\u4e86\u6d4b\u8bd5\u89e6\u53d1\uff0c\u8f93\u5165\u6587\u5b57\u5728\u5de6\u4fa7\u663e\u793a\u5373\u6210\u529f", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "ae549e67-f65e-4933-a88e-0aee830e5a83"
+                }, 
+                {
+                    "bold": true, 
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                0.0, 
+                                0.0, 
+                                0.0, 
+                                0.0
+                            ], 
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKWeiBeiW7", 
+                                    24
+                                ]
+                            }, 
+                            "name": "8d", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    650.0, 
+                                    17.5
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1300.0, 
+                                    35.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "4. \u63d0\u4f9b\u4e86\u6d4b\u8bd5\u89e6\u53d1\uff0c\u8f93\u5165\u6587\u5b57\u5728\u5de6\u4fa7\u663e\u793a\u5373\u6210\u529f", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "e15ff131-2906-4aef-b3dc-f06727d82b3f"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "HKWeiBeiW7", 
+                            24
+                        ]
+                    }, 
+                    "font_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0, 
+                            255
+                        ]
+                    }, 
+                    "label_effect": {
+                        "__tuple__": true, 
+                        "items": [
+                            true, 
+                            false, 
+                            false, 
+                            false
+                        ]
+                    }, 
+                    "name": "8", 
+                    "opacity": 0.0, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            650.0, 
+                            21.639999389648438
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.94955233156898, 
+                            4.934974651430197
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1300.0, 
+                            35.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "4. \u63d0\u4f9b\u4e86\u6d4b\u8bd5\u89e6\u53d1\uff0c\u8f93\u5165\u6587\u5b57\u5728\u5de6\u4fa7\u663e\u793a\u5373\u6210\u529f", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "469069c0-11cc-4697-8542-0475b29398c2"
+                }, 
+                {
+                    "bold": true, 
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                0.0, 
+                                0.0, 
+                                0.0, 
+                                0.0
+                            ], 
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKWeiBeiW7", 
+                                    24
+                                ]
+                            }, 
+                            "font_color": {
+                                "__tuple__": true, 
+                                "items": [
+                                    255, 
+                                    255, 
+                                    255, 
+                                    255
+                                ]
+                            }, 
+                            "name": "9d", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    650.0, 
+                                    17.5
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1300.0, 
+                                    35.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "4. \u63d0\u4f9b\u4e86\u6d4b\u8bd5\u89e6\u53d1\uff0c\u8f93\u5165\u6587\u5b57\u5728\u5de6\u4fa7\u663e\u793a\u5373\u6210\u529f", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "77394337-8cf5-4706-a600-c6ad23fe28c7"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "HKWeiBeiW7", 
+                            24
+                        ]
+                    }, 
+                    "font_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0, 
+                            255
+                        ]
+                    }, 
+                    "label_effect": {
+                        "__tuple__": true, 
+                        "items": [
+                            true, 
+                            false, 
+                            false, 
+                            false
+                        ]
+                    }, 
+                    "name": "9", 
+                    "opacity": 0.0, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            650.0, 
+                            411.19000244140625
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.94955233156898, 
+                            93.77136304082065
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1300.0, 
+                            35.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "4. \u63d0\u4f9b\u4e86\u6d4b\u8bd5\u89e6\u53d1\uff0c\u8f93\u5165\u6587\u5b57\u5728\u5de6\u4fa7\u663e\u793a\u5373\u6210\u529f", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "263a85fc-a493-42f0-ba00-9f1eefa1b52a"
+                }, 
+                {
+                    "bold": true, 
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                0.0, 
+                                0.0, 
+                                0.0, 
+                                0.0
+                            ], 
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKWeiBeiW7", 
+                                    24
+                                ]
+                            }, 
+                            "name": "10d", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    650.0, 
+                                    17.5
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1300.0, 
+                                    35.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "4. \u63d0\u4f9b\u4e86\u6d4b\u8bd5\u89e6\u53d1\uff0c\u8f93\u5165\u6587\u5b57\u5728\u5de6\u4fa7\u663e\u793a\u5373\u6210\u529f", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "88911d2a-6130-4fbb-846a-038c52e02b92"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "HKWeiBeiW7", 
+                            24
+                        ]
+                    }, 
+                    "font_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0, 
+                            255
+                        ]
+                    }, 
+                    "label_effect": {
+                        "__tuple__": true, 
+                        "items": [
+                            true, 
+                            false, 
+                            false, 
+                            false
+                        ]
+                    }, 
+                    "name": "10", 
+                    "opacity": 0.0, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            650.0, 
+                            21.639999389648438
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.94955233156898, 
+                            4.934974651430197
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1300.0, 
+                            35.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "4. \u63d0\u4f9b\u4e86\u6d4b\u8bd5\u89e6\u53d1\uff0c\u8f93\u5165\u6587\u5b57\u5728\u5de6\u4fa7\u663e\u793a\u5373\u6210\u529f", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "b875aaa5-dcd3-438f-b5b1-4d9da50f6b70"
+                }
+            ], 
+            "event_list": [], 
+            "layout_reverse": true, 
+            "layout_type": 1, 
+            "name": "\u6587\u5b57\u5217\u8868", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    1098.0, 
+                    421.7486267089844
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    57.1875, 
+                    39.0507987693504
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1275.7717590332031, 
+                    438.50274658203125
+                ]
+            }, 
+            "size_change_according_children": true, 
+            "type": 10, 
+            "uid": "92a6dedc-5d95-4e52-bfda-1579aa7de8b1"
+        }
+    ], 
+    "name": "\u6d88\u606f\u5217\u8868", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "4b5e6e79-3a22-4075-90c0-e6555650596d", 
+    "visible": true, 
+    "zorder": 400
+}
