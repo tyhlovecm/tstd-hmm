@@ -1,0 +1,28 @@
+{
+    "column_width": {}, 
+    "table_data": {
+        "data": [
+            [
+                "key", 
+                "\u5f00\u59cb\u65f6\u95f4", 
+                "\u5f53\u5c40\u73a9\u5bb6\u6570", 
+                "\u5f53\u5c40\u6392\u540d", 
+                "\u7ed3\u675f\u65f6\u95f4", 
+                "\u82f1\u96c4ID"
+            ], 
+            [
+                "int", 
+                "int", 
+                "int", 
+                "int", 
+                "int", 
+                "int"
+            ]
+        ], 
+        "key": [
+            0
+        ]
+    }, 
+    "table_type": 0, 
+    "tid": "6c27f494-3da8-497d-a88d-d8016e25ef25"
+}
